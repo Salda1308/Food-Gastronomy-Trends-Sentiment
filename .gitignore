@@ -1,0 +1,39 @@
+# ── Credenciales — nunca subir ────────────────────────────────────────────────
+.env
+
+# ── Datos del datalake — generados por el pipeline, pueden ser GB ─────────────
+datalake_bronze/
+datalake_silver/
+datalake_gold/
+
+# ── Logs de Airflow — se crean solos al correr Docker ─────────────────────────
+logs/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+
+# ── IDEs ──────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+
+# ── Archivos grandes ──────────────────────────────────────────────────────────
+pyspark-*.tar.gz
+
+# ── Airflow interno ───────────────────────────────────────────────────────────
+airflow.cfg
+airflow.db
+standalone_admin_password.txt
+
+# ── Claude Code ───────────────────────────────────────────────────────────────
+CLAUDE.md
+.claude/
+docs/superpowers/

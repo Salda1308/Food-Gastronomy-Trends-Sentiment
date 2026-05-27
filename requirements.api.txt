@@ -1,0 +1,6 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+mangum==0.19.0
+pandas==2.2.1
+pyarrow==15.0.0
+s3fs==2024.3.1

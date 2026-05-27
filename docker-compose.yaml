@@ -1,0 +1,143 @@
+services:
+  postgres:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  airflow-init:
+    build: .
+    depends_on:
+      - postgres
+    env_file:
+      - .env
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: >-
+        postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+      AIRFLOW__WEBSERVER__SECRET_KEY: "this-is-a-stable-airflow-secret-key-change-me"
+      AIRFLOW__API__SECRET_KEY: "this-is-a-stable-airflow-secret-key-change-me"
+      SPOONACULAR_API_KEY: ${SPOONACULAR_API_KEY}
+      PYTHONPATH: /opt/airflow/dags
+      # Defines the fs_default connection via env var so it is available without
+      # needing a separate airflow connections add command or UI setup.
+      AIRFLOW_CONN_FS_DEFAULT: '{"conn_type": "fs", "extra": {"path": "/opt/airflow/datalake/bronze"}}'
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./datalake_bronze:/opt/airflow/datalake/bronze
+      - ./datalake_silver:/opt/airflow/datalake/silver
+      - ./datalake_gold:/opt/airflow/datalake/gold
+    command: >
+      bash -c "airflow db migrate &&
+      airflow users create
+      --username admin --firstname Air --lastname Flow
+      --role Admin --email admin@example.com
+      --password admin || true"
+
+  airflow-webserver:
+    build: .
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+    env_file:
+      - .env
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: >-
+        postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+      AIRFLOW__WEBSERVER__SECRET_KEY: "this-is-a-stable-airflow-secret-key-change-me"
+      AIRFLOW__API__SECRET_KEY: "this-is-a-stable-airflow-secret-key-change-me"
+      SPOONACULAR_API_KEY: ${SPOONACULAR_API_KEY}
+      PYTHONPATH: /opt/airflow/dags
+      AIRFLOW_CONN_FS_DEFAULT: '{"conn_type": "fs", "extra": {"path": "/opt/airflow/datalake/bronze"}}'
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./datalake_bronze:/opt/airflow/datalake/bronze
+      - ./datalake_silver:/opt/airflow/datalake/silver
+      - ./datalake_gold:/opt/airflow/datalake/gold
+    command: >
+      bash -c "rm -f /opt/airflow/airflow-webserver.pid &&
+      exec airflow webserver"
+
+  airflow-scheduler:
+    build: .
+    hostname: airflow-scheduler
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+    env_file:
+      - .env
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: >-
+        postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+      AIRFLOW__WEBSERVER__SECRET_KEY: "this-is-a-stable-airflow-secret-key-change-me"
+      AIRFLOW__API__SECRET_KEY: "this-is-a-stable-airflow-secret-key-change-me"
+      SPOONACULAR_API_KEY: ${SPOONACULAR_API_KEY}
+      PYTHONPATH: /opt/airflow/dags
+      AIRFLOW_CONN_FS_DEFAULT: '{"conn_type": "fs", "extra": {"path": "/opt/airflow/datalake/bronze"}}'
+      # socket:gethostname honours the hostname: setting above so task instances
+      # record "airflow-scheduler" — makes log-fetch URLs valid (http://airflow-scheduler:8793/…)
+      AIRFLOW__CORE__HOSTNAME_CALLABLE: "socket:gethostname"
+      # PySpark / Java — required for the Gold DAG's Spark tasks
+      JAVA_HOME: "/usr/lib/jvm/default-java"
+      PYSPARK_PYTHON: "python3"
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./datalake_bronze:/opt/airflow/datalake/bronze
+      - ./datalake_silver:/opt/airflow/datalake/silver
+      - ./datalake_gold:/opt/airflow/datalake/gold
+    command: >
+      bash -c "rm -f /opt/airflow/airflow-scheduler.pid &&
+      exec airflow scheduler"
+
+  governance-dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile.dashboard
+    command: python dashboard/governance_app.py
+    ports:
+      - "8050:8050"
+    volumes:
+      - ./datalake_gold:/app/datalake_gold
+    environment:
+      GOLD_BASE: /app/datalake_gold
+
+  storytelling-dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile.dashboard
+    command: python dashboard/storytelling_app.py
+    ports:
+      - "8051:8051"
+    volumes:
+      - ./datalake_gold:/app/datalake_gold
+    environment:
+      GOLD_BASE: /app/datalake_gold
+
+  gastronomy-api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./datalake_gold:/app/datalake_gold
+    environment:
+      GOLD_BASE: /app/datalake_gold
+
+volumes:
+  pgdata:
