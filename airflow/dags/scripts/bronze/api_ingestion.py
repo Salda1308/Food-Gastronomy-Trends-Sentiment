@@ -9,13 +9,27 @@ from dotenv import load_dotenv
 # Load environment variables from .env file
 load_dotenv()
 
-# Load API key from environment variable
-API_KEY = os.getenv('SPOONACULAR_API_KEY')
-if not API_KEY:
-    print("Warning: SPOONACULAR_API_KEY environment variable not found.")
+def _load_api_keys() -> list[str]:
+    """Collect SPOONACULAR_API_KEY, SPOONACULAR_API_KEY_2, _3, … from the environment."""
+    keys = []
+    first = os.getenv("SPOONACULAR_API_KEY", "")
+    if first:
+        keys.append(first)
+    i = 2
+    while True:
+        k = os.getenv(f"SPOONACULAR_API_KEY_{i}", "")
+        if not k:
+            break
+        keys.append(k)
+        i += 1
+    if not keys:
+        print("Warning: No SPOONACULAR_API_KEY found in environment variables.")
+    else:
+        print(f"[api_ingestion] Loaded {len(keys)} Spoonacular API key(s).")
+    return keys
 
 
-api_client = SpoonacularAPI(API_KEY)
+api_client = SpoonacularAPI(_load_api_keys())
 
 def cargar_local(filename: str):
     """Read if a JSON already exists."""
