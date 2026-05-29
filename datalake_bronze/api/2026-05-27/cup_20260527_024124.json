@@ -1,0 +1,2046 @@
+{
+    "results": [
+        {
+            "id": 645246,
+            "image": "https://img.spoonacular.com/recipes/645246-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Graveyard Cups",
+            "readyInMinutes": 30,
+            "servings": 10,
+            "sourceUrl": "https://www.foodista.com/recipe/QVMTN5VX/graveyard-cups",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 15,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 1,
+            "healthScore": 1.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 118.52,
+            "extendedIngredients": [
+                {
+                    "id": 18166,
+                    "aisle": "Sweet Snacks",
+                    "image": "oreos.png",
+                    "consistency": "SOLID",
+                    "name": "chocolate sandwich cookies",
+                    "nameClean": "chocolate sandwich cookies",
+                    "original": "1 1/2 cups crushed chocolate sandwich cookies",
+                    "originalName": "crushed chocolate sandwich cookies",
+                    "amount": 1.5,
+                    "unit": "cups",
+                    "meta": [
+                        "crushed"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 240.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 10118192,
+                    "aisle": "Sweet Snacks",
+                    "image": "shortbread-cookies.jpg",
+                    "consistency": "SOLID",
+                    "name": "pepperidge farm milano cookies",
+                    "nameClean": "pepperidge farm milano cookies",
+                    "original": "10 Pepperidge Farm Milano cookies",
+                    "originalName": "Pepperidge Farm Milano cookies",
+                    "amount": 10.0,
+                    "unit": "",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 10.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 10.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 98881,
+                    "aisle": "Baking",
+                    "image": "food-coloring.png",
+                    "consistency": "SOLID",
+                    "name": "decorating gel",
+                    "nameClean": "decorating gel",
+                    "original": "decorating gel",
+                    "originalName": "decorating gel",
+                    "amount": 10.0,
+                    "unit": "servings",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 10.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 10.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                },
+                {
+                    "id": 93642,
+                    "aisle": "Sweet Snacks",
+                    "image": "gummy-worms.jpg",
+                    "consistency": "SOLID",
+                    "name": "gummy worms",
+                    "nameClean": "gummy worms",
+                    "original": "20 gummy worms",
+                    "originalName": "gummy worms",
+                    "amount": 20.0,
+                    "unit": "",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 20.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 20.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 19184,
+                    "aisle": "Baking",
+                    "image": "chocolate-pudding.jpg",
+                    "consistency": "SOLID",
+                    "name": "chocolate pudding",
+                    "nameClean": "chocolate pudding",
+                    "original": "1 package instant chocolate pudding",
+                    "originalName": "instant chocolate pudding",
+                    "amount": 1.0,
+                    "unit": "package",
+                    "meta": [
+                        "instant"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "pkg",
+                            "unitLong": "package"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "pkg",
+                            "unitLong": "package"
+                        }
+                    }
+                },
+                {
+                    "id": 1077,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "milk.png",
+                    "consistency": "LIQUID",
+                    "name": "milk",
+                    "nameClean": "milk",
+                    "original": "2 cups cold milk",
+                    "originalName": "cold milk",
+                    "amount": 2.0,
+                    "unit": "cups",
+                    "meta": [
+                        "cold"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 488.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 42135,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "whipped-cream.jpg",
+                    "consistency": "SOLID",
+                    "name": "whipped topping",
+                    "nameClean": "whipped topping",
+                    "original": "8 oz. whipped topping",
+                    "originalName": "whipped topping",
+                    "amount": 8.0,
+                    "unit": "oz",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 8.0,
+                            "unitShort": "oz",
+                            "unitLong": "ounces"
+                        },
+                        "metric": {
+                            "amount": 226.796,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                }
+            ],
+            "summary": "If you want to add more <b>Mediterranean</b> recipes to your recipe box, Graveyard Cups might be a recipe you should try. This recipe serves 10. One portion of this dish contains roughly <b>6g of protein</b>, <b>12g of fat</b>, and a total of <b>345 calories</b>. For <b>$1.19 per serving</b>, this recipe <b>covers 6%</b> of your daily requirements of vitamins and minerals. Not a lot of people really liked this side dish. It will be a hit at your <b>Halloween</b> event. If you have gummy worms, chocolate pudding, decorating gel, and a few other ingredients on hand, you can make it. 1 person were glad they tried this recipe. It is brought to you by Foodista. From preparation to the plate, this recipe takes around <b>30 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 18%</b>. This score is not so spectacular. Similar recipes are <a href=\"https://spoonacular.com/recipes/graveyard-brownies-545371\">Graveyard Brownies</a>, <a href=\"https://spoonacular.com/recipes/ghosts-in-the-graveyard-545190\">Ghosts in the Graveyard</a>, and <a href=\"https://spoonacular.com/recipes/graveyard-cupcakes-63922\">Graveyard Cupcakes</a>.",
+            "cuisines": [
+                "Mediterranean",
+                "Italian",
+                "European"
+            ],
+            "dishTypes": [
+                "side dish"
+            ],
+            "diets": [],
+            "occasions": [
+                "halloween"
+            ],
+            "instructions": "<ol><li>Prepare pudding according to package instructions. Let stand 5 minutes to thicken.</li><li>Stir in whipped topping. and 1/2 cup of the crushed cookies.</li><li>Spoon 1/2 of the crushed cookies equally into the 10 cups. Spoon pudding on top, then top each cup with the remaining crushed cookies.</li><li>Top with 2 gummy worms.</li><li>To make the tombstones, write \"Boo\" or \"RIP\" on each Milano cookie with the decorating gel.</li><li>Carefully insert one cookie into each pot.</li><li>Chill until ready to serve.</li></ol>",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Prepare pudding according to package instructions.",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 2,
+                            "step": "Let stand 5 minutes to thicken.Stir in whipped topping. and 1/2 cup of the crushed cookies.Spoon 1/2 of the crushed cookies equally into the 10 cups. Spoon pudding on top, then top each cup with the remaining crushed cookies.Top with 2 gummy worms.To make the tombstones, write \"Boo\" or \"RIP\" on each Milano cookie with the decorating gel.Carefully insert one cookie into each pot.Chill until ready to serve.",
+                            "ingredients": [
+                                {
+                                    "id": 42135,
+                                    "name": "whipped topping",
+                                    "localizedName": "whipped topping",
+                                    "image": "whipped-cream.jpg"
+                                },
+                                {
+                                    "id": 98881,
+                                    "name": "decorating gel",
+                                    "localizedName": "decorating gel",
+                                    "image": "food-coloring.png"
+                                },
+                                {
+                                    "id": 93642,
+                                    "name": "gummy worms",
+                                    "localizedName": "gummy worms",
+                                    "image": "gummy-worms.jpg"
+                                },
+                                {
+                                    "id": 10118192,
+                                    "name": "cookies",
+                                    "localizedName": "cookies",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/shortbread-cookies.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "localizedName": "pot",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/stock-pot.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 28.27220916748047,
+            "spoonacularSourceUrl": "https://spoonacular.com/graveyard-cups-645246"
+        },
+        {
+            "id": 660842,
+            "image": "https://img.spoonacular.com/recipes/660842-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Spanakopita Cups",
+            "readyInMinutes": 45,
+            "servings": 36,
+            "sourceUrl": "https://www.foodista.com/recipe/747T8S42/spanakopita-cups",
+            "vegetarian": true,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 5,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 10,
+            "healthScore": 4.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 59.0,
+            "extendedIngredients": [
+                {
+                    "id": 4053,
+                    "aisle": "Oil, Vinegar, Salad Dressing",
+                    "image": "olive-oil.jpg",
+                    "consistency": "LIQUID",
+                    "name": "olive oil",
+                    "nameClean": "olive oil",
+                    "original": "1/2 cup (120 ml) olive oil",
+                    "originalName": "1/2 cup olive oil",
+                    "amount": 120.0,
+                    "unit": "ml",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 3.705,
+                            "unitShort": "fl. oz",
+                            "unitLong": "fl. ozs"
+                        },
+                        "metric": {
+                            "amount": 120.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 11291,
+                    "aisle": "Produce",
+                    "image": "spring-onions.jpg",
+                    "consistency": "SOLID",
+                    "name": "scallions",
+                    "nameClean": "scallions",
+                    "original": "1 bunch chopped scallions, white and green parts",
+                    "originalName": "chopped scallions, white and green parts",
+                    "amount": 1.0,
+                    "unit": "bunch",
+                    "meta": [
+                        "white",
+                        "green",
+                        "chopped"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "bunch",
+                            "unitLong": "bunch"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "bunch",
+                            "unitLong": "bunch"
+                        }
+                    }
+                },
+                {
+                    "id": 11463,
+                    "aisle": "Frozen",
+                    "image": "spinach-frozen.jpg",
+                    "consistency": "SOLID",
+                    "name": "spinach",
+                    "nameClean": "spinach",
+                    "original": "20 ounces (560 g) frozen chopped spinach, defrosted",
+                    "originalName": "20 ounces frozen chopped spinach, defrosted",
+                    "amount": 560.0,
+                    "unit": "g",
+                    "meta": [
+                        "frozen",
+                        "chopped"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.235,
+                            "unitShort": "lb",
+                            "unitLong": "pounds"
+                        },
+                        "metric": {
+                            "amount": 560.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 2045,
+                    "aisle": "Produce",
+                    "image": "dill.jpg",
+                    "consistency": "SOLID",
+                    "name": "dill",
+                    "nameClean": "dill",
+                    "original": "2 tablespoons chopped fresh dill",
+                    "originalName": "chopped fresh dill",
+                    "amount": 2.0,
+                    "unit": "tablespoons",
+                    "meta": [
+                        "fresh",
+                        "chopped"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 1123,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "egg.png",
+                    "consistency": "SOLID",
+                    "name": "eggs",
+                    "nameClean": "eggs",
+                    "original": "3 extra-large eggs, lightly beaten",
+                    "originalName": "eggs, lightly beaten",
+                    "amount": 3.0,
+                    "unit": "extra large",
+                    "meta": [
+                        "lightly beaten"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 3.0,
+                            "unitShort": "extra large",
+                            "unitLong": "extra larges"
+                        },
+                        "metric": {
+                            "amount": 3.0,
+                            "unitShort": "extra large",
+                            "unitLong": "extra larges"
+                        }
+                    }
+                },
+                {
+                    "id": 1019,
+                    "aisle": "Cheese",
+                    "image": "feta.png",
+                    "consistency": "SOLID",
+                    "name": "feta cheese",
+                    "nameClean": "feta cheese",
+                    "original": "7 ounces (200 g) feta cheese, crumbled",
+                    "originalName": "ounces feta cheese, crumbled",
+                    "amount": 200.0,
+                    "unit": "g",
+                    "meta": [
+                        "crumbled"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 7.055,
+                            "unitShort": "oz",
+                            "unitLong": "ounces"
+                        },
+                        "metric": {
+                            "amount": 200.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 1082047,
+                    "aisle": "Spices and Seasonings",
+                    "image": "salt.jpg",
+                    "consistency": "SOLID",
+                    "name": "kosher salt",
+                    "nameClean": "kosher salt",
+                    "original": "1/4 teaspoon kosher salt",
+                    "originalName": "kosher salt",
+                    "amount": 0.25,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 0.25,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 1002030,
+                    "aisle": "Spices and Seasonings",
+                    "image": "pepper.jpg",
+                    "consistency": "SOLID",
+                    "name": "pepper",
+                    "nameClean": "pepper",
+                    "original": "1/4 teaspoon freshly ground black pepper",
+                    "originalName": "freshly ground black pepper",
+                    "amount": 0.25,
+                    "unit": "teaspoon",
+                    "meta": [
+                        "black",
+                        "freshly ground"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 0.25,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 18338,
+                    "aisle": "Frozen",
+                    "image": "filo-dough.png",
+                    "consistency": "SOLID",
+                    "name": "phyllo dough",
+                    "nameClean": "phyllo dough",
+                    "original": "40 sheets (1 box) frozen phyllo dough (such as Pepperidge Farm), defrosted overnight in the refrigerator",
+                    "originalName": "(1 box) frozen phyllo dough (such as Pepperidge Farm), defrosted overnight in the refrigerator",
+                    "amount": 40.0,
+                    "unit": "sheets",
+                    "meta": [
+                        "frozen",
+                        "(1 box)",
+                        "(such as Pepperidge Farm)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 40.0,
+                            "unitShort": "sheets",
+                            "unitLong": "sheets"
+                        },
+                        "metric": {
+                            "amount": 40.0,
+                            "unitShort": "sheets",
+                            "unitLong": "sheets"
+                        }
+                    }
+                },
+                {
+                    "id": 1145,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "butter-sliced.jpg",
+                    "consistency": "SOLID",
+                    "name": "butter",
+                    "nameClean": "butter",
+                    "original": "1/2 pound (2 sticks, 226 g)) unsalted butter, melted",
+                    "originalName": "(2 sticks, 226 g)) unsalted butter, melted",
+                    "amount": 0.5,
+                    "unit": "pound",
+                    "meta": [
+                        "unsalted",
+                        "melted",
+                        "(2 sticks, 226 g)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "lb",
+                            "unitLong": "pounds"
+                        },
+                        "metric": {
+                            "amount": 226.796,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 18079,
+                    "aisle": "Pasta and Rice",
+                    "image": "breadcrumbs.jpg",
+                    "consistency": "SOLID",
+                    "name": "breadcrumbs",
+                    "nameClean": "breadcrumbs",
+                    "original": "1/2 cup plain dry breadcrumbs",
+                    "originalName": "plain dry breadcrumbs",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "meta": [
+                        "plain",
+                        "dry"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 54.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                }
+            ],
+            "summary": "Spanakopita Cups is a Mediterranean recipe that serves 36. One portion of this dish contains approximately <b>4g of protein</b>, <b>11g of fat</b>, and a total of <b>167 calories</b>. For <b>59 cents per serving</b>, this recipe <b>covers 9%</b> of your daily requirements of vitamins and minerals. It works well as an inexpensive hor d'oeuvre. 10 people have made this recipe and would make it again. This recipe from Foodista requires kosher salt, feta cheese, spinach, and breadcrumbs. It is a good option if you're following a <b>lacto ovo vegetarian</b> diet. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 36%</b>. This score is not so great. <a href=\"https://spoonacular.com/recipes/spanakopita-543953\">Spanakopita</a>, <a href=\"https://spoonacular.com/recipes/spanakopita-69627\">Spanakopita</a>, and <a href=\"https://spoonacular.com/recipes/spanakopita-1154366\">Spanakopita</a> are very similar to this recipe.",
+            "cuisines": [
+                "Mediterranean",
+                "European",
+                "Greek"
+            ],
+            "dishTypes": [
+                "side dish",
+                "antipasti",
+                "starter",
+                "snack",
+                "appetizer",
+                "antipasto",
+                "hor d'oeuvre"
+            ],
+            "diets": [
+                "lacto ovo vegetarian"
+            ],
+            "occasions": [],
+            "instructions": "Preheat your oven to 400 F.\nHeat oil in a pan on medium heat and add the scallions. Cook for about 5 minutes.\nSqueeze most of the water out of the spinach and mix with scallions, dill, eggs and feta cheese. Season the mixture with salt and pepper.\nKeep the phyllo dough sheets covered with a damp kitchen towel.\nUnfold 1 sheet of the phyllo dough. Brush the sheet with melted butter and sprinkle with breadcrumbs.\nRepeat the process by laying a second sheet of phyllo dough over the first sheet, brush it with melted butter and sprinkle with breadcrumbs until 4 sheets have been used.\nCut circles out of the dough that fit as a shell into mini muffin pans. Place the phyllo circles into the pan molds and fill with the spinach mixture.\nRepeat until all the spinach mixture is used.\nBake the spanakopita cups for 17 mins.",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Preheat your oven to 400 F.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg",
+                                    "temperature": {
+                                        "number": 400.0,
+                                        "unit": "Fahrenheit"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Heat oil in a pan on medium heat and add the scallions. Cook for about 5 minutes.",
+                            "ingredients": [
+                                {
+                                    "id": 11291,
+                                    "name": "green onions",
+                                    "localizedName": "green onions",
+                                    "image": "spring-onions.jpg"
+                                },
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 3,
+                            "step": "Squeeze most of the water out of the spinach and mix with scallions, dill, eggs and feta cheese. Season the mixture with salt and pepper.",
+                            "ingredients": [
+                                {
+                                    "id": 1102047,
+                                    "name": "salt and pepper",
+                                    "localizedName": "salt and pepper",
+                                    "image": "salt-and-pepper.jpg"
+                                },
+                                {
+                                    "id": 1019,
+                                    "name": "feta cheese",
+                                    "localizedName": "feta cheese",
+                                    "image": "feta.png"
+                                },
+                                {
+                                    "id": 11291,
+                                    "name": "green onions",
+                                    "localizedName": "green onions",
+                                    "image": "spring-onions.jpg"
+                                },
+                                {
+                                    "id": 10011457,
+                                    "name": "spinach",
+                                    "localizedName": "spinach",
+                                    "image": "spinach.jpg"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                },
+                                {
+                                    "id": 2045,
+                                    "name": "dill",
+                                    "localizedName": "dill",
+                                    "image": "dill.jpg"
+                                },
+                                {
+                                    "id": 1123,
+                                    "name": "egg",
+                                    "localizedName": "egg",
+                                    "image": "egg.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Keep the phyllo dough sheets covered with a damp kitchen towel.",
+                            "ingredients": [
+                                {
+                                    "id": 18338,
+                                    "name": "filo pastry",
+                                    "localizedName": "filo pastry",
+                                    "image": "filo-dough.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 221439,
+                                    "name": "kitchen towels",
+                                    "localizedName": "kitchen towels",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/dish-towel.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "step": "Unfold 1 sheet of the phyllo dough.",
+                            "ingredients": [
+                                {
+                                    "id": 18338,
+                                    "name": "filo pastry",
+                                    "localizedName": "filo pastry",
+                                    "image": "filo-dough.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 6,
+                            "step": "Brush the sheet with melted butter and sprinkle with breadcrumbs.",
+                            "ingredients": [
+                                {
+                                    "id": 18079,
+                                    "name": "breadcrumbs",
+                                    "localizedName": "breadcrumbs",
+                                    "image": "breadcrumbs.jpg"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 7,
+                            "step": "Repeat the process by laying a second sheet of phyllo dough over the first sheet, brush it with melted butter and sprinkle with breadcrumbs until 4 sheets have been used.",
+                            "ingredients": [
+                                {
+                                    "id": 18338,
+                                    "name": "filo pastry",
+                                    "localizedName": "filo pastry",
+                                    "image": "filo-dough.png"
+                                },
+                                {
+                                    "id": 18079,
+                                    "name": "breadcrumbs",
+                                    "localizedName": "breadcrumbs",
+                                    "image": "breadcrumbs.jpg"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 8,
+                            "step": "Cut circles out of the dough that fit as a shell into mini muffin pans.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "dough",
+                                    "localizedName": "dough",
+                                    "image": "pizza-dough"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 9,
+                            "step": "Place the phyllo circles into the pan molds and fill with the spinach mixture.",
+                            "ingredients": [
+                                {
+                                    "id": 10011457,
+                                    "name": "spinach",
+                                    "localizedName": "spinach",
+                                    "image": "spinach.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 10,
+                            "step": "Repeat until all the spinach mixture is used.",
+                            "ingredients": [
+                                {
+                                    "id": 10011457,
+                                    "name": "spinach",
+                                    "localizedName": "spinach",
+                                    "image": "spinach.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 11,
+                            "step": "Bake the spanakopita cups for 17 mins.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 17,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 45.823123931884766,
+            "spoonacularSourceUrl": "https://spoonacular.com/spanakopita-cups-660842"
+        },
+        {
+            "id": 1697893,
+            "image": "https://img.spoonacular.com/recipes/1697893-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Apple Cinnamon Oat Cups",
+            "readyInMinutes": 40,
+            "servings": 12,
+            "sourceUrl": "https://spoonacular.com/site-1642276932350",
+            "vegetarian": true,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 5,
+            "gaps": "no",
+            "preparationMinutes": 10,
+            "cookingMinutes": 30,
+            "aggregateLikes": 0,
+            "healthScore": 12.0,
+            "creditsText": "coffeebean",
+            "license": "spoonacular's terms",
+            "sourceName": "spoonacular",
+            "pricePerServing": 66.06,
+            "extendedIngredients": [
+                {
+                    "id": 99149,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "oat-milk.jpg",
+                    "consistency": "LIQUID",
+                    "name": "oat milk",
+                    "nameClean": "oat milk",
+                    "original": "1 1/2 cups oat milk",
+                    "originalName": "oat milk",
+                    "amount": 1.5,
+                    "unit": "cups",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 354.882,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 1123,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "egg.png",
+                    "consistency": "SOLID",
+                    "name": "eggs",
+                    "nameClean": "eggs",
+                    "original": "2 eggs",
+                    "originalName": "eggs",
+                    "amount": 2.0,
+                    "unit": "",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 19911,
+                    "aisle": "Cereal",
+                    "image": "maple-syrup.png",
+                    "consistency": "LIQUID",
+                    "name": "maple syrup",
+                    "nameClean": "maple syrup",
+                    "original": "1/2 cup maple syrup",
+                    "originalName": "maple syrup",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 161.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 9019,
+                    "aisle": "Canned and Jarred",
+                    "image": "applesauce.png",
+                    "consistency": "SOLID",
+                    "name": "applesauce",
+                    "nameClean": "applesauce",
+                    "original": "1/2 cup unsweetened applesauce",
+                    "originalName": "unsweetened applesauce",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "meta": [
+                        "unsweetened"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 122.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 8120,
+                    "aisle": "Cereal",
+                    "image": "rolled-oats.jpg",
+                    "consistency": "SOLID",
+                    "name": "old fashioned oats",
+                    "nameClean": "old fashioned oats",
+                    "original": "3 cups old fashioned oats",
+                    "originalName": "old fashioned oats",
+                    "amount": 3.0,
+                    "unit": "cups",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 3.0,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 243.243,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 18369,
+                    "aisle": "Baking",
+                    "image": "white-powder.jpg",
+                    "consistency": "SOLID",
+                    "name": "baking powder",
+                    "nameClean": "baking powder",
+                    "original": "1 teaspoon baking powder",
+                    "originalName": "baking powder",
+                    "amount": 1.0,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        }
+                    }
+                },
+                {
+                    "id": 1012010,
+                    "aisle": "Spices and Seasonings",
+                    "image": "cinnamon.jpg",
+                    "consistency": "SOLID",
+                    "name": "ground cinnamon",
+                    "nameClean": "ground cinnamon",
+                    "original": "1 1/2 teaspoons ground cinnamon",
+                    "originalName": "ground cinnamon",
+                    "amount": 1.5,
+                    "unit": "teaspoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 1.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 2050,
+                    "aisle": "Baking",
+                    "image": "vanilla-extract.jpg",
+                    "consistency": "LIQUID",
+                    "name": "vanilla extract",
+                    "nameClean": "vanilla extract",
+                    "original": "1/2 teaspoon vanilla extract",
+                    "originalName": "vanilla extract",
+                    "amount": 0.5,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 0.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 2047,
+                    "aisle": "Spices and Seasonings",
+                    "image": "salt.jpg",
+                    "consistency": "SOLID",
+                    "name": "salt",
+                    "nameClean": "salt",
+                    "original": "1/4 teaspoon salt",
+                    "originalName": "salt",
+                    "amount": 0.25,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 0.25,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 9003,
+                    "aisle": "Produce",
+                    "image": "apple.jpg",
+                    "consistency": "SOLID",
+                    "name": "apple",
+                    "nameClean": "apple",
+                    "original": "1 cup apple",
+                    "originalName": "apple",
+                    "amount": 1.0,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "cup",
+                            "unitLong": "cup"
+                        },
+                        "metric": {
+                            "amount": 125.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                }
+            ],
+            "summary": "Apple Cinnamon Oat Cups might be a good recipe to expand your side dish repertoire. One serving contains <b>151 calories</b>, <b>4g of protein</b>, and <b>2g of fat</b>. This dairy free and lacto ovo vegetarian recipe serves 12 and costs <b>66 cents per serving</b>. It is brought to you by spoonacular user <a href=\"/profile/coffeebean\">coffeebean</a>. A mixture of oat milk, baking powder, applesauce, and a handful of other ingredients are all it takes to make this recipe so scrumptious. From preparation to the plate, this recipe takes about <b>40 minutes</b>. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/vegan-baked-apples-with-oat-crumble-157111\">Vegan Baked Apples with Oat Crumble</a>, <a href=\"https://spoonacular.com/recipes/carrot-oat-muffins-637210\">Carrot Oat Muffins</a>, and <a href=\"https://spoonacular.com/recipes/garbanzo-oat-patties-644177\">Garbanzo Oat Patties</a>.",
+            "cuisines": [],
+            "dishTypes": [
+                "side dish"
+            ],
+            "diets": [
+                "dairy free",
+                "lacto ovo vegetarian"
+            ],
+            "occasions": [],
+            "instructions": "<ol><li>Preheat oven to 350°F. Grease your muffin pan.</li><li>Peel and chop your apple(s). You will need about 1 cup of chopped apple.</li><li>In a large bowl, whisk all ingredients except for the chopped apple.</li><li>Gently fold in the chopped apple.</li><li>Spoon batter evenly into muffin cups. Be careful that all the apple does not sink to the bottom, you want both liquid and apple pieces in each muffin.</li><li>Bake for 30 minutes.</li><li>Allow to cool before serving.</li></ol>",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Preheat oven to 350°F. Grease your muffin pan.Peel and chop your apple(s). You will need about 1 cup of chopped apple.In a large bowl, whisk all ingredients except for the chopped apple.Gently fold in the chopped apple.Spoon batter evenly into muffin cups. Be careful that all the apple does not sink to the bottom, you want both liquid and apple pieces in each muffin.",
+                            "ingredients": [
+                                {
+                                    "id": 9003,
+                                    "name": "apple",
+                                    "localizedName": "apple",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/apple.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404676,
+                                    "name": "muffin liners",
+                                    "localizedName": "muffin liners",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/muffin-or-cupcake-forms.png"
+                                },
+                                {
+                                    "id": 404671,
+                                    "name": "muffin tray",
+                                    "localizedName": "muffin tray",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/muffin-tray.jpg"
+                                },
+                                {
+                                    "id": 404661,
+                                    "name": "whisk",
+                                    "localizedName": "whisk",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/whisk.png"
+                                },
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                                },
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg",
+                                    "temperature": {
+                                        "number": 350.0,
+                                        "unit": "Fahrenheit"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Bake for 30 minutes.Allow to cool before serving.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 30,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 55.684261322021484,
+            "spoonacularSourceUrl": "https://spoonacular.com/apple-cinnamon-oat-cups-1697893"
+        },
+        {
+            "id": 663392,
+            "image": "https://img.spoonacular.com/recipes/663392-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Three-Cup Chicken",
+            "readyInMinutes": 45,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/436T6V4Y/3-cups-chicken",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 12,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 44,
+            "healthScore": 4.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 272.81,
+            "extendedIngredients": [
+                {
+                    "id": 2044,
+                    "aisle": "Produce",
+                    "image": "fresh-basil.jpg",
+                    "consistency": "SOLID",
+                    "name": "basil",
+                    "nameClean": "basil",
+                    "original": "2-3 leaves of basil, julienned",
+                    "originalName": "basil, julienned",
+                    "amount": 2.0,
+                    "unit": "leaves",
+                    "meta": [
+                        "julienned"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "leaf",
+                            "unitLong": "leaves"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "leaf",
+                            "unitLong": "leaves"
+                        }
+                    }
+                },
+                {
+                    "id": 11215,
+                    "aisle": "Produce",
+                    "image": "garlic.png",
+                    "consistency": "SOLID",
+                    "name": "bulb garlic",
+                    "nameClean": "bulb garlic",
+                    "original": "1 bulb garlic, separated into individual cloves, skins on",
+                    "originalName": "bulb garlic, separated into individual cloves, skins on",
+                    "amount": 1.0,
+                    "unit": "",
+                    "meta": [
+                        "separated"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 11216,
+                    "aisle": "Produce",
+                    "image": "ginger.png",
+                    "consistency": "SOLID",
+                    "name": "old ginger",
+                    "nameClean": "old ginger",
+                    "original": "3 slices old ginger",
+                    "originalName": "old ginger",
+                    "amount": 3.0,
+                    "unit": "slices",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 3.0,
+                            "unitShort": "slice",
+                            "unitLong": "slices"
+                        },
+                        "metric": {
+                            "amount": 3.0,
+                            "unitShort": "slice",
+                            "unitLong": "slices"
+                        }
+                    }
+                },
+                {
+                    "id": 43479,
+                    "aisle": "Alcoholic Beverages",
+                    "image": "fish-sauce.jpg",
+                    "consistency": "SOLID",
+                    "name": "rice wine",
+                    "nameClean": "rice wine",
+                    "original": "1 cup rice wine",
+                    "originalName": "rice wine",
+                    "amount": 1.0,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "cup",
+                            "unitLong": "cup"
+                        },
+                        "metric": {
+                            "amount": 240.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 4058,
+                    "aisle": "Ethnic Foods",
+                    "image": "sesame-oil.png",
+                    "consistency": "LIQUID",
+                    "name": "sesame oil",
+                    "nameClean": "sesame oil",
+                    "original": "1 cup sesame oil",
+                    "originalName": "sesame oil",
+                    "amount": 1.0,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "cup",
+                            "unitLong": "cup"
+                        },
+                        "metric": {
+                            "amount": 218.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 16124,
+                    "aisle": "Ethnic Foods",
+                    "image": "soy-sauce.jpg",
+                    "consistency": "LIQUID",
+                    "name": "soy sauce",
+                    "nameClean": "soy sauce",
+                    "original": "1 cup soy sauce",
+                    "originalName": "soy sauce",
+                    "amount": 1.0,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "cup",
+                            "unitLong": "cup"
+                        },
+                        "metric": {
+                            "amount": 232.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 11291,
+                    "aisle": "Produce",
+                    "image": "spring-onions.jpg",
+                    "consistency": "SOLID",
+                    "name": "spring onions",
+                    "nameClean": "spring onions",
+                    "original": "3 large bunches of spring onions, cut into 1 inch lengths",
+                    "originalName": "spring onions, cut into 1 inch lengths",
+                    "amount": 3.0,
+                    "unit": "large bunches",
+                    "meta": [
+                        "cut into 1 inch lengths"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 3.0,
+                            "unitShort": "large bunches",
+                            "unitLong": "large bunches"
+                        },
+                        "metric": {
+                            "amount": 3.0,
+                            "unitShort": "large bunches",
+                            "unitLong": "large bunches"
+                        }
+                    }
+                },
+                {
+                    "id": 19335,
+                    "aisle": "Baking",
+                    "image": "sugar-in-bowl.png",
+                    "consistency": "SOLID",
+                    "name": "sugar",
+                    "nameClean": "sugar",
+                    "original": "2 tablespoon fine sugar",
+                    "originalName": "fine sugar",
+                    "amount": 2.0,
+                    "unit": "tablespoon",
+                    "meta": [
+                        "fine"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 5006,
+                    "aisle": "Meat",
+                    "image": "whole-chicken.jpg",
+                    "consistency": "SOLID",
+                    "name": "chicken",
+                    "nameClean": "chicken",
+                    "original": "1 whole chicken",
+                    "originalName": "whole chicken",
+                    "amount": 1.0,
+                    "unit": "",
+                    "meta": [
+                        "whole"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                }
+            ],
+            "summary": "Need a <b>gluten free and dairy free main course</b>? Three-Cup Chicken could be a tremendous recipe to try. This recipe makes 6 servings with <b>435 calories</b>, <b>28g of protein</b>, and <b>26g of fat</b> each. For <b>$2.73 per serving</b>, this recipe <b>covers 14%</b> of your daily requirements of vitamins and minerals. A couple people made this recipe, and 44 would say it hit the spot. A mixture of soy sauce, bulb garlic, chicken, and a handful of other ingredients are all it takes to make this recipe so flavorful. It is brought to you by Foodista. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 45%</b>. This score is pretty good. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/7-cup-burfi-7-cup-cake-easy-diwali-sweet-s-564597\">7 Cup Burfi – 7 Cup Cake | Easy Diwali Sweet s</a>, <a href=\"https://spoonacular.com/recipes/three-cup-chicken-831785\">Three Cup Chicken</a>, and <a href=\"https://spoonacular.com/recipes/three-cup-chicken-1435313\">Three-Cup Chicken</a>.",
+            "cuisines": [],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free"
+            ],
+            "occasions": [],
+            "instructions": "<ol><li>Marinate chicken with soy, sesame oil and rice wine. At least for 6 hours, although overnight is best.</li><li>Take the chill off the meat. Heat up some sesame oil in a wok or claypot until it is sizzling hot.</li><li>Throw in garlic, ginger and spring onions. Fry briefly till fragrant. Add in chicken and sear.</li><li>Keep stir-frying. Pour in the marinade liquid and the sugar. Continue to cook on medium.</li><li>Once you have a rolling boil, cover the wok/claypot and let it simmer over a small flame, until all the liquid has disappeared and the chicken is on the cusp of burning.</li><li>There should hardly be any gravy left. The chicken should be caramelised (charred at parts, even) and sizzling when served.</li></ol>",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Marinate chicken with soy, sesame oil and rice wine. At least for 6 hours, although overnight is best.Take the chill off the meat.",
+                            "ingredients": [
+                                {
+                                    "id": 4058,
+                                    "name": "sesame oil",
+                                    "localizedName": "sesame oil",
+                                    "image": "sesame-oil.png"
+                                },
+                                {
+                                    "id": 43479,
+                                    "name": "rice wine",
+                                    "localizedName": "rice wine",
+                                    "image": "vinegar-(white).jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "chicken",
+                                    "localizedName": "chicken",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/whole-chicken.jpg"
+                                },
+                                {
+                                    "id": 1065062,
+                                    "name": "meat",
+                                    "localizedName": "meat",
+                                    "image": "whole-chicken.jpg"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 360,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 2,
+                            "step": "Heat up some sesame oil in a wok or claypot until it is sizzling hot.Throw in garlic, ginger and spring onions. Fry briefly till fragrant.",
+                            "ingredients": [
+                                {
+                                    "id": 11291,
+                                    "name": "spring onions",
+                                    "localizedName": "spring onions",
+                                    "image": "spring-onions.jpg"
+                                },
+                                {
+                                    "id": 4058,
+                                    "name": "sesame oil",
+                                    "localizedName": "sesame oil",
+                                    "image": "sesame-oil.png"
+                                },
+                                {
+                                    "id": 11215,
+                                    "name": "garlic",
+                                    "localizedName": "garlic",
+                                    "image": "garlic.png"
+                                },
+                                {
+                                    "id": 11216,
+                                    "name": "ginger",
+                                    "localizedName": "ginger",
+                                    "image": "ginger.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404666,
+                                    "name": "wok",
+                                    "localizedName": "wok",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/wok.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "Add in chicken and sear.Keep stir-frying.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "chicken",
+                                    "localizedName": "chicken",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/whole-chicken.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Pour in the marinade liquid and the sugar. Continue to cook on medium.Once you have a rolling boil, cover the wok/claypot and let it simmer over a small flame, until all the liquid has disappeared and the chicken is on the cusp of burning.There should hardly be any gravy left. The chicken should be caramelised (charred at parts, even) and sizzling when served.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "marinade",
+                                    "localizedName": "marinade",
+                                    "image": "seasoning.png"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "chicken",
+                                    "localizedName": "chicken",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/whole-chicken.jpg"
+                                },
+                                {
+                                    "id": 6997,
+                                    "name": "gravy",
+                                    "localizedName": "gravy",
+                                    "image": "gravy.jpg"
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404666,
+                                    "name": "wok",
+                                    "localizedName": "wok",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/wok.png"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 48.040733337402344,
+            "spoonacularSourceUrl": "https://spoonacular.com/three-cup-chicken-663392"
+        },
+        {
+            "id": 633265,
+            "image": "https://img.spoonacular.com/recipes/633265-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Bacon & Egg Toast Cups",
+            "readyInMinutes": 45,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/P6LXBQR8/bacon-egg-toast-cups",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 19,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 55,
+            "healthScore": 7.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 141.03,
+            "extendedIngredients": [
+                {
+                    "id": 1145,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "butter-sliced.jpg",
+                    "consistency": "SOLID",
+                    "name": "butter",
+                    "nameClean": "butter",
+                    "original": "2 tablespoons unsalted butter, melted",
+                    "originalName": "unsalted butter, melted",
+                    "amount": 2.0,
+                    "unit": "tablespoons",
+                    "meta": [
+                        "unsalted",
+                        "melted"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 18069,
+                    "aisle": "Bakery/Bread",
+                    "image": "white-bread.jpg",
+                    "consistency": "SOLID",
+                    "name": "sandwich bread",
+                    "nameClean": "sandwich bread",
+                    "original": "4 slices sandwich bread, your preference",
+                    "originalName": "sandwich bread, your preference",
+                    "amount": 4.0,
+                    "unit": "slices",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "slice",
+                            "unitLong": "slices"
+                        },
+                        "metric": {
+                            "amount": 4.0,
+                            "unitShort": "slice",
+                            "unitLong": "slices"
+                        }
+                    }
+                },
+                {
+                    "id": 10123,
+                    "aisle": "Meat",
+                    "image": "raw-bacon.png",
+                    "consistency": "SOLID",
+                    "name": "bacon",
+                    "nameClean": "bacon",
+                    "original": "4 slices bacon",
+                    "originalName": "bacon",
+                    "amount": 4.0,
+                    "unit": "slices",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "slice",
+                            "unitLong": "slices"
+                        },
+                        "metric": {
+                            "amount": 4.0,
+                            "unitShort": "slice",
+                            "unitLong": "slices"
+                        }
+                    }
+                },
+                {
+                    "id": 1123,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "egg.png",
+                    "consistency": "SOLID",
+                    "name": "eggs",
+                    "nameClean": "eggs",
+                    "original": "4 large eggs",
+                    "originalName": "eggs",
+                    "amount": 4.0,
+                    "unit": "large",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "large",
+                            "unitLong": "larges"
+                        },
+                        "metric": {
+                            "amount": 4.0,
+                            "unitShort": "large",
+                            "unitLong": "larges"
+                        }
+                    }
+                },
+                {
+                    "id": 1102047,
+                    "aisle": "Spices and Seasonings",
+                    "image": "salt-and-pepper.jpg",
+                    "consistency": "SOLID",
+                    "name": "salt& pepper",
+                    "nameClean": "salt& pepper",
+                    "original": "salt& pepper",
+                    "originalName": "salt& pepper",
+                    "amount": 2.0,
+                    "unit": "servings",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                }
+            ],
+            "summary": "Bacon & Egg Toast Cups takes about <b>45 minutes</b> from beginning to end. This recipe serves 2. One portion of this dish contains about <b>23g of protein</b>, <b>40g of fat</b>, and a total of <b>562 calories</b>. For <b>$1.41 per serving</b>, this recipe <b>covers 18%</b> of your daily requirements of vitamins and minerals. This recipe from Foodista has 55 fans. A mixture of butter, salt& pepper, bacon, and a handful of other ingredients are all it takes to make this recipe so yummy. Taking all factors into account, this recipe <b>earns a spoonacular score of 60%</b>, which is pretty good. Similar recipes are <a href=\"https://spoonacular.com/recipes/bacon-egg-and-toast-cups-83543\">Bacon, Egg, And Toast Cups</a>, <a href=\"https://spoonacular.com/recipes/bacon-and-egg-toast-cups-1522399\">Bacon and Egg Toast Cups</a>, and <a href=\"https://spoonacular.com/recipes/bacon-and-egg-toast-cups-1029365\">Bacon and Egg Toast Cups</a>.",
+            "cuisines": [],
+            "dishTypes": [],
+            "diets": [],
+            "occasions": [],
+            "instructions": "Preheat oven to 375.\nLightly butter six standard muffin cups.\nFlatten the bread slices slightly with a rolling pin, and with a four-and-a-half inch cookie cutter, cut into four rounds. Cut each round in half, then press the two halves into each muffin cup, overlapping slightly and making sure bread comes up to the edges. Use extra bread and crusts to patch any holes if necessary. Brush with remaining butter.\nIn a large skillet, cook the bacon until almost crisp, about four minutes, flipping once.\nLay one bacon slice in each bread cup and crack an egg over each. Season with salt & pepper.\nBake until egg whites are just set, about twenty-five minutes. The bacon will continue to cook in the oven.\nRun a small knife around cups to loosen toast cups.",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Preheat oven to 37",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Lightly butter six standard muffin cups.",
+                            "ingredients": [
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404676,
+                                    "name": "muffin liners",
+                                    "localizedName": "muffin liners",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/muffin-or-cupcake-forms.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "Flatten the bread slices slightly with a rolling pin, and with a four-and-a-half inch cookie cutter, cut into four rounds.",
+                            "ingredients": [
+                                {
+                                    "id": 10118192,
+                                    "name": "cookies",
+                                    "localizedName": "cookies",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/shortbread-cookies.jpg"
+                                },
+                                {
+                                    "id": 18064,
+                                    "name": "bread",
+                                    "localizedName": "bread",
+                                    "image": "white-bread.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 221429,
+                                    "name": "cookie cutter",
+                                    "localizedName": "cookie cutter",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/cookie-cutters.jpg"
+                                },
+                                {
+                                    "id": 404746,
+                                    "name": "rolling pin",
+                                    "localizedName": "rolling pin",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/rolling-pin.jpg"
+                                },
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Cut each round in half, then press the two halves into each muffin cup, overlapping slightly and making sure bread comes up to the edges. Use extra bread and crusts to patch any holes if necessary.",
+                            "ingredients": [
+                                {
+                                    "id": 18064,
+                                    "name": "bread",
+                                    "localizedName": "bread",
+                                    "image": "white-bread.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 5,
+                            "step": "Brush with remaining butter.",
+                            "ingredients": [
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 6,
+                            "step": "In a large skillet, cook the bacon until almost crisp, about four minutes, flipping once.",
+                            "ingredients": [
+                                {
+                                    "id": 10123,
+                                    "name": "bacon",
+                                    "localizedName": "bacon",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/raw-bacon.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+                                },
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 4,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 7,
+                            "step": "Lay one bacon slice in each bread cup and crack an egg over each. Season with salt & pepper.",
+                            "ingredients": [
+                                {
+                                    "id": 1102047,
+                                    "name": "salt and pepper",
+                                    "localizedName": "salt and pepper",
+                                    "image": "salt-and-pepper.jpg"
+                                },
+                                {
+                                    "id": 10123,
+                                    "name": "bacon",
+                                    "localizedName": "bacon",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/raw-bacon.png"
+                                },
+                                {
+                                    "id": 18064,
+                                    "name": "bread",
+                                    "localizedName": "bread",
+                                    "image": "white-bread.jpg"
+                                },
+                                {
+                                    "id": 1123,
+                                    "name": "egg",
+                                    "localizedName": "egg",
+                                    "image": "egg.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 8,
+                            "step": "Bake until egg whites are just set, about twenty-five minutes. The bacon will continue to cook in the oven.",
+                            "ingredients": [
+                                {
+                                    "id": 1124,
+                                    "name": "egg whites",
+                                    "localizedName": "egg whites",
+                                    "image": "egg-white.jpg"
+                                },
+                                {
+                                    "id": 10123,
+                                    "name": "bacon",
+                                    "localizedName": "bacon",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/raw-bacon.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 9,
+                            "step": "Run a small knife around cups to loosen toast cups.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "sandwich bread",
+                                    "localizedName": "sandwich bread",
+                                    "image": "white-bread.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404745,
+                                    "name": "knife",
+                                    "localizedName": "knife",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/chefs-knife.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 59.162776947021484,
+            "spoonacularSourceUrl": "https://spoonacular.com/bacon-egg-toast-cups-633265"
+        }
+    ],
+    "totalResults": 5
+}

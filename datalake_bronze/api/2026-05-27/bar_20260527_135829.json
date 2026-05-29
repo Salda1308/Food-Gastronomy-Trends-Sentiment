@@ -1,0 +1,2168 @@
+{
+    "results": [
+        {
+            "id": 640002,
+            "image": "https://img.spoonacular.com/recipes/640002-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Cookie Bars",
+            "readyInMinutes": 45,
+            "servings": 24,
+            "sourceUrl": "https://www.foodista.com/recipe/TB6SBVC6/cookie-bars",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 5,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 1,
+            "healthScore": 0.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 27.28,
+            "extendedIngredients": [
+                {
+                    "id": 18144,
+                    "aisle": "Baking",
+                    "image": "yellow-cake.jpg",
+                    "consistency": "SOLID",
+                    "name": "cake mix",
+                    "nameClean": "cake mix",
+                    "original": "1 package of yellow cake mix",
+                    "originalName": "yellow cake mix",
+                    "amount": 1.0,
+                    "unit": "package",
+                    "meta": [
+                        "yellow"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "pkg",
+                            "unitLong": "package"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "pkg",
+                            "unitLong": "package"
+                        }
+                    }
+                },
+                {
+                    "id": 19206,
+                    "aisle": "Baking",
+                    "image": "vanilla-pudding.png",
+                    "consistency": "SOLID",
+                    "name": "vanilla pudding",
+                    "nameClean": "vanilla pudding",
+                    "original": "1 small box of vanilla instant pudding",
+                    "originalName": "box of vanilla instant pudding",
+                    "amount": 1.0,
+                    "unit": "small",
+                    "meta": [
+                        "instant"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "small",
+                            "unitLong": "small"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "small",
+                            "unitLong": "small"
+                        }
+                    }
+                },
+                {
+                    "id": 14412,
+                    "aisle": "Beverages",
+                    "image": "water.png",
+                    "consistency": "LIQUID",
+                    "name": "water",
+                    "nameClean": "water",
+                    "original": "¼ Cup water",
+                    "originalName": "water",
+                    "amount": 0.25,
+                    "unit": "Cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "cups",
+                            "unitLong": "Cups"
+                        },
+                        "metric": {
+                            "amount": 0.25,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        }
+                    }
+                },
+                {
+                    "id": 4669,
+                    "aisle": "Oil, Vinegar, Salad Dressing",
+                    "image": "vegetable-oil.jpg",
+                    "consistency": "LIQUID",
+                    "name": "vegetable oil",
+                    "nameClean": "vegetable oil",
+                    "original": "¾ Cup Vegetable oil",
+                    "originalName": "Vegetable oil",
+                    "amount": 0.75,
+                    "unit": "Cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.75,
+                            "unitShort": "cups",
+                            "unitLong": "Cups"
+                        },
+                        "metric": {
+                            "amount": 0.75,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        }
+                    }
+                },
+                {
+                    "id": 1123,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "egg.png",
+                    "consistency": "SOLID",
+                    "name": "eggs",
+                    "nameClean": "eggs",
+                    "original": "2 eggs",
+                    "originalName": "eggs",
+                    "amount": 2.0,
+                    "unit": "",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 93762,
+                    "aisle": "Baking",
+                    "image": "peanut-butter-or-butterscotch-chips.jpg",
+                    "consistency": "SOLID",
+                    "name": "chocolate chip",
+                    "nameClean": "chocolate chip",
+                    "original": "1 ½ cup chocolate chip (vanilla or peanut butter chips good too!)",
+                    "originalName": "chocolate chip (vanilla or peanut butter chips good too!)",
+                    "amount": 1.5,
+                    "unit": "cup",
+                    "meta": [
+                        "good",
+                        "(vanilla or peanut butter chips too!)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 255.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                }
+            ],
+            "summary": "The recipe Cookie Bars can be made <b>in approximately 45 minutes</b>. For <b>27 cents per serving</b>, this recipe <b>covers 2%</b> of your daily requirements of vitamins and minerals. Watching your figure? This dairy free recipe has <b>145 calories</b>, <b>1g of protein</b>, and <b>8g of fat</b> per serving. This recipe serves 24. Not a lot of people made this recipe, and 1 would say it hit the spot. Head to the store and pick up chocolate chip, vanilla pudding, eggs, and a few other things to make it today. It works well as a very reasonably priced dessert. It is brought to you by Foodista. Overall, this recipe earns an <b>improvable spoonacular score of 10%</b>. Similar recipes are <a href=\"https://spoonacular.com/recipes/magic-cookie-bars-seven-layer-bars-1147097\">Magic Cookie Bars | Seven Layer Bars</a>, <a href=\"https://spoonacular.com/recipes/m-m-cookie-bars-1039297\">M&M Cookie Bars</a>, and <a href=\"https://spoonacular.com/recipes/m-m-cookie-bars-499796\">M&M Cookie Bars</a>.",
+            "cuisines": [],
+            "dishTypes": [
+                "dessert"
+            ],
+            "diets": [
+                "dairy free"
+            ],
+            "occasions": [],
+            "instructions": "Preheat oven to 350. Prepare 9x13 oven proof pan with cooking spray or grease with vegetable oil\nCombine all ingredients in a bowl.\nSpread into the prepared dish.\nBake at 350 for 20-35 minutes. Cookie bars! Are done when they start to turn slightly golden.",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Preheat oven to 35",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Prepare 9x13 oven proof pan with cooking spray or grease with vegetable oil",
+                            "ingredients": [
+                                {
+                                    "id": 4679,
+                                    "name": "cooking spray",
+                                    "localizedName": "cooking spray",
+                                    "image": "cooking-spray.png"
+                                },
+                                {
+                                    "id": 4669,
+                                    "name": "vegetable oil",
+                                    "localizedName": "vegetable oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                },
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "Combine all ingredients in a bowl.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Spread into the prepared dish.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "spread",
+                                    "localizedName": "spread",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 5,
+                            "step": "Bake at 350 for 20-35 minutes. Cookie bars! Are done when they start to turn slightly golden.",
+                            "ingredients": [
+                                {
+                                    "id": 10118192,
+                                    "name": "cookies",
+                                    "localizedName": "cookies",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/shortbread-cookies.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 35,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 11.73208236694336,
+            "spoonacularSourceUrl": "https://spoonacular.com/cookie-bars-640002"
+        },
+        {
+            "id": 652936,
+            "image": "https://img.spoonacular.com/recipes/652936-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Nanaimo Bar",
+            "readyInMinutes": 45,
+            "servings": 16,
+            "sourceUrl": "https://www.foodista.com/recipe/TF7BD33X/nanaimo-bar",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 16,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 1,
+            "healthScore": 0.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 61.44,
+            "extendedIngredients": [
+                {
+                    "id": 12061,
+                    "aisle": "Nuts",
+                    "image": "almonds.jpg",
+                    "consistency": "SOLID",
+                    "name": "almonds",
+                    "nameClean": "almonds",
+                    "original": "1/2 cup finely chopped almonds",
+                    "originalName": "finely chopped almonds",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "meta": [
+                        "finely chopped"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 71.5,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 19165,
+                    "aisle": "Baking",
+                    "image": "cocoa-powder.png",
+                    "consistency": "SOLID",
+                    "name": "cocoa",
+                    "nameClean": "cocoa",
+                    "original": "5 tablespoons cocoa",
+                    "originalName": "cocoa",
+                    "amount": 5.0,
+                    "unit": "tablespoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 5.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 5.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 12104,
+                    "aisle": "Produce",
+                    "image": "coconut.jpg",
+                    "consistency": "SOLID",
+                    "name": "coconut",
+                    "nameClean": "coconut",
+                    "original": "1 cup coconut",
+                    "originalName": "coconut",
+                    "amount": 1.0,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "cup",
+                            "unitLong": "cup"
+                        },
+                        "metric": {
+                            "amount": 80.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 93812,
+                    "aisle": "Gourmet",
+                    "image": "vanilla-sugar.jpg",
+                    "consistency": "SOLID",
+                    "name": "vanilla-flavored custard powder",
+                    "nameClean": "vanilla-flavored custard powder",
+                    "original": "2 tablespoons vanilla-flavored custard powder",
+                    "originalName": "vanilla-flavored custard powder",
+                    "amount": 2.0,
+                    "unit": "tablespoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 1123,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "egg.png",
+                    "consistency": "SOLID",
+                    "name": "egg",
+                    "nameClean": "egg",
+                    "original": "1 egg, beaten",
+                    "originalName": "egg, beaten",
+                    "amount": 1.0,
+                    "unit": "",
+                    "meta": [
+                        "beaten"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 10018617,
+                    "aisle": "Sweet Snacks",
+                    "image": "graham-crackers.jpg",
+                    "consistency": "SOLID",
+                    "name": "graham wafer crumbs",
+                    "nameClean": "graham wafer crumbs",
+                    "original": "1 1/4 cups graham wafer crumbs",
+                    "originalName": "graham wafer crumbs",
+                    "amount": 1.25,
+                    "unit": "cups",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.25,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 105.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 19336,
+                    "aisle": "Baking",
+                    "image": "powdered-sugar.jpg",
+                    "consistency": "SOLID",
+                    "name": "icing sugar",
+                    "nameClean": "icing sugar",
+                    "original": "2 cups icing sugar",
+                    "originalName": "icing sugar",
+                    "amount": 2.0,
+                    "unit": "cups",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 240.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 19903,
+                    "aisle": "Sweet Snacks",
+                    "image": "dark-chocolate-pieces.jpg",
+                    "consistency": "SOLID",
+                    "name": "squares semi-sweet chocolate",
+                    "nameClean": "squares semi-sweet chocolate",
+                    "original": "4 squares squares semi-sweet chocolate (1 ounce each)",
+                    "originalName": "squares squares semi-sweet chocolate each)",
+                    "amount": 4.0,
+                    "unit": "ounce",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "oz",
+                            "unitLong": "ounces"
+                        },
+                        "metric": {
+                            "amount": 113.398,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 19335,
+                    "aisle": "Baking",
+                    "image": "sugar-in-bowl.png",
+                    "consistency": "SOLID",
+                    "name": "sugar",
+                    "nameClean": "sugar",
+                    "original": "2 2/3 cups sugar",
+                    "originalName": "sugar",
+                    "amount": 2.6666667,
+                    "unit": "cups",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.6666667,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 533.333,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 1145,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "butter-sliced.jpg",
+                    "consistency": "SOLID",
+                    "name": "butter",
+                    "nameClean": "butter",
+                    "original": "2 tablespoons unsalted butter",
+                    "originalName": "unsalted butter",
+                    "amount": 2.0,
+                    "unit": "tablespoons",
+                    "meta": [
+                        "unsalted"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                }
+            ],
+            "summary": "Nanaimo Bar requires approximately <b>45 minutes</b> from start to finish. One serving contains <b>319 calories</b>, <b>3g of protein</b>, and <b>9g of fat</b>. This recipe serves 16. For <b>61 cents per serving</b>, this recipe <b>covers 4%</b> of your daily requirements of vitamins and minerals. It works well as a cheap hor d'oeuvre. This recipe from Foodista has 1 fans. A mixture of egg, sugar, vanilla-flavored custard powder, and a handful of other ingredients are all it takes to make this recipe so flavorful. Taking all factors into account, this recipe <b>earns a spoonacular score of 15%</b>, which is not so super. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/nanaimo-bar-brownies-201410\">Nanaimo Bar Brownies</a>, <a href=\"https://spoonacular.com/recipes/no-bake-nanaimo-bar-cheesecake-video-952222\">No Bake Nanaimo Bar Cheesecake + VIDEO</a>, and <a href=\"https://spoonacular.com/recipes/nanaimo-bar-tart-low-carb-767924\">Nanaimo Bar Tart (Low Carb)</a>.",
+            "cuisines": [],
+            "dishTypes": [
+                "antipasti",
+                "starter",
+                "snack",
+                "appetizer",
+                "antipasto",
+                "hor d'oeuvre"
+            ],
+            "diets": [],
+            "occasions": [],
+            "instructions": "<ol><li>Melt first 1/2 cup butter, sugar and cocoa in top of double boiler. Add egg and stir to cook and thicken. Remove from heat. Stir in crumbs, almonds and coconut. Press firmly into an ungreased 8\" x 8\" pan.</li><li>Cream 1/2 cup butter, cream, custard powder, and icing sugar together well. Beat until light. Spread over bottom layer.</li><li>Melt chocolate and butter over low heat. Cool. Once cool, but still liquid, pour over second layer and chill in refrigerator.</li></ol>",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Melt first 1/2 cup butter, sugar and cocoa in top of double boiler.",
+                            "ingredients": [
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                },
+                                {
+                                    "id": 19165,
+                                    "name": "cocoa powder",
+                                    "localizedName": "cocoa powder",
+                                    "image": "cocoa-powder.png"
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404699,
+                                    "name": "double boiler",
+                                    "localizedName": "double boiler",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/double-boiler.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Add egg and stir to cook and thicken.",
+                            "ingredients": [
+                                {
+                                    "id": 1123,
+                                    "name": "egg",
+                                    "localizedName": "egg",
+                                    "image": "egg.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Remove from heat. Stir in crumbs, almonds and coconut. Press firmly into an ungreased 8\" x 8\" pan.Cream 1/2 cup butter, cream, custard powder, and icing sugar together well. Beat until light.",
+                            "ingredients": [
+                                {
+                                    "id": 19169,
+                                    "name": "custard powder",
+                                    "localizedName": "custard powder",
+                                    "image": "custard.png"
+                                },
+                                {
+                                    "id": 19336,
+                                    "name": "powdered sugar",
+                                    "localizedName": "powdered sugar",
+                                    "image": "powdered-sugar.jpg"
+                                },
+                                {
+                                    "id": 12061,
+                                    "name": "almonds",
+                                    "localizedName": "almonds",
+                                    "image": "almonds.jpg"
+                                },
+                                {
+                                    "id": 12104,
+                                    "name": "coconut",
+                                    "localizedName": "coconut",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/coconut.jpg"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                },
+                                {
+                                    "id": 1053,
+                                    "name": "cream",
+                                    "localizedName": "cream",
+                                    "image": "fluid-cream.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Spread over bottom layer.Melt chocolate and butter over low heat. Cool. Once cool, but still liquid, pour over second layer and chill in refrigerator.",
+                            "ingredients": [
+                                {
+                                    "id": 19081,
+                                    "name": "chocolate",
+                                    "localizedName": "chocolate",
+                                    "image": "milk-chocolate.jpg"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "spread",
+                                    "localizedName": "spread",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 13.477112770080566,
+            "spoonacularSourceUrl": "https://spoonacular.com/nanaimo-bar-652936"
+        },
+        {
+            "id": 658936,
+            "image": "https://img.spoonacular.com/recipes/658936-556x370.jpg",
+            "imageType": "jpg",
+            "title": "S'more Bars",
+            "readyInMinutes": 45,
+            "servings": 8,
+            "sourceUrl": "https://www.foodista.com/recipe/V6FLBTL2/smore-bars",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 17,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 14,
+            "healthScore": 0.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 49.68,
+            "extendedIngredients": [
+                {
+                    "id": 1001,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "butter-sliced.jpg",
+                    "consistency": "SOLID",
+                    "name": "butter",
+                    "nameClean": "butter",
+                    "original": "1/2 cup (1 stick) butter, melted",
+                    "originalName": "(1 stick) butter, melted",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "meta": [
+                        "melted",
+                        "(1 stick)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 113.5,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 19335,
+                    "aisle": "Baking",
+                    "image": "sugar-in-bowl.png",
+                    "consistency": "SOLID",
+                    "name": "sugar",
+                    "nameClean": "sugar",
+                    "original": "1 cup sugar",
+                    "originalName": "sugar",
+                    "amount": 1.0,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "cup",
+                            "unitLong": "cup"
+                        },
+                        "metric": {
+                            "amount": 200.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 10018617,
+                    "aisle": "Sweet Snacks",
+                    "image": "graham-crackers.jpg",
+                    "consistency": "SOLID",
+                    "name": "graham cracker crumbs",
+                    "nameClean": "graham cracker crumbs",
+                    "original": "2 cups graham cracker crumbs",
+                    "originalName": "graham cracker crumbs",
+                    "amount": 2.0,
+                    "unit": "cups",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 168.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 10099278,
+                    "aisle": "Baking",
+                    "image": "chocolate-chips.jpg",
+                    "consistency": "SOLID",
+                    "name": "milk chocolate chocolate chips minus a handful of chips",
+                    "nameClean": "milk chocolate chocolate chips minus a handful of chips",
+                    "original": "1 bag milk chocolate chocolate chips minus a handful of chips",
+                    "originalName": "milk chocolate chocolate chips minus a handful of chips",
+                    "amount": 1.0,
+                    "unit": "bag",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "bag",
+                            "unitLong": "bag"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "bag",
+                            "unitLong": "bag"
+                        }
+                    }
+                },
+                {
+                    "id": 10119116,
+                    "aisle": "Baking",
+                    "image": "marshmallows-mini.png",
+                    "consistency": "SOLID",
+                    "name": "marshmallows",
+                    "nameClean": "marshmallows",
+                    "original": "1/2 bag miniature marshmallows",
+                    "originalName": "miniature marshmallows",
+                    "amount": 0.5,
+                    "unit": "bag",
+                    "meta": [
+                        "miniature"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "bag",
+                            "unitLong": "bags"
+                        },
+                        "metric": {
+                            "amount": 0.5,
+                            "unitShort": "bag",
+                            "unitLong": "bags"
+                        }
+                    }
+                }
+            ],
+            "summary": "You can never have too many dessert recipes, so give S'more Bars a try. This recipe serves 8. One serving contains <b>344 calories</b>, <b>2g of protein</b>, and <b>14g of fat</b>. For <b>50 cents per serving</b>, this recipe <b>covers 2%</b> of your daily requirements of vitamins and minerals. This recipe from Foodista has 14 fans. If you have butter, sugar, milk chocolate chocolate chips minus a handful of chips, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes around <b>45 minutes</b>. With a spoonacular <b>score of 11%</b>, this dish is not so outstanding. Try <a href=\"https://spoonacular.com/recipes/chocolate-peanut-butter-pretzel-and-caramel-candy-bars-homemade-take-5-bars-611931\">Chocolate, Peanut Butter, Pretzel and Caramel Candy Bars (Homemade Take 5 Bars)</a>, <a href=\"https://spoonacular.com/recipes/five-ingredient-double-chocolate-cherry-pistachio-energy-bars-copycat-lara-bars-492976\">Five-Ingredient Double Chocolate Cherry Pistachio Energy Bars {copycat Lara Bars}</a>, and <a href=\"https://spoonacular.com/recipes/neiman-marcus-bars-aka-gooey-butter-bars-1623693\">Neiman Marcus Bars aka Gooey Butter Bars</a> for similar recipes.",
+            "cuisines": [],
+            "dishTypes": [
+                "dessert"
+            ],
+            "diets": [],
+            "occasions": [],
+            "instructions": "Heat oven to 350F. Grease 8-inch square baking pan.\nMix graham cracker crumbs, melted butter, and sugar until mixed. Press half of dough in prepared pan.\nSprinkle  chocolate chips over graham cracker layer. Sprinkle with mini marshmallows; scatter bits of remaining graham cracker crust over marshmallows. Bake 15 to 17 minutes or just until lightly browned. Cool completely in pan on wire rack. Cut into bars. 16 bars.",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Heat oven to 350F. Grease 8-inch square baking pan.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404646,
+                                    "name": "baking pan",
+                                    "localizedName": "baking pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/roasting-pan.jpg"
+                                },
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg",
+                                    "temperature": {
+                                        "number": 350.0,
+                                        "unit": "Fahrenheit"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Mix graham cracker crumbs, melted butter, and sugar until mixed. Press half of dough in prepared pan.",
+                            "ingredients": [
+                                {
+                                    "id": 10018617,
+                                    "name": "graham cracker crumbs",
+                                    "localizedName": "graham cracker crumbs",
+                                    "image": "graham-crackers.jpg"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "dough",
+                                    "localizedName": "dough",
+                                    "image": "pizza-dough"
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "Sprinkle  chocolate chips over graham cracker layer.",
+                            "ingredients": [
+                                {
+                                    "id": 99278,
+                                    "name": "chocolate chips",
+                                    "localizedName": "chocolate chips",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/chocolate-chips.jpg"
+                                },
+                                {
+                                    "id": 18617,
+                                    "name": "graham crackers",
+                                    "localizedName": "graham crackers",
+                                    "image": "graham-crackers.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Sprinkle with mini marshmallows; scatter bits of remaining graham cracker crust over marshmallows.",
+                            "ingredients": [
+                                {
+                                    "id": 18942,
+                                    "name": "graham cracker pie crust",
+                                    "localizedName": "graham cracker pie crust",
+                                    "image": "pie-crust-graham-cracker.jpg"
+                                },
+                                {
+                                    "id": 10119116,
+                                    "name": "mini marshmallows",
+                                    "localizedName": "mini marshmallows",
+                                    "image": "marshmallows-mini.png"
+                                },
+                                {
+                                    "id": 19116,
+                                    "name": "marshmallows",
+                                    "localizedName": "marshmallows",
+                                    "image": "normal-marshmallows.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 5,
+                            "step": "Bake 15 to 17 minutes or just until lightly browned. Cool completely in pan on wire rack.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 405900,
+                                    "name": "wire rack",
+                                    "localizedName": "wire rack",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/wire-rack.jpg"
+                                },
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                },
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 15,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 6,
+                            "step": "Cut into bars. 16 bars.",
+                            "ingredients": [],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 0.6356186866760254,
+            "spoonacularSourceUrl": "https://spoonacular.com/smore-bars-658936"
+        },
+        {
+            "id": 652939,
+            "image": "https://img.spoonacular.com/recipes/652939-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Nanaimo Bars",
+            "readyInMinutes": 45,
+            "servings": 9,
+            "sourceUrl": "https://www.foodista.com/recipe/3P6K34Q7/nanaimo-bars",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 11,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 1,
+            "healthScore": 5.0,
+            "creditsText": "foodista.com",
+            "license": null,
+            "sourceName": "foodista.com",
+            "pricePerServing": 163.26,
+            "extendedIngredients": [
+                {
+                    "id": 1001,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "butter-sliced.jpg",
+                    "consistency": "SOLID",
+                    "name": "butter extract",
+                    "nameClean": "butter extract",
+                    "original": "1/2 tsp Butter Extract",
+                    "originalName": "Butter Extract",
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 0.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 19078,
+                    "aisle": "Baking",
+                    "image": "baking-chocolate.jpg",
+                    "consistency": "SOLID",
+                    "name": "cacao chocolate",
+                    "nameClean": "cacao chocolate",
+                    "original": "4oz 100% Cacao Unsweetened Chocolate",
+                    "originalName": "100% Cacao Unsweetened Chocolate",
+                    "amount": 4.0,
+                    "unit": "oz",
+                    "meta": [
+                        "unsweetened",
+                        "100%"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "oz",
+                            "unitLong": "ounces"
+                        },
+                        "metric": {
+                            "amount": 113.398,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 99075,
+                    "aisle": "Health Foods",
+                    "image": "chocolate-protein-powder.jpg",
+                    "consistency": "SOLID",
+                    "name": "chocolate protein powder",
+                    "nameClean": "chocolate protein powder",
+                    "original": "32g (1 scoop) Chocolate Protein Powder",
+                    "originalName": "32g Chocolate Protein Powder",
+                    "amount": 1.0,
+                    "unit": "scoop",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "scoop",
+                            "unitLong": "scoop"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "scoop",
+                            "unitLong": "scoop"
+                        }
+                    }
+                },
+                {
+                    "id": 19165,
+                    "aisle": "Baking",
+                    "image": "cocoa-powder.png",
+                    "consistency": "SOLID",
+                    "name": "regular cocoa powder",
+                    "nameClean": "regular cocoa powder",
+                    "original": "30g (6 Tbs) Regular Cocoa Powder (unsweetened)",
+                    "originalName": "30g Regular Cocoa Powder (unsweetened)",
+                    "amount": 6.0,
+                    "unit": "Tbs",
+                    "meta": [
+                        "unsweetened",
+                        "()"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 6.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 6.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 93746,
+                    "aisle": "Health Foods",
+                    "image": "oil-coconut.jpg",
+                    "consistency": "SOLID",
+                    "name": "coconut butter",
+                    "nameClean": "coconut butter",
+                    "original": "160g (1/2 cup + 2 Tbs) Coconut Butter",
+                    "originalName": "(1/2 cup + 2 Tbs) Coconut Butter",
+                    "amount": 160.0,
+                    "unit": "g",
+                    "meta": [
+                        "()"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 5.644,
+                            "unitShort": "oz",
+                            "unitLong": "ounces"
+                        },
+                        "metric": {
+                            "amount": 160.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 1032050,
+                    "aisle": "Baking",
+                    "image": "extract.png",
+                    "consistency": "LIQUID",
+                    "name": "coconut extract",
+                    "nameClean": "coconut extract",
+                    "original": "1/2 tsp Coconut Extract",
+                    "originalName": "Coconut Extract",
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 0.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 99009,
+                    "aisle": "Canned and Jarred",
+                    "image": "img.spoonacular.",
+                    "consistency": "LIQUID",
+                    "name": "tbs coconut milk",
+                    "nameClean": "tbs coconut milk",
+                    "original": "1/4 cup + 3 Tbs Light Coconut Milk",
+                    "originalName": "3 Tbs Light Coconut Milk",
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "meta": [
+                        "light"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 50.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 4047,
+                    "aisle": "Baking",
+                    "image": "oil-coconut.jpg",
+                    "consistency": "LIQUID",
+                    "name": "coconut oil",
+                    "nameClean": "coconut oil",
+                    "original": "28g (2 Tbs) Coconut Oil, soft",
+                    "originalName": "28g Coconut Oil, soft",
+                    "amount": 2.0,
+                    "unit": "Tbs",
+                    "meta": [
+                        "soft"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 98887,
+                    "aisle": "Health Foods",
+                    "image": "sugar-in-bowl.png",
+                    "consistency": "SOLID",
+                    "name": "powdered erythritol",
+                    "nameClean": "powdered erythritol",
+                    "original": "48g (1/4 cup) Powdered Erythritol",
+                    "originalName": "48g Powdered Erythritol",
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 50.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 12120,
+                    "aisle": "Baking",
+                    "image": "hazelnuts.jpg",
+                    "consistency": "SOLID",
+                    "name": "hazelnut extract",
+                    "nameClean": "hazelnut extract",
+                    "original": "1 tsp Hazelnut Extract",
+                    "originalName": "Hazelnut Extract",
+                    "amount": 1.0,
+                    "unit": "tsp",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        }
+                    }
+                },
+                {
+                    "id": 19304,
+                    "aisle": "Baking",
+                    "image": "molasses.jpg",
+                    "consistency": "SOLID",
+                    "name": "molasses",
+                    "nameClean": "molasses",
+                    "original": "14g (2 tsp) Molasses",
+                    "originalName": "14g Molasses",
+                    "amount": 2.0,
+                    "unit": "tsp",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 1011256,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "plain-yogurt.jpg",
+                    "consistency": "LIQUID",
+                    "name": "nonfat greek yogurt",
+                    "nameClean": "nonfat greek yogurt",
+                    "original": "1/2 cup Plain, Nonfat Greek Yogurt",
+                    "originalName": "Plain, Nonfat Greek Yogurt",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "meta": [
+                        "plain"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 100.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 1085,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "img.spoonacular.",
+                    "consistency": "LIQUID",
+                    "name": "nonfat milk",
+                    "nameClean": "nonfat milk",
+                    "original": "26g (3 Tbs) Dried Nonfat Milk",
+                    "originalName": "26g Dried Nonfat Milk",
+                    "amount": 3.0,
+                    "unit": "Tbs",
+                    "meta": [
+                        "dried"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 3.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 3.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 8120,
+                    "aisle": "Cereal",
+                    "image": "rolled-oats.jpg",
+                    "consistency": "SOLID",
+                    "name": "rolled oats",
+                    "nameClean": "rolled oats",
+                    "original": "48g (1/2 cup) Rolled Oats (old fashioned, gluten free if you like)",
+                    "originalName": "48g Rolled Oats (old fashioned, gluten free if you like)",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "meta": [
+                        "gluten free",
+                        "(old fashioned, if you like)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 40.541,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 2047,
+                    "aisle": "Spices and Seasonings",
+                    "image": "salt.jpg",
+                    "consistency": "SOLID",
+                    "name": "salt",
+                    "nameClean": "salt",
+                    "original": "1/2 teaspoon salt",
+                    "originalName": "salt",
+                    "amount": 0.5,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 0.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 93628,
+                    "aisle": "Baking",
+                    "image": "stevia.png",
+                    "consistency": "SOLID",
+                    "name": "stevia extract",
+                    "nameClean": "stevia extract",
+                    "original": "1/4 tsp Stevia Extract",
+                    "originalName": "Stevia Extract",
+                    "amount": 0.25,
+                    "unit": "tsp",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 0.25,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 99076,
+                    "aisle": "Health Foods",
+                    "image": "protein-powder-vanilla.png",
+                    "consistency": "SOLID",
+                    "name": "vanilla custard protein powder",
+                    "nameClean": "vanilla custard protein powder",
+                    "original": "128g (4 scoops) Vanilla Custard Protein Powder",
+                    "originalName": "128g Vanilla Custard Protein Powder",
+                    "amount": 4.0,
+                    "unit": "scoops",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "scoops",
+                            "unitLong": "scoops"
+                        },
+                        "metric": {
+                            "amount": 4.0,
+                            "unitShort": "scoops",
+                            "unitLong": "scoops"
+                        }
+                    }
+                }
+            ],
+            "summary": "If you want to add more <b>gluten free</b> recipes to your repertoire, Nanaimo Bars might be a recipe you should try. One portion of this dish contains about <b>16g of protein</b>, <b>21g of fat</b>, and a total of <b>303 calories</b>. This recipe serves 9. For <b>$1.63 per serving</b>, this recipe <b>covers 12%</b> of your daily requirements of vitamins and minerals. If you have tbs coconut milk, coconut butter, chocolate protein powder, and a few other ingredients on hand, you can make it. This recipe is liked by 1 foodies and cooks. It is brought to you by Foodista. Only a few people really liked this main course. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 30%</b>, which is not so excellent. Similar recipes include <a href=\"https://spoonacular.com/recipes/nanaimo-bars-54243\">Nanaimo Bars</a>, <a href=\"https://spoonacular.com/recipes/nanaimo-bars-1093733\">Nanaimo bars</a>, and <a href=\"https://spoonacular.com/recipes/nanaimo-bars-1726681\">Nanaimo Bars</a>.",
+            "cuisines": [],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "gluten free"
+            ],
+            "occasions": [],
+            "instructions": "<ol><li>Directions (for the crust): Line a brownie pan with parchment paper both ways.</li><li>Melt the coconut butter in a large microwave safe bowl (it took me about 60 seconds total at 30-second intervals).</li><li>Stir in the coconut milk, and add the molasses and extracts.</li><li>Stir in the cocoa powder.  Then, stir in the protein powder.  Fold in the oats.  Press into the prepared brownie pan (I used a pastry roller.  If the filling is sticking to the utensil you are using, wrap your fingers in plastic wrap and press down on the mixture until it reaches all corners and make sure it's level).  Refrigerate while you make the filling.</li><li>Directions (for the filling): Put the greek yogurt into a medium-sized mixing bowl and add the powdered erythritol, stir until erythritol dissolves.</li><li>Fold in the protein powder with a rubber spatula.  When the mixture is thick and sticky, add the coconut oil and fold it in.  Add the dried milk and fold that in too (the mixture should be very sticky, so don't touch!).  Scoop into the brownie pan and try to level as best as you can with the rubber spatula (it doesn't have to be perfect, it will naturally settle into a level layer).  Refrigerate while you make the ganache layer.</li><li>Directions (for the ganache layer): Melt the chocolate in a microwave-safe bowl at 30-second intervals, stirring in between each one, until melted.</li><li>Whisk in the coconut milk.  When the mixture is even and lighter in color, whisk in the stevia and carefully stir in the powdered erythritol.  Pour into the brownie pan and spread by gently shaking the pan back and forth until the ganache reaches the corners.  Refrigerate until chocolate is firm, then slice and serve!</li></ol>",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Put the greek yogurt into a medium-sized mixing bowl and add the powdered erythritol, stir until erythritol dissolves.Fold in the protein powder with a rubber spatula.  When the mixture is thick and sticky, add the coconut oil and fold it in.",
+                            "ingredients": [
+                                {
+                                    "id": 99239,
+                                    "name": "protein powder",
+                                    "localizedName": "protein powder",
+                                    "image": "plain-protein-powder.png"
+                                },
+                                {
+                                    "id": 1256,
+                                    "name": "greek yogurt",
+                                    "localizedName": "greek yogurt",
+                                    "image": "plain-yogurt.jpg"
+                                },
+                                {
+                                    "id": 4047,
+                                    "name": "coconut oil",
+                                    "localizedName": "coconut oil",
+                                    "image": "oil-coconut.jpg"
+                                },
+                                {
+                                    "id": 98887,
+                                    "name": "erythritol",
+                                    "localizedName": "erythritol",
+                                    "image": "sugar-in-bowl.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 405907,
+                                    "name": "mixing bowl",
+                                    "localizedName": "mixing bowl",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/mixing-bowl.jpg"
+                                },
+                                {
+                                    "id": 404642,
+                                    "name": "spatula",
+                                    "localizedName": "spatula",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/spatula-or-turner.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Add the dried milk and fold that in too (the mixture should be very sticky, so don't touch!).  Scoop into the brownie pan and try to level as best as you can with the rubber spatula (it doesn't have to be perfect, it will naturally settle into a level layer).  Refrigerate while you make the ganache layer.Directions (for the ganache layer): Melt the chocolate in a microwave-safe bowl at 30-second intervals, stirring in between each one, until melted.",
+                            "ingredients": [
+                                {
+                                    "id": 1090,
+                                    "name": "powdered milk",
+                                    "localizedName": "powdered milk",
+                                    "image": "milk-powdered.jpg"
+                                },
+                                {
+                                    "id": 19081,
+                                    "name": "chocolate",
+                                    "localizedName": "chocolate",
+                                    "image": "milk-chocolate.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404762,
+                                    "name": "microwave",
+                                    "localizedName": "microwave",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/microwave.jpg"
+                                },
+                                {
+                                    "id": 404642,
+                                    "name": "spatula",
+                                    "localizedName": "spatula",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/spatula-or-turner.jpg"
+                                },
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                                },
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "Whisk in the coconut milk.  When the mixture is even and lighter in color, whisk in the stevia and carefully stir in the powdered erythritol.",
+                            "ingredients": [
+                                {
+                                    "id": 12118,
+                                    "name": "coconut milk",
+                                    "localizedName": "coconut milk",
+                                    "image": "coconut-milk.png"
+                                },
+                                {
+                                    "id": 98887,
+                                    "name": "erythritol",
+                                    "localizedName": "erythritol",
+                                    "image": "sugar-in-bowl.png"
+                                },
+                                {
+                                    "id": 93628,
+                                    "name": "stevia",
+                                    "localizedName": "stevia",
+                                    "image": "stevia.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404661,
+                                    "name": "whisk",
+                                    "localizedName": "whisk",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/whisk.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Pour into the brownie pan and spread by gently shaking the pan back and forth until the ganache reaches the corners.  Refrigerate until chocolate is firm, then slice and serve!",
+                            "ingredients": [
+                                {
+                                    "id": 19081,
+                                    "name": "chocolate",
+                                    "localizedName": "chocolate",
+                                    "image": "milk-chocolate.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "spread",
+                                    "localizedName": "spread",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 42.969322204589844,
+            "spoonacularSourceUrl": "https://spoonacular.com/nanaimo-bars-652939"
+        },
+        {
+            "id": 632573,
+            "image": "https://img.spoonacular.com/recipes/632573-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Apple Pie Bars",
+            "readyInMinutes": 75,
+            "servings": 24,
+            "sourceUrl": "https://www.foodista.com/recipe/42PHKG4P/apple-pie-bars",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 5,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 78,
+            "healthScore": 0.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 28.15,
+            "extendedIngredients": [
+                {
+                    "id": 1039003,
+                    "aisle": "Produce",
+                    "image": "apple.jpg",
+                    "consistency": "SOLID",
+                    "name": "mcintosh apples",
+                    "nameClean": "mcintosh apples",
+                    "original": "3 large McIntosh apples, peeled, cored and finely chopped",
+                    "originalName": "McIntosh apples, peeled, cored and finely chopped",
+                    "amount": 3.0,
+                    "unit": "large",
+                    "meta": [
+                        "cored",
+                        "peeled",
+                        "finely chopped"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 3.0,
+                            "unitShort": "large",
+                            "unitLong": "larges"
+                        },
+                        "metric": {
+                            "amount": 3.0,
+                            "unitShort": "large",
+                            "unitLong": "larges"
+                        }
+                    }
+                },
+                {
+                    "id": 18369,
+                    "aisle": "Baking",
+                    "image": "white-powder.jpg",
+                    "consistency": "SOLID",
+                    "name": "baking powder",
+                    "nameClean": "baking powder",
+                    "original": "2 teaspoons baking powder",
+                    "originalName": "baking powder",
+                    "amount": 2.0,
+                    "unit": "teaspoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 18372,
+                    "aisle": "Baking",
+                    "image": "white-powder.jpg",
+                    "consistency": "SOLID",
+                    "name": "baking soda",
+                    "nameClean": "baking soda",
+                    "original": "1 teaspoon baking soda",
+                    "originalName": "baking soda",
+                    "amount": 1.0,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        }
+                    }
+                },
+                {
+                    "id": 19070,
+                    "aisle": "Baking",
+                    "image": "peanut-butter-or-butterscotch-chips.jpg",
+                    "consistency": "SOLID",
+                    "name": "butterscotch chips",
+                    "nameClean": "butterscotch chips",
+                    "original": "6 ounces (½ a 12-ounce package) butterscotch chips",
+                    "originalName": "(½ a 12-ounce package) butterscotch chips",
+                    "amount": 6.0,
+                    "unit": "ounces",
+                    "meta": [
+                        "()"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 6.0,
+                            "unitShort": "oz",
+                            "unitLong": "ounces"
+                        },
+                        "metric": {
+                            "amount": 170.097,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 1123,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "egg.png",
+                    "consistency": "SOLID",
+                    "name": "eggs",
+                    "nameClean": "eggs",
+                    "original": "2 eggs",
+                    "originalName": "eggs",
+                    "amount": 2.0,
+                    "unit": "",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 20081,
+                    "aisle": "Baking",
+                    "image": "flour.png",
+                    "consistency": "SOLID",
+                    "name": "flour",
+                    "nameClean": "flour",
+                    "original": "2 cups flour",
+                    "originalName": "flour",
+                    "amount": 2.0,
+                    "unit": "cups",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 250.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 1012010,
+                    "aisle": "Spices and Seasonings",
+                    "image": "cinnamon.jpg",
+                    "consistency": "SOLID",
+                    "name": "ground cinnamon",
+                    "nameClean": "ground cinnamon",
+                    "original": "1 teaspoon ground cinnamon",
+                    "originalName": "ground cinnamon",
+                    "amount": 1.0,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        }
+                    }
+                },
+                {
+                    "id": 2025,
+                    "aisle": "Spices and Seasonings",
+                    "image": "ground-nutmeg.jpg",
+                    "consistency": "SOLID",
+                    "name": "ground nutmeg",
+                    "nameClean": "ground nutmeg",
+                    "original": "1 teaspoon ground nutmeg",
+                    "originalName": "ground nutmeg",
+                    "amount": 1.0,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        }
+                    }
+                },
+                {
+                    "id": 2047,
+                    "aisle": "Spices and Seasonings",
+                    "image": "salt.jpg",
+                    "consistency": "SOLID",
+                    "name": "salt",
+                    "nameClean": "salt",
+                    "original": "1/2 teaspoon salt",
+                    "originalName": "salt",
+                    "amount": 0.5,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 0.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 19335,
+                    "aisle": "Baking",
+                    "image": "sugar-in-bowl.png",
+                    "consistency": "SOLID",
+                    "name": "sugar",
+                    "nameClean": "sugar",
+                    "original": "1 cup sugar",
+                    "originalName": "sugar",
+                    "amount": 1.0,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "cup",
+                            "unitLong": "cup"
+                        },
+                        "metric": {
+                            "amount": 200.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 4669,
+                    "aisle": "Oil, Vinegar, Salad Dressing",
+                    "image": "vegetable-oil.jpg",
+                    "consistency": "LIQUID",
+                    "name": "vegetable oil",
+                    "nameClean": "vegetable oil",
+                    "original": "1 cup vegetable oil",
+                    "originalName": "vegetable oil",
+                    "amount": 1.0,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "cup",
+                            "unitLong": "cup"
+                        },
+                        "metric": {
+                            "amount": 218.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                }
+            ],
+            "summary": "The recipe Apple Pie Bars could satisfy your American craving in roughly <b>1 hour and 15 minutes</b>. Watching your figure? This dairy free recipe has <b>134 calories</b>, <b>2g of protein</b>, and <b>3g of fat</b> per serving. For <b>28 cents per serving</b>, you get a dessert that serves 24. 78 people have tried and liked this recipe. A mixture of mcintosh apples, flour, vegetable oil, and a handful of other ingredients are all it takes to make this recipe so flavorful. It is brought to you by Foodista. With a spoonacular <b>score of 21%</b>, this dish is not so super. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/apple-pie-bars-610491\">Apple Pie Bars</a>, <a href=\"https://spoonacular.com/recipes/apple-pie-bars-543608\">Apple Pie Bars</a>, and <a href=\"https://spoonacular.com/recipes/apple-pie-bars-616727\">Apple Pie Bars</a>.",
+            "cuisines": [
+                "American"
+            ],
+            "dishTypes": [
+                "dessert"
+            ],
+            "diets": [
+                "dairy free"
+            ],
+            "occasions": [],
+            "instructions": "<ol><li>Preheat the oven to 350 degrees F.  Spray a 9 by 13 inch baking dish with cooking spray.</li><li>In the bowl of an electric mixer, thoroughly combine the oil, eggs, and sugar.  Sift the flour, baking powder, salt, soda, and spices together in a bowl, then add to the oil mixture in the mixer, beating until thoroughly mixed.  The batter will be thick.</li><li>Use a sturdy spoon to stir in the apple pieces.  Scrape the mixture into the prepared pan, spreading it out evenly.  Sprinkle the butterscotch chips over the top, pressing them into the batter lightly.</li><li>Bake for 45 minutes to 1 hour, until golden and pulling away from the sides of the pan slightly.</li><li>Cool thoroughly and cut into squares.</li></ol>",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Preheat the oven to 350 degrees F.  Spray a 9 by 13 inch baking dish with cooking spray.In the bowl of an electric mixer, thoroughly combine the oil, eggs, and sugar.  Sift the flour, baking powder, salt, soda, and spices together in a bowl, then add to the oil mixture in the mixer, beating until thoroughly mixed.  The batter will be thick.Use a sturdy spoon to stir in the apple pieces.  Scrape the mixture into the prepared pan, spreading it out evenly.",
+                            "ingredients": [
+                                {
+                                    "id": 18369,
+                                    "name": "baking powder",
+                                    "localizedName": "baking powder",
+                                    "image": "white-powder.jpg"
+                                },
+                                {
+                                    "id": 4679,
+                                    "name": "cooking spray",
+                                    "localizedName": "cooking spray",
+                                    "image": "cooking-spray.png"
+                                },
+                                {
+                                    "id": 2035,
+                                    "name": "spices",
+                                    "localizedName": "spices",
+                                    "image": "spices.png"
+                                },
+                                {
+                                    "id": 9003,
+                                    "name": "apple",
+                                    "localizedName": "apple",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/apple.jpg"
+                                },
+                                {
+                                    "id": 20081,
+                                    "name": "all purpose flour",
+                                    "localizedName": "all purpose flour",
+                                    "image": "flour.png"
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                },
+                                {
+                                    "id": 1123,
+                                    "name": "egg",
+                                    "localizedName": "egg",
+                                    "image": "egg.png"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "pop",
+                                    "localizedName": "soft drink",
+                                    "image": ""
+                                },
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404628,
+                                    "name": "hand mixer",
+                                    "localizedName": "hand mixer",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/hand-mixer.png"
+                                },
+                                {
+                                    "id": 404646,
+                                    "name": "baking pan",
+                                    "localizedName": "baking pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/roasting-pan.jpg"
+                                },
+                                {
+                                    "id": 404726,
+                                    "name": "blender",
+                                    "localizedName": "blender",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/blender.png"
+                                },
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                                },
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg",
+                                    "temperature": {
+                                        "number": 350.0,
+                                        "unit": "Fahrenheit"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Sprinkle the butterscotch chips over the top, pressing them into the batter lightly.",
+                            "ingredients": [
+                                {
+                                    "id": 19070,
+                                    "name": "butterscotch chips",
+                                    "localizedName": "butterscotch chips",
+                                    "image": "peanut-butter-or-butterscotch-chips.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Bake for 45 minutes to 1 hour, until golden and pulling away from the sides of the pan slightly.Cool thoroughly and cut into squares.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                },
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 105,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 11.733935356140137,
+            "spoonacularSourceUrl": "https://spoonacular.com/apple-pie-bars-632573"
+        }
+    ],
+    "totalResults": 5
+}

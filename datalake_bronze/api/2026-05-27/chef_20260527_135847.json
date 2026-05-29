@@ -1,0 +1,352 @@
+{
+    "results": [
+        {
+            "id": 664151,
+            "image": "https://img.spoonacular.com/recipes/664151-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Tuxedo Brownie Re-Make (Adapted From A Pampered Chef )",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/CNVRJ4B5/tuxedo-brownie-re-make-adapted-from-a-pampered-chef-recipe",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 15,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 1,
+            "healthScore": 0.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 95.01,
+            "extendedIngredients": [
+                {
+                    "id": 1017,
+                    "aisle": "Cheese",
+                    "image": "cream-cheese.jpg",
+                    "consistency": "SOLID",
+                    "name": "cream cheese",
+                    "nameClean": "cream cheese",
+                    "original": "1 8 oz package of cream cheese",
+                    "originalName": "package of cream cheese",
+                    "amount": 8.0,
+                    "unit": "oz",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 8.0,
+                            "unitShort": "oz",
+                            "unitLong": "ounces"
+                        },
+                        "metric": {
+                            "amount": 226.796,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 1077,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "milk.png",
+                    "consistency": "LIQUID",
+                    "name": "milk",
+                    "nameClean": "milk",
+                    "original": "1 tablespoon milk",
+                    "originalName": "milk",
+                    "amount": 1.0,
+                    "unit": "tablespoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        }
+                    }
+                },
+                {
+                    "id": 19336,
+                    "aisle": "Baking",
+                    "image": "powdered-sugar.jpg",
+                    "consistency": "SOLID",
+                    "name": "powdered sugar",
+                    "nameClean": "powdered sugar",
+                    "original": "1/4 cup powdered sugar",
+                    "originalName": "powdered sugar",
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 30.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 19903,
+                    "aisle": "Sweet Snacks",
+                    "image": "dark-chocolate-pieces.jpg",
+                    "consistency": "SOLID",
+                    "name": "semi-sweet chocolate",
+                    "nameClean": "semi-sweet chocolate",
+                    "original": "1 ounce square of semi-sweet chocolate",
+                    "originalName": "semi-sweet chocolate",
+                    "amount": 1.0,
+                    "unit": "ounce",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "oz",
+                            "unitLong": "ounce"
+                        },
+                        "metric": {
+                            "amount": 28.35,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 42135,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "whipped-cream.jpg",
+                    "consistency": "SOLID",
+                    "name": "whipped topping",
+                    "nameClean": "whipped topping",
+                    "original": "1 cup thawed frozen whipped topping",
+                    "originalName": "thawed frozen whipped topping",
+                    "amount": 1.0,
+                    "unit": "cup",
+                    "meta": [
+                        "frozen",
+                        "thawed"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "cup",
+                            "unitLong": "cup"
+                        },
+                        "metric": {
+                            "amount": 75.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 99278,
+                    "aisle": "Baking",
+                    "image": "chocolate-chips.jpg",
+                    "consistency": "SOLID",
+                    "name": "garnish",
+                    "nameClean": "garnish",
+                    "original": "garnish (mini-chocolate chips)",
+                    "originalName": "garnish (mini-chocolate chips)",
+                    "amount": 4.0,
+                    "unit": "servings",
+                    "meta": [
+                        "(mini-chocolate chips)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 4.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                }
+            ],
+            "summary": "The recipe Tuxedo Brownie Re-Make (Adapted From A Pampered Chef ) can be made <b>in about 45 minutes</b>. One serving contains <b>318 calories</b>, <b>5g of protein</b>, and <b>25g of fat</b>. This gluten free recipe serves 4 and costs <b>95 cents per serving</b>. Only a few people really liked this dessert. This recipe is liked by 1 foodies and cooks. If you have cream cheese, milk, semi-sweet chocolate, and a few other ingredients on hand, you can make it. This recipe is typical of American cuisine. It is brought to you by Foodista. With a spoonacular <b>score of 13%</b>, this dish is rather bad. Similar recipes include <a href=\"https://spoonacular.com/recipes/quesadillas-the-pampered-chef-145449\">Quesadillas (The Pampered Chef)</a>, <a href=\"https://spoonacular.com/recipes/pampered-chef-perfectly-creamy-cheesecake-131237\">Pampered Chef Perfectly Creamy Cheesecake</a>, and <a href=\"https://spoonacular.com/recipes/garden-ranch-pizza-pampered-chef-111107\">Garden Ranch Pizza-Pampered Chef</a>.",
+            "cuisines": [
+                "American"
+            ],
+            "dishTypes": [
+                "dessert"
+            ],
+            "diets": [
+                "gluten free"
+            ],
+            "occasions": [],
+            "instructions": "<ol><li>Preheat oven 325 degrees.</li><li>Spray mini muffin pan with nonstick cooking spray.</li><li>Prepare brownie mix according to package for cake-like brownies.</li><li>Fill cups 2/3 full and bake.</li><li>Remove from oven and place on cooling rack.</li><li>Press a small well in each brownie.</li><li>Cool for 15 minutes and remove from pan.</li><li>In microwave melt chocolate and milk.  Stir until smooth.  Cool slightly.</li><li>In separate bowl mix softened cream cheese and powdered sugar.</li><li>Add chocolate mixture to cream cheese mixture - mix until smooth.  Gradually fold in whipped topping.</li><li>Using a pastry bag, or Pampered Chef's Easy Accent Decorator (star tip) fill the center of each brownie.  Garnish.</li><li>Refrigerate for 1-3 hours before serving.  Makes about 4 dozen</li></ol>",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Preheat oven 325 degrees.Spray mini muffin pan with nonstick cooking spray.Prepare brownie mix according to package for cake-like brownies.Fill cups 2/3 full and bake.",
+                            "ingredients": [
+                                {
+                                    "id": 4679,
+                                    "name": "cooking spray",
+                                    "localizedName": "cooking spray",
+                                    "image": "cooking-spray.png"
+                                },
+                                {
+                                    "id": 18632,
+                                    "name": "brownie mix",
+                                    "localizedName": "brownie mix",
+                                    "image": "brownie-isolated.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 405905,
+                                    "name": "mini muffin tray",
+                                    "localizedName": "mini muffin tray",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/mini-muffin-tray.jpg"
+                                },
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Remove from oven and place on cooling rack.Press a small well in each brownie.Cool for 15 minutes and remove from pan.In microwave melt chocolate and milk.  Stir until smooth.  Cool slightly.In separate bowl mix softened cream cheese and powdered sugar.",
+                            "ingredients": [
+                                {
+                                    "id": 19336,
+                                    "name": "powdered sugar",
+                                    "localizedName": "powdered sugar",
+                                    "image": "powdered-sugar.jpg"
+                                },
+                                {
+                                    "id": 1017,
+                                    "name": "cream cheese",
+                                    "localizedName": "cream cheese",
+                                    "image": "cream-cheese.jpg"
+                                },
+                                {
+                                    "id": 19081,
+                                    "name": "chocolate",
+                                    "localizedName": "chocolate",
+                                    "image": "milk-chocolate.jpg"
+                                },
+                                {
+                                    "id": 1077,
+                                    "name": "milk",
+                                    "localizedName": "milk",
+                                    "image": "milk.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 405900,
+                                    "name": "wire rack",
+                                    "localizedName": "wire rack",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/wire-rack.jpg"
+                                },
+                                {
+                                    "id": 404762,
+                                    "name": "microwave",
+                                    "localizedName": "microwave",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/microwave.jpg"
+                                },
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                                },
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                },
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 15,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 3,
+                            "step": "Add chocolate mixture to cream cheese mixture - mix until smooth.  Gradually fold in whipped topping.Using a pastry bag, or Pampered Chef's Easy Accent Decorator (star tip) fill the center of each brownie.",
+                            "ingredients": [
+                                {
+                                    "id": 42135,
+                                    "name": "whipped topping",
+                                    "localizedName": "whipped topping",
+                                    "image": "whipped-cream.jpg"
+                                },
+                                {
+                                    "id": 1017,
+                                    "name": "cream cheese",
+                                    "localizedName": "cream cheese",
+                                    "image": "cream-cheese.jpg"
+                                },
+                                {
+                                    "id": 19081,
+                                    "name": "chocolate",
+                                    "localizedName": "chocolate",
+                                    "image": "milk-chocolate.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404757,
+                                    "name": "pastry bag",
+                                    "localizedName": "pastry bag",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/pastry-bag.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Garnish.Refrigerate for 1-3 hours before serving.  Makes about 4 dozen",
+                            "ingredients": [],
+                            "equipment": [],
+                            "length": {
+                                "number": 180,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 7.555525779724121,
+            "spoonacularSourceUrl": "https://spoonacular.com/tuxedo-brownie-re-make-adapted-from-a-pampered-chef--664151"
+        }
+    ],
+    "totalResults": 1
+}

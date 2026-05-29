@@ -1,0 +1,2819 @@
+{
+    "results": [
+        {
+            "id": 1096302,
+            "image": "https://img.spoonacular.com/recipes/1096302-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Coffee Chia Pudding",
+            "readyInMinutes": 250,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/JRRN2VFD/coffee-chia-pudding",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": true,
+            "weightWatcherSmartPoints": 8,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 1,
+            "healthScore": 19.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 127.07,
+            "extendedIngredients": [
+                {
+                    "id": 14209,
+                    "aisle": "Tea and Coffee",
+                    "image": "brewed-coffee.jpg",
+                    "consistency": "SOLID",
+                    "name": "coffee",
+                    "nameClean": "coffee",
+                    "original": "90ml brewed coffee",
+                    "originalName": "brewed coffee",
+                    "amount": 90.0,
+                    "unit": "ml",
+                    "meta": [
+                        "brewed"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 3.049,
+                            "unitShort": "fl. oz",
+                            "unitLong": "fl. ozs"
+                        },
+                        "metric": {
+                            "amount": 90.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 93607,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "almond-milk.png",
+                    "consistency": "LIQUID",
+                    "name": "almond milk",
+                    "nameClean": "almond milk",
+                    "original": "120ml of unsweetened almond milk",
+                    "originalName": "unsweetened almond milk",
+                    "amount": 120.0,
+                    "unit": "ml",
+                    "meta": [
+                        "unsweetened"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 4.288,
+                            "unitShort": "fl. oz",
+                            "unitLong": "fl. ozs"
+                        },
+                        "metric": {
+                            "amount": 120.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 19911,
+                    "aisle": "Cereal",
+                    "image": "maple-syrup.png",
+                    "consistency": "LIQUID",
+                    "name": "maple syrup",
+                    "nameClean": "maple syrup",
+                    "original": "1 tablespoon of maple syrup",
+                    "originalName": "maple syrup",
+                    "amount": 1.0,
+                    "unit": "tablespoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        }
+                    }
+                },
+                {
+                    "id": 12006,
+                    "aisle": "Health Foods",
+                    "image": "chia-seeds.jpg",
+                    "consistency": "SOLID",
+                    "name": "chia seeds",
+                    "nameClean": "chia seeds",
+                    "original": "8 tablespoons of chia seeds",
+                    "originalName": "chia seeds",
+                    "amount": 8.0,
+                    "unit": "tablespoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 8.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 8.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 2050,
+                    "aisle": "Baking",
+                    "image": "vanilla-extract.jpg",
+                    "consistency": "LIQUID",
+                    "name": "vanilla extract",
+                    "nameClean": "vanilla extract",
+                    "original": "2 drops of vanilla extract",
+                    "originalName": "vanilla extract",
+                    "amount": 2.0,
+                    "unit": "drops",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "drops",
+                            "unitLong": "drops"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "drops",
+                            "unitLong": "drops"
+                        }
+                    }
+                }
+            ],
+            "summary": "Coffee Chia Pudding might be just the dessert you are searching for. One serving contains <b>270 calories</b>, <b>8g of protein</b>, and <b>16g of fat</b>. This gluten free, dairy free, and fodmap friendly recipe serves 2 and costs <b>$1.27 per serving</b>. 1 person were glad they tried this recipe. This recipe from Foodista requires coffee, almond milk, vanillan extract, and chia seeds. From preparation to the plate, this recipe takes approximately <b>4 hours and 10 minutes</b>. Overall, this recipe earns a <b>good spoonacular score of 62%</b>. <a href=\"https://spoonacular.com/recipes/coffee-and-chocolate-chia-seed-pudding-553412\">Coffee and chocolate chia seed pudding</a>, <a href=\"https://spoonacular.com/recipes/overnight-chocolate-coffee-chia-breakfast-pudding-1240595\">Overnight Chocolate Coffee Chia Breakfast Pudding</a>, and <a href=\"https://spoonacular.com/recipes/overnight-chocolate-coffee-chia-breakfast-pudding-1309615\">Overnight Chocolate Coffee Chia Breakfast Pudding</a> are very similar to this recipe.",
+            "cuisines": [],
+            "dishTypes": [
+                "dessert"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "fodmap friendly"
+            ],
+            "occasions": [],
+            "instructions": "<ol><li>In a mixing bowl, add all of the ingredients and stir until fully combined.</li><li>Fill your glasses or bowls with the chia pudding mixture and pop them into the fridge to chill for at least 4 hours or, better, overnight.</li><li>If desired, you can add dairy free whipped cream on top (totally optional!)</li></ol><span></span>",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "In a mixing bowl, add all of the ingredients and stir until fully combined.Fill your glasses or bowls with the chia pudding mixture and pop them into the fridge to chill for at least 4 hours or, better, overnight.If desired, you can add dairy free whipped cream on top (totally optional!)",
+                            "ingredients": [
+                                {
+                                    "id": 1054,
+                                    "name": "whipped cream",
+                                    "localizedName": "whipped cream",
+                                    "image": "whipped-cream.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "pop",
+                                    "localizedName": "soft drink",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 405907,
+                                    "name": "mixing bowl",
+                                    "localizedName": "mixing bowl",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/mixing-bowl.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 240,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 66.74595642089844,
+            "spoonacularSourceUrl": "https://spoonacular.com/coffee-chia-pudding-1096302"
+        },
+        {
+            "id": 639882,
+            "image": "https://img.spoonacular.com/recipes/639882-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Coffee Mousse Cake",
+            "readyInMinutes": 45,
+            "servings": 12,
+            "sourceUrl": "https://www.foodista.com/recipe/X3KRLCWS/coffee-mousse-cake",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 20,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 1,
+            "healthScore": 2.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 139.89,
+            "extendedIngredients": [
+                {
+                    "id": 20081,
+                    "aisle": "Baking",
+                    "image": "flour.png",
+                    "consistency": "SOLID",
+                    "name": "all purpose flour",
+                    "nameClean": "all purpose flour",
+                    "original": "1 1/4 cups all purpose flour (570 cal)",
+                    "originalName": "all purpose flour (570 cal)",
+                    "amount": 1.25,
+                    "unit": "cups",
+                    "meta": [
+                        "(570 cal)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.25,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 156.25,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 18369,
+                    "aisle": "Baking",
+                    "image": "white-powder.jpg",
+                    "consistency": "SOLID",
+                    "name": "baking powder",
+                    "nameClean": "baking powder",
+                    "original": "1 3/4 teaspoons baking powder",
+                    "originalName": "baking powder",
+                    "amount": 1.75,
+                    "unit": "teaspoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.75,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 1.75,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 10114037,
+                    "aisle": "Alcoholic Beverages",
+                    "image": "brandy.png",
+                    "consistency": "LIQUID",
+                    "name": "brandy",
+                    "nameClean": "brandy",
+                    "original": "1/2 tablespoon brandy (20 cal)",
+                    "originalName": "brandy (20 cal)",
+                    "amount": 0.5,
+                    "unit": "tablespoon",
+                    "meta": [
+                        "(20 cal)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 0.5,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 10114037,
+                    "aisle": "Alcoholic Beverages",
+                    "image": "brandy.png",
+                    "consistency": "LIQUID",
+                    "name": "brandy",
+                    "nameClean": "brandy",
+                    "original": "1 tablespoon brandy (40 cal)",
+                    "originalName": "brandy (40 cal)",
+                    "amount": 1.0,
+                    "unit": "tablespoon",
+                    "meta": [
+                        "(40 cal)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        }
+                    }
+                },
+                {
+                    "id": 19334,
+                    "aisle": "Baking",
+                    "image": "light-brown-sugar.jpg",
+                    "consistency": "SOLID",
+                    "name": "brown sugar",
+                    "nameClean": "brown sugar",
+                    "original": "1/4 cup brown sugar, not packed (140 cal)",
+                    "originalName": "brown sugar, not packed (140 cal)",
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "meta": [
+                        "packed",
+                        "(140 cal)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 55.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 1012,
+                    "aisle": "Cheese",
+                    "image": "cottage-cheese.jpg",
+                    "consistency": "SOLID",
+                    "name": "cottage cheese",
+                    "nameClean": "cottage cheese",
+                    "original": "1 1/2 cups cottage cheese (330 cal)",
+                    "originalName": "cottage cheese (330 cal)",
+                    "amount": 1.5,
+                    "unit": "cups",
+                    "meta": [
+                        "(330 cal)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 339.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 18373,
+                    "aisle": "Spices and Seasonings",
+                    "image": "white-powder.jpg",
+                    "consistency": "SOLID",
+                    "name": "cream of tartar",
+                    "nameClean": "cream of tartar",
+                    "original": "pinch of cream of tartar",
+                    "originalName": "pinch of cream of tartar",
+                    "amount": 1.0,
+                    "unit": "pinch",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "pinch",
+                            "unitLong": "pinch"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "pinch",
+                            "unitLong": "pinch"
+                        }
+                    }
+                },
+                {
+                    "id": 19904,
+                    "aisle": "Sweet Snacks",
+                    "image": "dark-chocolate-pieces.jpg",
+                    "consistency": "SOLID",
+                    "name": "chocolate",
+                    "nameClean": "chocolate",
+                    "original": "8 ounces dark chocolate (1090 cal)",
+                    "originalName": "dark chocolate (1090 cal)",
+                    "amount": 8.0,
+                    "unit": "ounces",
+                    "meta": [
+                        "dark",
+                        "(1090 cal)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 8.0,
+                            "unitShort": "oz",
+                            "unitLong": "ounces"
+                        },
+                        "metric": {
+                            "amount": 226.796,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 1124,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "egg-white.jpg",
+                    "consistency": "SOLID",
+                    "name": "egg whites",
+                    "nameClean": "egg whites",
+                    "original": "4 egg whites (60 cal)",
+                    "originalName": "egg whites (60 cal)",
+                    "amount": 4.0,
+                    "unit": "",
+                    "meta": [
+                        "(60 cal)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 4.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 1123,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "egg.png",
+                    "consistency": "SOLID",
+                    "name": "eggs",
+                    "nameClean": "eggs",
+                    "original": "3 eggs separated (210 cal)",
+                    "originalName": "eggs separated (210 cal)",
+                    "amount": 3.0,
+                    "unit": "",
+                    "meta": [
+                        "separated",
+                        "(210 cal)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 3.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 3.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 19177,
+                    "aisle": "Baking",
+                    "image": "gelatin-powder.jpg",
+                    "consistency": "SOLID",
+                    "name": "gelatin",
+                    "nameClean": "gelatin",
+                    "original": "2 tablespoons gelatin",
+                    "originalName": "gelatin",
+                    "amount": 2.0,
+                    "unit": "tablespoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 14214,
+                    "aisle": "Tea and Coffee",
+                    "image": "instant-coffee-or-instant-espresso.png",
+                    "consistency": "SOLID",
+                    "name": "coffee",
+                    "nameClean": "coffee",
+                    "original": "2 tablespoons instant coffee (10 cal)",
+                    "originalName": "instant coffee (10 cal)",
+                    "amount": 2.0,
+                    "unit": "tablespoons",
+                    "meta": [
+                        "instant",
+                        "(10 cal)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 1077,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "milk.png",
+                    "consistency": "LIQUID",
+                    "name": "milk",
+                    "nameClean": "milk",
+                    "original": "1/2 cup milk (65 cal)",
+                    "originalName": "milk (65 cal)",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "meta": [
+                        "(65 cal)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 122.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 1077,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "milk.png",
+                    "consistency": "LIQUID",
+                    "name": "milk",
+                    "nameClean": "milk",
+                    "original": "2/3 cup milk (85 cal)",
+                    "originalName": "milk (85 cal)",
+                    "amount": 0.6666667,
+                    "unit": "cup",
+                    "meta": [
+                        "(85 cal)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.6666667,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 162.667,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 10019137,
+                    "aisle": "Nut butters, Jams, and Honey",
+                    "image": "raspberry-sauce.jpg",
+                    "consistency": "SOLID",
+                    "name": "raspberry sauce",
+                    "nameClean": "raspberry sauce",
+                    "original": "1 tablespoon raspberry sauce (50 cal)",
+                    "originalName": "raspberry sauce (50 cal)",
+                    "amount": 1.0,
+                    "unit": "tablespoon",
+                    "meta": [
+                        "(50 cal)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        }
+                    }
+                },
+                {
+                    "id": 2047,
+                    "aisle": "Spices and Seasonings",
+                    "image": "salt.jpg",
+                    "consistency": "SOLID",
+                    "name": "salt",
+                    "nameClean": "salt",
+                    "original": "1/4 teaspoon salt",
+                    "originalName": "salt",
+                    "amount": 0.25,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 0.25,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 19335,
+                    "aisle": "Baking",
+                    "image": "sugar-in-bowl.png",
+                    "consistency": "SOLID",
+                    "name": "sugar",
+                    "nameClean": "sugar",
+                    "original": "1/2 cup sugar (390 cal)",
+                    "originalName": "sugar (390 cal)",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "meta": [
+                        "(390 cal)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 100.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 19335,
+                    "aisle": "Baking",
+                    "image": "sugar-in-bowl.png",
+                    "consistency": "SOLID",
+                    "name": "tbsp sugar",
+                    "nameClean": "tbsp sugar",
+                    "original": "3/4 cup + 3 tbsp sugar (720 cal)",
+                    "originalName": "3 tbsp sugar (720 cal)",
+                    "amount": 0.75,
+                    "unit": "cup",
+                    "meta": [
+                        "(720 cal)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.75,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 150.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 1145,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "butter-sliced.jpg",
+                    "consistency": "SOLID",
+                    "name": "butter",
+                    "nameClean": "butter",
+                    "original": "3/4 cup unsalted butter or margarine at room temperature (1220 cal)",
+                    "originalName": "unsalted butter or margarine at room temperature (1220 cal)",
+                    "amount": 0.75,
+                    "unit": "cup",
+                    "meta": [
+                        "unsalted",
+                        "at room temperature",
+                        "(1220 cal)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.75,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 170.25,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 2050,
+                    "aisle": "Baking",
+                    "image": "vanilla-extract.jpg",
+                    "consistency": "LIQUID",
+                    "name": "vanilla extract",
+                    "nameClean": "vanilla extract",
+                    "original": "1 teaspoon vanilla extract (10 cal)",
+                    "originalName": "vanilla extract (10 cal)",
+                    "amount": 1.0,
+                    "unit": "teaspoon",
+                    "meta": [
+                        "(10 cal)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        }
+                    }
+                },
+                {
+                    "id": 2050,
+                    "aisle": "Baking",
+                    "image": "vanilla-extract.jpg",
+                    "consistency": "LIQUID",
+                    "name": "vanilla extract",
+                    "nameClean": "vanilla extract",
+                    "original": "2 tablespoons vanilla extract (75 cal)",
+                    "originalName": "vanilla extract (75 cal)",
+                    "amount": 2.0,
+                    "unit": "tablespoons",
+                    "meta": [
+                        "(75 cal)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 14412,
+                    "aisle": "Beverages",
+                    "image": "water.png",
+                    "consistency": "LIQUID",
+                    "name": "tbsp water",
+                    "nameClean": "tbsp water",
+                    "original": "1/4 cup + 2 tbsp water",
+                    "originalName": "2 tbsp water",
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 59.147,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 14412,
+                    "aisle": "Beverages",
+                    "image": "water.png",
+                    "consistency": "LIQUID",
+                    "name": "water",
+                    "nameClean": "water",
+                    "original": "1/4 cup water",
+                    "originalName": "water",
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 59.147,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                }
+            ],
+            "summary": "Coffee Mousse Cake might be just the dessert you are searching for. This recipe makes 12 servings with <b>446 calories</b>, <b>10g of protein</b>, and <b>23g of fat</b> each. For <b>$1.4 per serving</b>, this recipe <b>covers 10%</b> of your daily requirements of vitamins and minerals. 1 person found this recipe to be flavorful and satisfying. A mixture of brandy, tbsp water, cream of tartar, and a handful of other ingredients are all it takes to make this recipe so yummy. It is brought to you by Foodista. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. With a spoonacular <b>score of 28%</b>, this dish is rather bad. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/dark-chocolate-and-white-coffee-mousse-cake-581936\">Dark Chocolate and White Coffee Mousse Cake</a>, <a href=\"https://spoonacular.com/recipes/chocolate-spider-cake-with-caramel-coffee-mousse-62548\">Chocolate Spider Cake with Caramel-Coffee Mousse</a>, and <a href=\"https://spoonacular.com/recipes/coffee-mousse-271285\">Coffee Mousse</a>.",
+            "cuisines": [],
+            "dishTypes": [
+                "dessert"
+            ],
+            "diets": [],
+            "occasions": [],
+            "instructions": "<ol><li>For the cake</li><li>Preheat the oven to 350F. Butter a 9-inch cake pan.</li><li>In a bowl, sift together the flour, baking powder, and salt and whisk together.</li><li>Cream the butter and the 3/4 cup of sugar, with a mixer or a heavy wooden spoon. Whisk in the egg yolks, the milk and the vanilla extract until the mixture is smooth. Whisk in the flour mixture, 1/2 cup at a time. Dont overwork.</li><li>Beat the egg whites and cream of tartar for about 2 minutes until soft peaks. Then add the remaining 3 tbsp of sugar and beat until medium peaks.</li><li>Whisk one-forth of the egg mixture into the butter mixture to lighten it. Fold the rest of the egg white mixture with a rubber spatula. Spread the batter in the cake pan, and bake for about 40-50 minutes or until a toothpick inserted in the center comes out clean.</li><li>Let cool for 5 minutes in a cake pan and then transfer to a cooling rack to cool completely.</li><li>When the cake is at a room temperature, insert 4 toothpicks on 4 sides of the cakes, to mark the middle. With a long bread knife, cut the cake into 2 halves lengthwise along the toothpicks.</li><li>For the syrup</li><li>Mix the sugar with the water and the brandy thoroughly until all the sugar is dissolved. Place in the fridge until the cake is ready to assemble. When the coffee mousse is ready using a pastry brush spread the syrup over the 2 halves and let soak for 3-5 minutes before adding the mousse.</li><li>For the mousse</li><li>Soak gelatin in 1/4 cup water for 3 minutes, heat it up in a microwave for 1/2 minute. Let it sit for 3 minutes, the gelatin water will become completely clear.</li><li>Add instant coffee into 2 tbsp of warm water, stir till melts.</li><li>In a food processor or a blender, process the cottage cheese until smooth. Add the brandy, the coffee, the vanilla essence, 1/4 cup of sugar and the gelatin and blend to uniform consistency.</li><li>Whisk 4 egg whites with cream of tartar until soft peaks. Add the remaining 1/4 cup of sugar and beat until medium peaks. Fold the egg whites into the cheese mixture.</li><li>Spread 1/2 of the mousse over the first layer of the cake, once its soaked with the syrup. Place the second cake layer on top of the mousse and spread the remaining mousse over the top and along the sides. It is very convenient to use an offset spatula to smoothen the mousse.</li><li>Chill the cake in the fridge for about 3 hours until the mousse sets.</li><li>For the ganache</li><li>Break the chocolate into small pieces. Pour the raspberry syrup over the chocolate.</li><li>In a small saucepan heat the milk until simmers. Pour the milk over the chocolate and stir until the chocolate melts and the mixture is of uniform consistency.</li><li>Let the ganache cool for about 5 minutes until only slightly warm and pour over the cake. Do not pour hot ganache because it could melt the mousse.</li><li>Chill the cake for another 3 hours.</li></ol>",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "For the cake",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 2,
+                            "step": "Preheat the oven to 350F. Butter a 9-inch cake pan.In a bowl, sift together the flour, baking powder, and salt and whisk together.Cream the butter and the 3/4 cup of sugar, with a mixer or a heavy wooden spoon.",
+                            "ingredients": [
+                                {
+                                    "id": 18369,
+                                    "name": "baking powder",
+                                    "localizedName": "baking powder",
+                                    "image": "white-powder.jpg"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                },
+                                {
+                                    "id": 1053,
+                                    "name": "cream",
+                                    "localizedName": "cream",
+                                    "image": "fluid-cream.jpg"
+                                },
+                                {
+                                    "id": 20081,
+                                    "name": "all purpose flour",
+                                    "localizedName": "all purpose flour",
+                                    "image": "flour.png"
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404732,
+                                    "name": "wooden spoon",
+                                    "localizedName": "wooden spoon",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/wooden-spoon.jpg"
+                                },
+                                {
+                                    "id": 404747,
+                                    "name": "cake form",
+                                    "localizedName": "cake form",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/cake-pan.png"
+                                },
+                                {
+                                    "id": 404726,
+                                    "name": "blender",
+                                    "localizedName": "blender",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/blender.png"
+                                },
+                                {
+                                    "id": 404661,
+                                    "name": "whisk",
+                                    "localizedName": "whisk",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/whisk.png"
+                                },
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                                },
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg",
+                                    "temperature": {
+                                        "number": 350.0,
+                                        "unit": "Fahrenheit"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "Whisk in the egg yolks, the milk and the vanilla extract until the mixture is smooth.",
+                            "ingredients": [
+                                {
+                                    "id": 2050,
+                                    "name": "vanilla extract",
+                                    "localizedName": "vanilla extract",
+                                    "image": "vanilla-extract.jpg"
+                                },
+                                {
+                                    "id": 1125,
+                                    "name": "egg yolk",
+                                    "localizedName": "egg yolk",
+                                    "image": "egg-yolk.jpg"
+                                },
+                                {
+                                    "id": 1077,
+                                    "name": "milk",
+                                    "localizedName": "milk",
+                                    "image": "milk.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404661,
+                                    "name": "whisk",
+                                    "localizedName": "whisk",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/whisk.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Whisk in the flour mixture, 1/2 cup at a time. Dont overwork.Beat the egg whites and cream of tartar for about 2 minutes until soft peaks. Then add the remaining 3 tbsp of sugar and beat until medium peaks.",
+                            "ingredients": [
+                                {
+                                    "id": 18373,
+                                    "name": "cream of tartar",
+                                    "localizedName": "cream of tartar",
+                                    "image": "white-powder.jpg"
+                                },
+                                {
+                                    "id": 1124,
+                                    "name": "egg whites",
+                                    "localizedName": "egg whites",
+                                    "image": "egg-white.jpg"
+                                },
+                                {
+                                    "id": 20081,
+                                    "name": "all purpose flour",
+                                    "localizedName": "all purpose flour",
+                                    "image": "flour.png"
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404661,
+                                    "name": "whisk",
+                                    "localizedName": "whisk",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/whisk.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 2,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 5,
+                            "step": "Whisk one-forth of the egg mixture into the butter mixture to lighten it. Fold the rest of the egg white mixture with a rubber spatula.",
+                            "ingredients": [
+                                {
+                                    "id": 1124,
+                                    "name": "egg whites",
+                                    "localizedName": "egg whites",
+                                    "image": "egg-white.jpg"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                },
+                                {
+                                    "id": 1123,
+                                    "name": "egg",
+                                    "localizedName": "egg",
+                                    "image": "egg.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404642,
+                                    "name": "spatula",
+                                    "localizedName": "spatula",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/spatula-or-turner.jpg"
+                                },
+                                {
+                                    "id": 404661,
+                                    "name": "whisk",
+                                    "localizedName": "whisk",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/whisk.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "step": "Spread the batter in the cake pan, and bake for about 40-50 minutes or until a toothpick inserted in the center comes out clean.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "spread",
+                                    "localizedName": "spread",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404644,
+                                    "name": "toothpicks",
+                                    "localizedName": "toothpicks",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/toothpicks.jpg"
+                                },
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                },
+                                {
+                                    "id": 404747,
+                                    "name": "cake form",
+                                    "localizedName": "cake form",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/cake-pan.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 50,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 7,
+                            "step": "Let cool for 5 minutes in a cake pan and then transfer to a cooling rack to cool completely.When the cake is at a room temperature, insert 4 toothpicks on 4 sides of the cakes, to mark the middle. With a long bread knife, cut the cake into 2 halves lengthwise along the toothpicks.For the syrup",
+                            "ingredients": [
+                                {
+                                    "id": 18064,
+                                    "name": "bread",
+                                    "localizedName": "bread",
+                                    "image": "white-bread.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "syrup",
+                                    "localizedName": "syrup",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 405900,
+                                    "name": "wire rack",
+                                    "localizedName": "wire rack",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/wire-rack.jpg"
+                                },
+                                {
+                                    "id": 404773,
+                                    "name": "bread knife",
+                                    "localizedName": "bread knife",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/bread-knife.jpg"
+                                },
+                                {
+                                    "id": 404644,
+                                    "name": "toothpicks",
+                                    "localizedName": "toothpicks",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/toothpicks.jpg"
+                                },
+                                {
+                                    "id": 404747,
+                                    "name": "cake form",
+                                    "localizedName": "cake form",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/cake-pan.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 8,
+                            "step": "Mix the sugar with the water and the brandy thoroughly until all the sugar is dissolved.",
+                            "ingredients": [
+                                {
+                                    "id": 10114037,
+                                    "name": "brandy",
+                                    "localizedName": "brandy",
+                                    "image": "brandy.png"
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 9,
+                            "step": "Place in the fridge until the cake is ready to assemble. When the coffee mousse is ready using a pastry brush spread the syrup over the 2 halves and let soak for 3-5 minutes before adding the mousse.For the mousse",
+                            "ingredients": [
+                                {
+                                    "id": 14209,
+                                    "name": "coffee",
+                                    "localizedName": "coffee",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/brewed-coffee.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "spread",
+                                    "localizedName": "spread",
+                                    "image": ""
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "syrup",
+                                    "localizedName": "syrup",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404764,
+                                    "name": "pastry brush",
+                                    "localizedName": "pastry brush",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/pastry-brush.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 10,
+                            "step": "Soak gelatin in 1/4 cup water for 3 minutes, heat it up in a microwave for 1/2 minute.",
+                            "ingredients": [
+                                {
+                                    "id": 19177,
+                                    "name": "gelatin",
+                                    "localizedName": "gelatin",
+                                    "image": "gelatin-powder.jpg"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404762,
+                                    "name": "microwave",
+                                    "localizedName": "microwave",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/microwave.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 11,
+                            "step": "Let it sit for 3 minutes, the gelatin water will become completely clear.",
+                            "ingredients": [
+                                {
+                                    "id": 19177,
+                                    "name": "gelatin",
+                                    "localizedName": "gelatin",
+                                    "image": "gelatin-powder.jpg"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 3,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 12,
+                            "step": "Add instant coffee into 2 tbsp of warm water, stir till melts.In a food processor or a blender, process the cottage cheese until smooth.",
+                            "ingredients": [
+                                {
+                                    "id": 1012,
+                                    "name": "cottage cheese",
+                                    "localizedName": "cottage cheese",
+                                    "image": "cottage-cheese.jpg"
+                                },
+                                {
+                                    "id": 14214,
+                                    "name": "instant coffee",
+                                    "localizedName": "instant coffee",
+                                    "image": "instant-coffee-or-instant-espresso.png"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404771,
+                                    "name": "food processor",
+                                    "localizedName": "food processor",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/food-processor.png"
+                                },
+                                {
+                                    "id": 404726,
+                                    "name": "blender",
+                                    "localizedName": "blender",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/blender.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 13,
+                            "step": "Add the brandy, the coffee, the vanilla essence, 1/4 cup of sugar and the gelatin and blend to uniform consistency.",
+                            "ingredients": [
+                                {
+                                    "id": 1012050,
+                                    "name": "artificial vanilla",
+                                    "localizedName": "artificial vanilla",
+                                    "image": "vanilla-extract.jpg"
+                                },
+                                {
+                                    "id": 19177,
+                                    "name": "gelatin",
+                                    "localizedName": "gelatin",
+                                    "image": "gelatin-powder.jpg"
+                                },
+                                {
+                                    "id": 10114037,
+                                    "name": "brandy",
+                                    "localizedName": "brandy",
+                                    "image": "brandy.png"
+                                },
+                                {
+                                    "id": 14209,
+                                    "name": "coffee",
+                                    "localizedName": "coffee",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/brewed-coffee.jpg"
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 14,
+                            "step": "Whisk 4 egg whites with cream of tartar until soft peaks.",
+                            "ingredients": [
+                                {
+                                    "id": 18373,
+                                    "name": "cream of tartar",
+                                    "localizedName": "cream of tartar",
+                                    "image": "white-powder.jpg"
+                                },
+                                {
+                                    "id": 1124,
+                                    "name": "egg whites",
+                                    "localizedName": "egg whites",
+                                    "image": "egg-white.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404661,
+                                    "name": "whisk",
+                                    "localizedName": "whisk",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/whisk.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 15,
+                            "step": "Add the remaining 1/4 cup of sugar and beat until medium peaks. Fold the egg whites into the cheese mixture.",
+                            "ingredients": [
+                                {
+                                    "id": 1124,
+                                    "name": "egg whites",
+                                    "localizedName": "egg whites",
+                                    "image": "egg-white.jpg"
+                                },
+                                {
+                                    "id": 1041009,
+                                    "name": "cheese",
+                                    "localizedName": "cheese",
+                                    "image": "cheddar-cheese.png"
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 16,
+                            "step": "Spread 1/2 of the mousse over the first layer of the cake, once its soaked with the syrup.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "spread",
+                                    "localizedName": "spread",
+                                    "image": ""
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "syrup",
+                                    "localizedName": "syrup",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 17,
+                            "step": "Place the second cake layer on top of the mousse and spread the remaining mousse over the top and along the sides. It is very convenient to use an offset spatula to smoothen the mousse.Chill the cake in the fridge for about 3 hours until the mousse sets.For the ganache",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "spread",
+                                    "localizedName": "spread",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 405901,
+                                    "name": "offset spatula",
+                                    "localizedName": "offset spatula",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/offset-spatula.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 180,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 18,
+                            "step": "Break the chocolate into small pieces.",
+                            "ingredients": [
+                                {
+                                    "id": 19081,
+                                    "name": "chocolate",
+                                    "localizedName": "chocolate",
+                                    "image": "milk-chocolate.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 19,
+                            "step": "Pour the raspberry syrup over the chocolate.In a small saucepan heat the milk until simmers.",
+                            "ingredients": [
+                                {
+                                    "id": 19081,
+                                    "name": "chocolate",
+                                    "localizedName": "chocolate",
+                                    "image": "milk-chocolate.jpg"
+                                },
+                                {
+                                    "id": 9302,
+                                    "name": "raspberries",
+                                    "localizedName": "raspberries",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/raspberries.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "syrup",
+                                    "localizedName": "syrup",
+                                    "image": ""
+                                },
+                                {
+                                    "id": 1077,
+                                    "name": "milk",
+                                    "localizedName": "milk",
+                                    "image": "milk.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404669,
+                                    "name": "sauce pan",
+                                    "localizedName": "sauce pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/sauce-pan.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 20,
+                            "step": "Pour the milk over the chocolate and stir until the chocolate melts and the mixture is of uniform consistency.",
+                            "ingredients": [
+                                {
+                                    "id": 19081,
+                                    "name": "chocolate",
+                                    "localizedName": "chocolate",
+                                    "image": "milk-chocolate.jpg"
+                                },
+                                {
+                                    "id": 1077,
+                                    "name": "milk",
+                                    "localizedName": "milk",
+                                    "image": "milk.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 21,
+                            "step": "Let the ganache cool for about 5 minutes until only slightly warm and pour over the cake. Do not pour hot ganache because it could melt the mousse.Chill the cake for another 3 hours.",
+                            "ingredients": [],
+                            "equipment": [],
+                            "length": {
+                                "number": 185,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 33.197967529296875,
+            "spoonacularSourceUrl": "https://spoonacular.com/coffee-mousse-cake-639882"
+        },
+        {
+            "id": 1697825,
+            "image": "https://img.spoonacular.com/recipes/1697825-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Coffee Bean Cookies",
+            "readyInMinutes": 77,
+            "servings": 40,
+            "sourceUrl": "https://maplewoodroad.com/coffee-bean-cookies/",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 1,
+            "gaps": "no",
+            "preparationMinutes": 5,
+            "cookingMinutes": 12,
+            "aggregateLikes": 0,
+            "healthScore": 0.0,
+            "creditsText": "maplewoodroad",
+            "license": "spoonacular's terms",
+            "sourceName": "Maplewood Road",
+            "pricePerServing": 5.6,
+            "extendedIngredients": [
+                {
+                    "id": 14209,
+                    "aisle": "Tea and Coffee",
+                    "image": "brewed-coffee.jpg",
+                    "consistency": "SOLID",
+                    "name": "freshly coffee",
+                    "nameClean": "freshly coffee",
+                    "original": "2 Tbsp freshly brewed coffee, cooled to room temperature",
+                    "originalName": "freshly brewed coffee, cooled to room temperature",
+                    "amount": 2.0,
+                    "unit": "Tbsp",
+                    "meta": [
+                        "cooled",
+                        "room temperature",
+                        "brewed"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 1001001,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "butter.jpg",
+                    "consistency": "SOLID",
+                    "name": "butter",
+                    "nameClean": "butter",
+                    "original": "1/3 c salted butter, softened to room temperature",
+                    "originalName": "salted butter, softened to room temperature",
+                    "amount": 0.33333334,
+                    "unit": "c",
+                    "meta": [
+                        "salted",
+                        "softened",
+                        "room temperature"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.33333334,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 75.667,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 19336,
+                    "aisle": "Baking",
+                    "image": "powdered-sugar.jpg",
+                    "consistency": "SOLID",
+                    "name": "powdered sugar",
+                    "nameClean": "powdered sugar",
+                    "original": "2/3 c powdered sugar",
+                    "originalName": "powdered sugar",
+                    "amount": 0.6666667,
+                    "unit": "c",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.6666667,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 80.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 1125,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "egg-yolk.jpg",
+                    "consistency": "SOLID",
+                    "name": "egg yolk",
+                    "nameClean": "egg yolk",
+                    "original": "1 egg yolk",
+                    "originalName": "egg yolk",
+                    "amount": 1.0,
+                    "unit": "",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 2050,
+                    "aisle": "Baking",
+                    "image": "vanilla-extract.jpg",
+                    "consistency": "LIQUID",
+                    "name": "vanilla extract",
+                    "nameClean": "vanilla extract",
+                    "original": "1 tsp vanilla extract",
+                    "originalName": "vanilla extract",
+                    "amount": 1.0,
+                    "unit": "tsp",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        }
+                    }
+                },
+                {
+                    "id": 10020129,
+                    "aisle": "Baking",
+                    "image": "flour.png",
+                    "consistency": "SOLID",
+                    "name": "cake flour",
+                    "nameClean": "cake flour",
+                    "original": "1 c cake flour* (see &quot;notes&quot; below)",
+                    "originalName": "cake flour* (see \"notes\" below)",
+                    "amount": 1.0,
+                    "unit": "c",
+                    "meta": [
+                        "(see \"notes\" below)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "cup",
+                            "unitLong": "cup"
+                        },
+                        "metric": {
+                            "amount": 125.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 20027,
+                    "aisle": "Baking",
+                    "image": "white-powder.jpg",
+                    "consistency": "SOLID",
+                    "name": "cornstarch",
+                    "nameClean": "cornstarch",
+                    "original": "3 Tbsp cornstarch",
+                    "originalName": "cornstarch",
+                    "amount": 3.0,
+                    "unit": "Tbsp",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 3.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 3.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 19165,
+                    "aisle": "Baking",
+                    "image": "cocoa-powder.png",
+                    "consistency": "SOLID",
+                    "name": "cocoa powder",
+                    "nameClean": "cocoa powder",
+                    "original": "2 Tbsp cocoa powder",
+                    "originalName": "cocoa powder",
+                    "amount": 2.0,
+                    "unit": "Tbsp",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                }
+            ],
+            "summary": "Coffee Bean Cookies requires around <b>1 hour and 17 minutes</b> from start to finish. One serving contains <b>37 calories</b>, <b>1g of protein</b>, and <b>2g of fat</b>. For <b>6 cents per serving</b>, you get a dessert that serves 40. It is brought to you by spoonacular user <a href=\"/profile/maplewoodroad\">maplewoodroad</a>. If you have cocoa powder, egg yolk, vanillan extract, and a few other ingredients on hand, you can make it. Try <a href=\"https://spoonacular.com/recipes/coffee-bean-cookies-54727\">Coffee Bean Cookies</a>, <a href=\"https://spoonacular.com/recipes/macadamia-coffee-bean-cookies-425217\">Macadamia-Coffee Bean Cookies</a>, and <a href=\"https://spoonacular.com/recipes/coffee-bean-bark-935954\">Coffee Bean Bark</a> for similar recipes.",
+            "cuisines": [],
+            "dishTypes": [
+                "dessert"
+            ],
+            "diets": [],
+            "occasions": [],
+            "instructions": "First, cream butter and powdered sugar.\n\nThen whisk in the egg yolk, brewed coffee, and vanilla extract.\n\nIn a separate bowl, mix together the cake flour, cornstarch, and cocoa powder.\n\nSlowly add dry to wet ingredients. The resulting batter will almost look like cake frosting.\n\nPlace the bowl in the fridge for 1 hour to chill, which will allow it to firm up a bit and be much easier to work with and form into coffee bean shapes.\n\nPreheat oven to 325℉.\n\nUsing a teaspoon (a 1-tsp measuring spoon, not the one from your silverware drawer), measure out heaping teaspoonfuls of batter.\n\nRoll the teaspoonfuls of batter between your hands, forming a ball.\n\nThen, roll it back and forth once or twice, to form it into an oval.\n\nLightly press the ends with two fingers and place on a lined baking sheet.\n\nFinally, using a toothpick, press lengthwise into the center of each cookie, about halfway down, to get that coffee bean appearance.\n\nBake for 12 minutes, then let cool and enjoy!",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "First, cream butter and powdered sugar.",
+                            "ingredients": [
+                                {
+                                    "id": 19336,
+                                    "name": "powdered sugar",
+                                    "localizedName": "powdered sugar",
+                                    "image": "powdered-sugar.jpg"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                },
+                                {
+                                    "id": 1053,
+                                    "name": "cream",
+                                    "localizedName": "cream",
+                                    "image": "fluid-cream.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 2,
+                            "step": "Then whisk in the egg yolk, brewed coffee, and vanilla extract.",
+                            "ingredients": [
+                                {
+                                    "id": 2050,
+                                    "name": "vanilla extract",
+                                    "localizedName": "vanilla extract",
+                                    "image": "vanilla-extract.jpg"
+                                },
+                                {
+                                    "id": 14209,
+                                    "name": "brewed coffee",
+                                    "localizedName": "brewed coffee",
+                                    "image": "brewed-coffee.jpg"
+                                },
+                                {
+                                    "id": 1125,
+                                    "name": "egg yolk",
+                                    "localizedName": "egg yolk",
+                                    "image": "egg-yolk.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404661,
+                                    "name": "whisk",
+                                    "localizedName": "whisk",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/whisk.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "In a separate bowl, mix together the cake flour, cornstarch, and cocoa powder.",
+                            "ingredients": [
+                                {
+                                    "id": 19165,
+                                    "name": "cocoa powder",
+                                    "localizedName": "cocoa powder",
+                                    "image": "cocoa-powder.png"
+                                },
+                                {
+                                    "id": 10020129,
+                                    "name": "cake flour",
+                                    "localizedName": "cake flour",
+                                    "image": "flour.png"
+                                },
+                                {
+                                    "id": 20027,
+                                    "name": "corn starch",
+                                    "localizedName": "corn starch",
+                                    "image": "white-powder.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Slowly add dry to wet ingredients. The resulting batter will almost look like cake frosting.",
+                            "ingredients": [
+                                {
+                                    "id": 19230,
+                                    "name": "frosting",
+                                    "localizedName": "frosting",
+                                    "image": "vanilla-frosting.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 5,
+                            "step": "Place the bowl in the fridge for 1 hour to chill, which will allow it to firm up a bit and be much easier to work with and form into coffee bean shapes.",
+                            "ingredients": [
+                                {
+                                    "id": 14209,
+                                    "name": "coffee",
+                                    "localizedName": "coffee",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/brewed-coffee.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 60,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 6,
+                            "step": "Preheat oven to 325℉.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "step": "Using a teaspoon (a 1-tsp measuring spoon, not the one from your silverware drawer), measure out heaping teaspoonfuls of batter.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404719,
+                                    "name": "measuring spoon",
+                                    "localizedName": "measuring spoon",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/measuring-spoons.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 8,
+                            "step": "Roll the teaspoonfuls of batter between your hands, forming a ball.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "roll",
+                                    "localizedName": "roll",
+                                    "image": "dinner-yeast-rolls.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 9,
+                            "step": "Then, roll it back and forth once or twice, to form it into an oval.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "roll",
+                                    "localizedName": "roll",
+                                    "image": "dinner-yeast-rolls.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 10,
+                            "step": "Lightly press the ends with two fingers and place on a lined baking sheet.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404727,
+                                    "name": "baking sheet",
+                                    "localizedName": "baking sheet",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/baking-sheet.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 11,
+                            "step": "Finally, using a toothpick, press lengthwise into the center of each cookie, about halfway down, to get that coffee bean appearance.",
+                            "ingredients": [
+                                {
+                                    "id": 14209,
+                                    "name": "coffee",
+                                    "localizedName": "coffee",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/brewed-coffee.jpg"
+                                },
+                                {
+                                    "id": 10118192,
+                                    "name": "cookies",
+                                    "localizedName": "cookies",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/shortbread-cookies.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404644,
+                                    "name": "toothpicks",
+                                    "localizedName": "toothpicks",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/toothpicks.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 12,
+                            "step": "Bake for 12 minutes, then let cool and enjoy!",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 12,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 6.162223815917969,
+            "spoonacularSourceUrl": "https://spoonacular.com/coffee-bean-cookies-1697825"
+        },
+        {
+            "id": 639866,
+            "image": "https://img.spoonacular.com/recipes/639866-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Coffee Cream Martinis",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/3LNCWRTF/coffee-cream-martinis",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 15,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 19,
+            "healthScore": 0.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 89.93,
+            "extendedIngredients": [
+                {
+                    "id": 10719335,
+                    "aisle": "Baking",
+                    "image": "sugar-in-bowl.png",
+                    "consistency": "SOLID",
+                    "name": "granulated sugar",
+                    "nameClean": "granulated sugar",
+                    "original": "1/2 cup of granulated sugar",
+                    "originalName": "granulated sugar",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 100.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 10093715,
+                    "aisle": "Tea and Coffee",
+                    "image": "instant-coffee-or-instant-espresso.png",
+                    "consistency": "SOLID",
+                    "name": "ground coffee",
+                    "nameClean": "ground coffee",
+                    "original": "1 tablespoon of finely ground coffee",
+                    "originalName": "finely ground coffee",
+                    "amount": 1.0,
+                    "unit": "tablespoon",
+                    "meta": [
+                        "finely"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        }
+                    }
+                },
+                {
+                    "id": 14051,
+                    "aisle": "Alcoholic Beverages",
+                    "image": "vodka.jpg",
+                    "consistency": "LIQUID",
+                    "name": "vodka",
+                    "nameClean": "vodka",
+                    "original": "1 1/2 ounces of vodka",
+                    "originalName": "vodka",
+                    "amount": 1.5,
+                    "unit": "ounces",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.5,
+                            "unitShort": "oz",
+                            "unitLong": "ounces"
+                        },
+                        "metric": {
+                            "amount": 42.524,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 93764,
+                    "aisle": "Alcoholic Beverages",
+                    "image": "baileys-liqueur.png",
+                    "consistency": "SOLID",
+                    "name": "baileys irish cream",
+                    "nameClean": "baileys irish cream",
+                    "original": "1 1/2 ounces of Baileys Irish cream",
+                    "originalName": "Baileys Irish cream",
+                    "amount": 1.5,
+                    "unit": "ounces",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.5,
+                            "unitShort": "oz",
+                            "unitLong": "ounces"
+                        },
+                        "metric": {
+                            "amount": 42.524,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 93716,
+                    "aisle": "Alcoholic Beverages",
+                    "image": "coffee-liqueur.jpg",
+                    "consistency": "SOLID",
+                    "name": "kahlua",
+                    "nameClean": "kahlua",
+                    "original": "1 1/2 ounces of Kahlua",
+                    "originalName": "Kahlua",
+                    "amount": 1.5,
+                    "unit": "ounces",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.5,
+                            "unitShort": "oz",
+                            "unitLong": "ounces"
+                        },
+                        "metric": {
+                            "amount": 42.524,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 14181,
+                    "aisle": "Baking",
+                    "image": "chocolate-syrup.jpg",
+                    "consistency": "SOLID",
+                    "name": "chocolate syrup",
+                    "nameClean": "chocolate syrup",
+                    "original": "chocolate syrup",
+                    "originalName": "chocolate syrup",
+                    "amount": 4.0,
+                    "unit": "servings",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 4.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                },
+                {
+                    "id": 10014412,
+                    "aisle": "Frozen",
+                    "image": "ice-cubes.png",
+                    "consistency": "SOLID",
+                    "name": "ice cubes",
+                    "nameClean": "ice cubes",
+                    "original": "ice cubes",
+                    "originalName": "ice cubes",
+                    "amount": 4.0,
+                    "unit": "servings",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 4.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                }
+            ],
+            "summary": "If you have about <b>45 minutes</b> to spend in the kitchen, Coffee Cream Martinis might be an excellent <b>gluten free and dairy free</b> recipe to try. One serving contains <b>304 calories</b>, <b>1g of protein</b>, and <b>2g of fat</b>. For <b>90 cents per serving</b>, you get a beverage that serves 4. 19 people found this recipe to be delicious and satisfying. This recipe from Foodista requires chocolate syrup, ground coffee, vodka, and kahlua. Taking all factors into account, this recipe <b>earns a spoonacular score of 7%</b>, which is improvable. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/chocolate-coffee-martinis-a-give-away-holiday-food-fest-539821\">Chocolate Coffee “Martinis,” a Give-Away, & Holiday Food Fest</a>, <a href=\"https://spoonacular.com/recipes/coffee-ice-cream-drowned-in-coffee-affogato-semifreddo-coviglia-739173\">Coffee Ice Cream Drowned in Coffee (Affogato Semifreddo Coviglia)</a>, and <a href=\"https://spoonacular.com/recipes/homemade-coffee-ice-cream-a-chance-to-win-keurig-coffee-maker-years-supply-of-international-delight-1289389\">Homemade Coffee Ice Cream & a Chance to Win Keurig Coffee Maker + Year’s Supply of International Delight</a>.",
+            "cuisines": [],
+            "dishTypes": [
+                "beverage",
+                "drink"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free"
+            ],
+            "occasions": [],
+            "instructions": "In a small bowl combine the granualted sugar and ground coffee, mix well.\nSpoon a layer of the sugar coffee mixture onto a plate.\nMoisten the rim of a martini glass with water, hold upside down and place into the sugar coffee ground mixture getting a nice rim on the glass.\nSet aside.\nFill a martini shaker three fouths full with ice.\nAdd the vodka, Baileys and Kahlua, shake until condensation forms on the outside of the shaker.\nDrizzle chocolate syrup on the inside of the perpared martini glass.\nStrain the martini into the glass and serve immediately.",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "In a small bowl combine the granualted sugar and ground coffee, mix well.",
+                            "ingredients": [
+                                {
+                                    "id": 10093715,
+                                    "name": "ground coffee",
+                                    "localizedName": "ground coffee",
+                                    "image": "instant-coffee-or-instant-espresso.png"
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Spoon a layer of the sugar coffee mixture onto a plate.",
+                            "ingredients": [
+                                {
+                                    "id": 14209,
+                                    "name": "coffee",
+                                    "localizedName": "coffee",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/brewed-coffee.jpg"
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Moisten the rim of a martini glass with water, hold upside down and place into the sugar coffee ground mixture getting a nice rim on the glass.",
+                            "ingredients": [
+                                {
+                                    "id": 10093715,
+                                    "name": "ground coffee",
+                                    "localizedName": "ground coffee",
+                                    "image": "instant-coffee-or-instant-espresso.png"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "martini",
+                                    "localizedName": "martini",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/rum-dark.jpg"
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Set aside.",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 5,
+                            "step": "Fill a martini shaker three fouths full with ice.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "martini",
+                                    "localizedName": "martini",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/rum-dark.jpg"
+                                },
+                                {
+                                    "id": 10014412,
+                                    "name": "ice",
+                                    "localizedName": "ice",
+                                    "image": "ice-cubes.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 6,
+                            "step": "Add the vodka, Baileys and Kahlua, shake until condensation forms on the outside of the shaker.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "baileys irish cream",
+                                    "localizedName": "baileys irish cream",
+                                    "image": "baileys-liqueur.png"
+                                },
+                                {
+                                    "id": 93716,
+                                    "name": "kahlua",
+                                    "localizedName": "kahlua",
+                                    "image": "coffee-liqueur.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "shake",
+                                    "localizedName": "shake",
+                                    "image": ""
+                                },
+                                {
+                                    "id": 14051,
+                                    "name": "vodka",
+                                    "localizedName": "vodka",
+                                    "image": "vodka.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 7,
+                            "step": "Drizzle chocolate syrup on the inside of the perpared martini glass.",
+                            "ingredients": [
+                                {
+                                    "id": 14181,
+                                    "name": "chocolate syrup",
+                                    "localizedName": "chocolate syrup",
+                                    "image": "chocolate-syrup.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "martini",
+                                    "localizedName": "martini",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/rum-dark.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 8,
+                            "step": "Strain the martini into the glass and serve immediately.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "martini",
+                                    "localizedName": "martini",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/rum-dark.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 7.5648603439331055,
+            "spoonacularSourceUrl": "https://spoonacular.com/coffee-cream-martinis-639866"
+        },
+        {
+            "id": 1697769,
+            "image": "https://img.spoonacular.com/recipes/1697769-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Irish Coffee Chocolate Mousse",
+            "readyInMinutes": 15,
+            "servings": 4,
+            "sourceUrl": "https://maplewoodroad.com/irish-coffee-mousse/",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 18,
+            "gaps": "no",
+            "preparationMinutes": 15,
+            "cookingMinutes": 0,
+            "aggregateLikes": 0,
+            "healthScore": 1.0,
+            "creditsText": "maplewoodroad",
+            "license": "spoonacular's terms",
+            "sourceName": "Maplewood Road",
+            "pricePerServing": 114.29,
+            "extendedIngredients": [
+                {
+                    "id": 19184,
+                    "aisle": "Baking",
+                    "image": "chocolate-pudding.jpg",
+                    "consistency": "SOLID",
+                    "name": "chocolate pudding mix",
+                    "nameClean": "chocolate pudding mix",
+                    "original": "3.9 oz box of instant chocolate pudding mix",
+                    "originalName": "box of instant chocolate pudding mix",
+                    "amount": 3.9,
+                    "unit": "oz",
+                    "meta": [
+                        "instant"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 3.9,
+                            "unitShort": "oz",
+                            "unitLong": "ounces"
+                        },
+                        "metric": {
+                            "amount": 110.563,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 1011077,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "milk.png",
+                    "consistency": "LIQUID",
+                    "name": "milk",
+                    "nameClean": "milk",
+                    "original": "1 c whole milk (cold)",
+                    "originalName": "whole milk (cold)",
+                    "amount": 1.0,
+                    "unit": "c",
+                    "meta": [
+                        "whole",
+                        "cold",
+                        "()"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "cup",
+                            "unitLong": "cup"
+                        },
+                        "metric": {
+                            "amount": 244.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 14209,
+                    "aisle": "Tea and Coffee",
+                    "image": "brewed-coffee.jpg",
+                    "consistency": "SOLID",
+                    "name": "coffee",
+                    "nameClean": "coffee",
+                    "original": "1/4 c brewed coffee (chilled)",
+                    "originalName": "brewed coffee (chilled)",
+                    "amount": 0.25,
+                    "unit": "c",
+                    "meta": [
+                        "chilled",
+                        "brewed",
+                        "()"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 59.25,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 1053,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "fluid-cream.jpg",
+                    "consistency": "LIQUID",
+                    "name": "heavy whipping cream",
+                    "nameClean": "heavy whipping cream",
+                    "original": "3/4 c heavy whipping cream",
+                    "originalName": "heavy whipping cream",
+                    "amount": 0.75,
+                    "unit": "c",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.75,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 178.5,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 93764,
+                    "aisle": "Alcoholic Beverages",
+                    "image": "baileys-liqueur.png",
+                    "consistency": "SOLID",
+                    "name": "bailey's irish cream",
+                    "nameClean": "bailey's irish cream",
+                    "original": "1/4 c Bailey’s Irish Cream",
+                    "originalName": "Bailey's Irish Cream",
+                    "amount": 0.25,
+                    "unit": "c",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 59.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 19335,
+                    "aisle": "Baking",
+                    "image": "sugar-in-bowl.png",
+                    "consistency": "SOLID",
+                    "name": "sugar",
+                    "nameClean": "sugar",
+                    "original": "3 Tbsp sugar",
+                    "originalName": "sugar",
+                    "amount": 3.0,
+                    "unit": "Tbsp",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 3.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 3.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 2050,
+                    "aisle": "Baking",
+                    "image": "vanilla-extract.jpg",
+                    "consistency": "LIQUID",
+                    "name": "vanilla extract",
+                    "nameClean": "vanilla extract",
+                    "original": "1/2 tsp vanilla extract",
+                    "originalName": "vanilla extract",
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 0.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                }
+            ],
+            "summary": "Irish Coffee Chocolate Mousse might be just the <b>European</b> recipe you are searching for. One portion of this dish contains roughly <b>4g of protein</b>, <b>21g of fat</b>, and a total of <b>377 calories</b>. For <b>$1.14 per serving</b>, you get a dessert that serves 4. It is a good option if you're following a <b>gluten free</b> diet. This recipe from spoonacular user <a href=\"/profile/maplewoodroad\">maplewoodroad</a> requires sugar, milk, coffee, and bailey's irish cream. It can be enjoyed any time, but it is especially good for <b>st. patrick day</b>. From preparation to the plate, this recipe takes approximately <b>15 minutes</b>. <a href=\"https://spoonacular.com/recipes/irish-cream-chocolate-mousse-606204\">Irish Cream Chocolate Mousse</a>, <a href=\"https://spoonacular.com/recipes/chocolate-irish-cream-mousse-267510\">Chocolate-Irish Cream Mousse</a>, and <a href=\"https://spoonacular.com/recipes/ultimate-irish-cream-chocolate-mousse-605035\">Ultimate Irish Cream Chocolate Mousse</a> are very similar to this recipe.",
+            "cuisines": [
+                "European",
+                "Irish"
+            ],
+            "dishTypes": [
+                "dessert"
+            ],
+            "diets": [
+                "gluten free"
+            ],
+            "occasions": [
+                "valentine's day",
+                "st patricks day"
+            ],
+            "instructions": "Mix together pudding mix, milk, and coffee until well blended and thickened.\n\nIn a separate bowl (using an electric hand mixer) or a stand mixer, whisk together the heavy cream, Bailey’s Irish Cream, sugar, and vanilla until soft peaks form. Whisk the whipped cream, then when soft peaks are formed, slowly add in the Bailey’s a little at a time. Bailey’s whipped cream!  Set aside a small amount for a whipped cream topping.\n\nStir one-third of the whipped cream into the pudding mixture until well blended.&nbsp;\n\nNext, gently fold the rest of the whipped cream into the mixture, in order to keep the light texture of the mousse.  Refrigerate.  When ready to serve, top with a bit of whipped cream and a sliced strawberry.  Enjoy!\n\nTip: To determine what type of peaks you have, dip a teaspoon or your beater/whisk into the whipped cream and lift.  If a peak stands up, but then collapses and melts back down, its soft.  If the peak continues to stand up tall, it’s stiff.  Firm peaks are somewhere in between, as they’ll stand up but the tips are mostly folded over.  Don’t overbeat, or you’ll get butter!",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Mix together pudding mix, milk, and coffee until well blended and thickened.",
+                            "ingredients": [
+                                {
+                                    "id": 10119206,
+                                    "name": "pudding mix",
+                                    "localizedName": "pudding mix",
+                                    "image": ""
+                                },
+                                {
+                                    "id": 14209,
+                                    "name": "coffee",
+                                    "localizedName": "coffee",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/brewed-coffee.jpg"
+                                },
+                                {
+                                    "id": 1077,
+                                    "name": "milk",
+                                    "localizedName": "milk",
+                                    "image": "milk.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 2,
+                            "step": "In a separate bowl (using an electric hand mixer) or a stand mixer, whisk together the heavy cream, Bailey’s Irish Cream, sugar, and vanilla until soft peaks form.",
+                            "ingredients": [
+                                {
+                                    "id": 1053,
+                                    "name": "heavy cream",
+                                    "localizedName": "heavy cream",
+                                    "image": "fluid-cream.jpg"
+                                },
+                                {
+                                    "id": 93764,
+                                    "name": "irish cream",
+                                    "localizedName": "irish cream",
+                                    "image": "baileys-liqueur.png"
+                                },
+                                {
+                                    "id": 1052050,
+                                    "name": "vanilla",
+                                    "localizedName": "vanilla",
+                                    "image": "vanilla.jpg"
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404665,
+                                    "name": "stand mixer",
+                                    "localizedName": "stand mixer",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/stand-mixer.jpg"
+                                },
+                                {
+                                    "id": 404628,
+                                    "name": "hand mixer",
+                                    "localizedName": "hand mixer",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/hand-mixer.png"
+                                },
+                                {
+                                    "id": 404661,
+                                    "name": "whisk",
+                                    "localizedName": "whisk",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/whisk.png"
+                                },
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "Whisk the whipped cream, then when soft peaks are formed, slowly add in the Bailey’s a little at a time. Bailey’s whipped cream!  Set aside a small amount for a whipped cream topping.",
+                            "ingredients": [
+                                {
+                                    "id": 1054,
+                                    "name": "whipped cream",
+                                    "localizedName": "whipped cream",
+                                    "image": "whipped-cream.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404661,
+                                    "name": "whisk",
+                                    "localizedName": "whisk",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/whisk.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Stir one-third of the whipped cream into the pudding mixture until well blended.&nbsp;",
+                            "ingredients": [
+                                {
+                                    "id": 1054,
+                                    "name": "whipped cream",
+                                    "localizedName": "whipped cream",
+                                    "image": "whipped-cream.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 5,
+                            "step": "Next, gently fold the rest of the whipped cream into the mixture, in order to keep the light texture of the mousse.  Refrigerate.  When ready to serve, top with a bit of whipped cream and a sliced strawberry.  Enjoy!",
+                            "ingredients": [
+                                {
+                                    "id": 1054,
+                                    "name": "whipped cream",
+                                    "localizedName": "whipped cream",
+                                    "image": "whipped-cream.jpg"
+                                },
+                                {
+                                    "id": 9316,
+                                    "name": "strawberries",
+                                    "localizedName": "strawberries",
+                                    "image": "strawberries.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 6,
+                            "step": "Tip: To determine what type of peaks you have, dip a teaspoon or your beater/whisk into the whipped cream and lift.  If a peak stands up, but then collapses and melts back down, its soft.  If the peak continues to stand up tall, it’s stiff.  Firm peaks are somewhere in between, as they’ll stand up but the tips are mostly folded over.  Don’t overbeat, or you’ll get butter!",
+                            "ingredients": [
+                                {
+                                    "id": 1054,
+                                    "name": "whipped cream",
+                                    "localizedName": "whipped cream",
+                                    "image": "whipped-cream.jpg"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "dip",
+                                    "localizedName": "dip",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404661,
+                                    "name": "whisk",
+                                    "localizedName": "whisk",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/whisk.png"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 29.06366539001465,
+            "spoonacularSourceUrl": "https://spoonacular.com/irish-coffee-chocolate-mousse-1697769"
+        }
+    ],
+    "totalResults": 5
+}
