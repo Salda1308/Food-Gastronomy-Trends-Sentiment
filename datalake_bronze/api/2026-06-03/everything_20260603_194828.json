@@ -1,0 +1,1704 @@
+{
+    "results": [
+        {
+            "id": 642489,
+            "image": "https://img.spoonacular.com/recipes/642489-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Everything Bagel",
+            "readyInMinutes": 45,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/4Z2PFG4V/everything-bagel",
+            "vegetarian": true,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 11,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 1,
+            "healthScore": 21.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 107.04,
+            "extendedIngredients": [
+                {
+                    "id": 18375,
+                    "aisle": "Baking",
+                    "image": "yeast-granules.jpg",
+                    "consistency": "SOLID",
+                    "name": "active yeast",
+                    "nameClean": "active yeast",
+                    "original": "1/4 ounce active dry yeast (¼ oz package envelope)",
+                    "originalName": "active dry yeast (¼ oz package envelope)",
+                    "amount": 0.25,
+                    "unit": "ounce",
+                    "meta": [
+                        "dry",
+                        "()"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "oz",
+                            "unitLong": "ounces"
+                        },
+                        "metric": {
+                            "amount": 7.087,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 1125,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "egg-yolk.jpg",
+                    "consistency": "SOLID",
+                    "name": "egg yolk",
+                    "nameClean": "egg yolk",
+                    "original": "1 egg yolk, Beaten",
+                    "originalName": "egg yolk, Beaten",
+                    "amount": 1.0,
+                    "unit": "",
+                    "meta": [
+                        "beaten"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 20081,
+                    "aisle": "Baking",
+                    "image": "flour.png",
+                    "consistency": "SOLID",
+                    "name": "flour",
+                    "nameClean": "flour",
+                    "original": "2 1/2 cups all-purpose flour, divided",
+                    "originalName": "all-purpose flour, divided",
+                    "amount": 2.5,
+                    "unit": "cups",
+                    "meta": [
+                        "all-purpose",
+                        "divided"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 312.5,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 1022020,
+                    "aisle": "Spices and Seasonings",
+                    "image": "garlic-powder.png",
+                    "consistency": "SOLID",
+                    "name": "garlic powder",
+                    "nameClean": "garlic powder",
+                    "original": "garlic powder",
+                    "originalName": "garlic powder",
+                    "amount": 6.0,
+                    "unit": "servings",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 6.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 6.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                },
+                {
+                    "id": 10719335,
+                    "aisle": "Baking",
+                    "image": "sugar-in-bowl.png",
+                    "consistency": "SOLID",
+                    "name": "granulated sugar",
+                    "nameClean": "granulated sugar",
+                    "original": "1 1/2 tablespoons granulated sugar",
+                    "originalName": "granulated sugar",
+                    "amount": 1.5,
+                    "unit": "tablespoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.5,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 1.5,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 10719335,
+                    "aisle": "Baking",
+                    "image": "sugar-in-bowl.png",
+                    "consistency": "SOLID",
+                    "name": "granulated sugar",
+                    "nameClean": "granulated sugar",
+                    "original": "1 1/2 teaspoons granulated sugar",
+                    "originalName": "granulated sugar",
+                    "amount": 1.5,
+                    "unit": "teaspoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 1.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 1082047,
+                    "aisle": "Spices and Seasonings",
+                    "image": "salt.jpg",
+                    "consistency": "SOLID",
+                    "name": "kosher salt",
+                    "nameClean": "kosher salt",
+                    "original": "kosher salt",
+                    "originalName": "kosher salt",
+                    "amount": 6.0,
+                    "unit": "servings",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 6.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 6.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                },
+                {
+                    "id": 11282,
+                    "aisle": "Produce",
+                    "image": "brown-onion.png",
+                    "consistency": "SOLID",
+                    "name": "onion",
+                    "nameClean": "onion",
+                    "original": "toasted chopped onion",
+                    "originalName": "toasted chopped onion",
+                    "amount": 6.0,
+                    "unit": "servings",
+                    "meta": [
+                        "toasted",
+                        "chopped"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 6.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 6.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                },
+                {
+                    "id": 2033,
+                    "aisle": "Baking",
+                    "image": "poppyseed.png",
+                    "consistency": "SOLID",
+                    "name": "poppy seed",
+                    "nameClean": "poppy seed",
+                    "original": "poppy seed",
+                    "originalName": "poppy seed",
+                    "amount": 6.0,
+                    "unit": "servings",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 6.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 6.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                },
+                {
+                    "id": 2047,
+                    "aisle": "Spices and Seasonings",
+                    "image": "salt.jpg",
+                    "consistency": "SOLID",
+                    "name": "salt",
+                    "nameClean": "salt",
+                    "original": "1 teaspoon salt",
+                    "originalName": "salt",
+                    "amount": 1.0,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        }
+                    }
+                },
+                {
+                    "id": 12023,
+                    "aisle": "Spices and Seasonings",
+                    "image": "sesame-seeds.png",
+                    "consistency": "SOLID",
+                    "name": "sesame seed",
+                    "nameClean": "sesame seed",
+                    "original": "sesame seed",
+                    "originalName": "sesame seed",
+                    "amount": 6.0,
+                    "unit": "servings",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 6.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 6.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                },
+                {
+                    "id": 4669,
+                    "aisle": "Oil, Vinegar, Salad Dressing",
+                    "image": "vegetable-oil.jpg",
+                    "consistency": "LIQUID",
+                    "name": "vegetable oil",
+                    "nameClean": "vegetable oil",
+                    "original": "1 teaspoon vegetable oil, divided",
+                    "originalName": "vegetable oil, divided",
+                    "amount": 1.0,
+                    "unit": "teaspoon",
+                    "meta": [
+                        "divided"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        }
+                    }
+                },
+                {
+                    "id": 14412,
+                    "aisle": "Beverages",
+                    "image": "water.png",
+                    "consistency": "LIQUID",
+                    "name": "warm water",
+                    "nameClean": "warm water",
+                    "original": "1 cup warm water",
+                    "originalName": "warm water",
+                    "amount": 1.0,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "cup",
+                            "unitLong": "cup"
+                        },
+                        "metric": {
+                            "amount": 236.588,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 35137,
+                    "aisle": "Ethnic Foods",
+                    "image": "cornmeal.png",
+                    "consistency": "SOLID",
+                    "name": "cornmeal",
+                    "nameClean": "cornmeal",
+                    "original": "1 tablespoon yellow cornmeal",
+                    "originalName": "yellow cornmeal",
+                    "amount": 1.0,
+                    "unit": "tablespoon",
+                    "meta": [
+                        "yellow"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        }
+                    }
+                }
+            ],
+            "summary": "Everything Bagel might be just the side dish you are searching for. One portion of this dish contains roughly <b>11g of protein</b>, <b>10g of fat</b>, and a total of <b>357 calories</b>. This recipe serves 6. For <b>$1.07 per serving</b>, this recipe <b>covers 18%</b> of your daily requirements of vitamins and minerals. It is brought to you by Foodista. 1 person has made this recipe and would make it again. It is a good option if you're following a <b>dairy free and lacto ovo vegetarian</b> diet. If you have poppy seed, egg yolk, garlic powder, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes about <b>45 minutes</b>. With a spoonacular <b>score of 77%</b>, this dish is solid. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/bagel-dogs-or-mini-bagel-dogs-136206\">Bagel Dogs or Mini-Bagel Dogs</a>, <a href=\"https://spoonacular.com/recipes/bagel-dip-850965\">Bagel Dip</a>, and <a href=\"https://spoonacular.com/recipes/everything-bagel-hummus-1552935\">Everything Bagel Hummus</a>.",
+            "cuisines": [],
+            "dishTypes": [
+                "side dish"
+            ],
+            "diets": [
+                "dairy free",
+                "lacto ovo vegetarian"
+            ],
+            "occasions": [],
+            "instructions": "<ol><li>Combine the warm water, yeast, and the 1.5 Tablespoons of granulated sugar in a mixer with a dough hook. Let stand 5 minutes until the yeast activates and the mixture becomes foamy.</li><li>Gradually add 2 cups of the flour and the salt and mix with dough hook until combined.</li><li>Slowly add the additional 1/2 cup flour while working with your hands. Turn onto a lightly floured surface and continue to knead until smooth and no longer sticky (add up to 1/2 cup more flour if necessary).</li><li>Grease a large bowl with 1/2 teaspoon vegetable oil and roll the dough ball to cover all sides. Cover and let rise in a warm spot for about an hour (or until almost double in size).</li><li>After an hour, punch the dough down and divide into 6 equal pieces. Roll each piece into a 6\" log and combine the ends with a little moisture.</li><li>Place the bagels on a greased cookie sheet, cover, and let rise again for 20 to 30 minutes (no longer).</li><li>Preheat oven to 400 degrees.</li><li>Bring a large pot of water, flavored with the 1.5 teaspoon of sugar, to a boil. Drop the bagels into the water and boil for 30 seconds to 1 minute, turning.</li><li>Upon removal from the boiling water, place the bagels onto an oiled baking sheet covered in cornmeal.</li><li>Bake for 5 minutes. Remove and brush with an egg yolk.</li><li>Top with seasonings and put back into the oven for 28 to 32 minutes. After 20 minutes, turn oven down to 375 degrees.</li><li>Remove when golden brown and hollow sounding.</li><li>Cool on a wire rack.</li></ol>",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Combine the warm water, yeast, and the 1.5 Tablespoons of granulated sugar in a mixer with a dough hook.",
+                            "ingredients": [
+                                {
+                                    "id": 10719335,
+                                    "name": "granulated sugar",
+                                    "localizedName": "granulated sugar",
+                                    "image": "sugar-in-bowl.png"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "dough",
+                                    "localizedName": "dough",
+                                    "image": "pizza-dough"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                },
+                                {
+                                    "id": 18375,
+                                    "name": "yeast",
+                                    "localizedName": "yeast",
+                                    "image": "yeast-granules.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404726,
+                                    "name": "blender",
+                                    "localizedName": "blender",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/blender.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Let stand 5 minutes until the yeast activates and the mixture becomes foamy.Gradually add 2 cups of the flour and the salt and mix with dough hook until combined.Slowly add the additional 1/2 cup flour while working with your hands. Turn onto a lightly floured surface and continue to knead until smooth and no longer sticky (add up to 1/2 cup more flour if necessary).Grease a large bowl with 1/2 teaspoon vegetable oil and roll the dough ball to cover all sides. Cover and let rise in a warm spot for about an hour (or until almost double in size).After an hour, punch the dough down and divide into 6 equal pieces.",
+                            "ingredients": [
+                                {
+                                    "id": 4669,
+                                    "name": "vegetable oil",
+                                    "localizedName": "vegetable oil",
+                                    "image": "vegetable-oil.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "dough",
+                                    "localizedName": "dough",
+                                    "image": "pizza-dough"
+                                },
+                                {
+                                    "id": 20081,
+                                    "name": "all purpose flour",
+                                    "localizedName": "all purpose flour",
+                                    "image": "flour.png"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "punch",
+                                    "localizedName": "punch",
+                                    "image": ""
+                                },
+                                {
+                                    "id": 18375,
+                                    "name": "yeast",
+                                    "localizedName": "yeast",
+                                    "image": "yeast-granules.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "roll",
+                                    "localizedName": "roll",
+                                    "image": "dinner-yeast-rolls.jpg"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 3,
+                            "step": "Roll each piece into a 6\" log and combine the ends with a little moisture.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "roll",
+                                    "localizedName": "roll",
+                                    "image": "dinner-yeast-rolls.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Place the bagels on a greased cookie sheet, cover, and let rise again for 20 to 30 minutes (no longer).Preheat oven to 400 degrees.Bring a large pot of water, flavored with the 1.5 teaspoon of sugar, to a boil. Drop the bagels into the water and boil for 30 seconds to 1 minute, turning.Upon removal from the boiling water, place the bagels onto an oiled baking sheet covered in cornmeal.",
+                            "ingredients": [
+                                {
+                                    "id": 35137,
+                                    "name": "cornmeal",
+                                    "localizedName": "cornmeal",
+                                    "image": "cornmeal.png"
+                                },
+                                {
+                                    "id": 18408,
+                                    "name": "bagel",
+                                    "localizedName": "bagel",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/bagels.jpg"
+                                },
+                                {
+                                    "id": 10118192,
+                                    "name": "cookies",
+                                    "localizedName": "cookies",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/shortbread-cookies.jpg"
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404727,
+                                    "name": "baking sheet",
+                                    "localizedName": "baking sheet",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/baking-sheet.jpg"
+                                },
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                },
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "localizedName": "pot",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/stock-pot.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 21,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 5,
+                            "step": "Bake for 5 minutes.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 6,
+                            "step": "Remove and brush with an egg yolk.Top with seasonings and put back into the oven for 28 to 32 minutes. After 20 minutes, turn oven down to 375 degrees.",
+                            "ingredients": [
+                                {
+                                    "id": 1042027,
+                                    "name": "seasoning",
+                                    "localizedName": "seasoning",
+                                    "image": "seasoning.png"
+                                },
+                                {
+                                    "id": 1125,
+                                    "name": "egg yolk",
+                                    "localizedName": "egg yolk",
+                                    "image": "egg-yolk.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 48,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 7,
+                            "step": "Remove when golden brown and hollow sounding.Cool on a wire rack.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 405900,
+                                    "name": "wire rack",
+                                    "localizedName": "wire rack",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/wire-rack.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 69.30315399169922,
+            "spoonacularSourceUrl": "https://spoonacular.com/everything-bagel-642489"
+        },
+        {
+            "id": 1697773,
+            "image": "https://img.spoonacular.com/recipes/1697773-556x370.jpg",
+            "imageType": "jpg",
+            "title": "A Chimichurri You'll Want to Put on Everything",
+            "readyInMinutes": 45,
+            "servings": 2,
+            "sourceUrl": "https://maplewoodroad.com/chimichurri/",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 31,
+            "gaps": "no",
+            "preparationMinutes": 10,
+            "cookingMinutes": 35,
+            "aggregateLikes": 0,
+            "healthScore": 81.0,
+            "creditsText": "maplewoodroad",
+            "license": "spoonacular's terms",
+            "sourceName": "Maplewood Road",
+            "pricePerServing": 742.28,
+            "extendedIngredients": [
+                {
+                    "id": 23232,
+                    "aisle": "Meat",
+                    "image": "ribeye-raw.jpg",
+                    "consistency": "SOLID",
+                    "name": "hanger steak",
+                    "nameClean": "hanger steak",
+                    "original": "1 lb hanger steak",
+                    "originalName": "hanger steak",
+                    "amount": 1.0,
+                    "unit": "lb",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "lb",
+                            "unitLong": "pound"
+                        },
+                        "metric": {
+                            "amount": 453.592,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 1034053,
+                    "aisle": "Oil, Vinegar, Salad Dressing",
+                    "image": "olive-oil.jpg",
+                    "consistency": "LIQUID",
+                    "name": "olive oil",
+                    "nameClean": "olive oil",
+                    "original": "1/2 c extra-virgin olive oil",
+                    "originalName": "extra-virgin olive oil",
+                    "amount": 0.5,
+                    "unit": "c",
+                    "meta": [
+                        "extra-virgin"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 108.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 1022068,
+                    "aisle": "Oil, Vinegar, Salad Dressing",
+                    "image": "red-wine-vinegar.jpg",
+                    "consistency": "LIQUID",
+                    "name": "red wine vinegar",
+                    "nameClean": "red wine vinegar",
+                    "original": "2 Tbsp red wine vinegar",
+                    "originalName": "red wine vinegar",
+                    "amount": 2.0,
+                    "unit": "Tbsp",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 10311297,
+                    "aisle": "Produce",
+                    "image": "parsley.jpg",
+                    "consistency": "SOLID",
+                    "name": "flat leaf parsley",
+                    "nameClean": "flat leaf parsley",
+                    "original": "1/2 c flat leaf parsley",
+                    "originalName": "flat leaf parsley",
+                    "amount": 0.5,
+                    "unit": "c",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 30.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 99226,
+                    "aisle": "Spices and Seasonings",
+                    "image": "fresh-sage.png",
+                    "consistency": "SOLID",
+                    "name": "sage",
+                    "nameClean": "sage",
+                    "original": "2 Tbsp sage",
+                    "originalName": "sage",
+                    "amount": 2.0,
+                    "unit": "Tbsp",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 2027,
+                    "aisle": "Produce",
+                    "image": "oregano.jpg",
+                    "consistency": "SOLID",
+                    "name": "oregano",
+                    "nameClean": "oregano",
+                    "original": "2 Tbsp oregano",
+                    "originalName": "oregano",
+                    "amount": 2.0,
+                    "unit": "Tbsp",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 11677,
+                    "aisle": "Produce",
+                    "image": "shallots.jpg",
+                    "consistency": "SOLID",
+                    "name": "shallot",
+                    "nameClean": "shallot",
+                    "original": "1 small shallot",
+                    "originalName": "shallot",
+                    "amount": 1.0,
+                    "unit": "small",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "small",
+                            "unitLong": "small"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "small",
+                            "unitLong": "small"
+                        }
+                    }
+                },
+                {
+                    "id": 10211215,
+                    "aisle": "Produce",
+                    "image": "garlic.jpg",
+                    "consistency": "SOLID",
+                    "name": "garlic cloves",
+                    "nameClean": "garlic cloves",
+                    "original": "2 garlic cloves",
+                    "originalName": "garlic cloves",
+                    "amount": 2.0,
+                    "unit": "",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 10011819,
+                    "aisle": "Produce",
+                    "image": "habanero-pepper.jpg",
+                    "consistency": "SOLID",
+                    "name": "habanero pepper",
+                    "nameClean": "habanero pepper",
+                    "original": "1 habanero pepper",
+                    "originalName": "habanero pepper",
+                    "amount": 1.0,
+                    "unit": "",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 1012047,
+                    "aisle": "Spices and Seasonings",
+                    "image": "salt.jpg",
+                    "consistency": "SOLID",
+                    "name": "maldon sea salt",
+                    "nameClean": "maldon sea salt",
+                    "original": "Maldon sea salt",
+                    "originalName": "Maldon sea salt",
+                    "amount": 2.0,
+                    "unit": "servings",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                },
+                {
+                    "id": 1002030,
+                    "aisle": "Spices and Seasonings",
+                    "image": "pepper.jpg",
+                    "consistency": "SOLID",
+                    "name": "freshly cracked pepper",
+                    "nameClean": "freshly cracked pepper",
+                    "original": "Freshly cracked pepper",
+                    "originalName": "Freshly cracked pepper",
+                    "amount": 2.0,
+                    "unit": "servings",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                }
+            ],
+            "summary": "A Chimichurri You'll Want to Put on Everything might be just the <b>Latin American</b> recipe you are searching for. This recipe serves 2 and costs $7.42 per serving. This sauce has <b>995 calories</b>, <b>47g of protein</b>, and <b>87g of fat</b> per serving. It is a good option if you're following a <b>gluten free, dairy free, paleolithic, and primal</b> diet. If you have oregano, sage, flat leaf parsley, and a few other ingredients on hand, you can make it. It is brought to you by spoonacular user <a href=\"/profile/maplewoodroad\">maplewoodroad</a>. From preparation to the plate, this recipe takes around <b>45 minutes</b>. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/bistec-argentino-al-chimichurri-steak-with-chimichurri-sauce-144447\">Bistec Argentino al Chimichurri (Steak with Chimichurri Sauce)</a>, <a href=\"https://spoonacular.com/recipes/steak-with-chimichurri-sauce-carne-con-chimichurri-226192\">Steak with Chimichurri Sauce (Carne con Chimichurri)</a>, and <a href=\"https://spoonacular.com/recipes/steak-with-chimichurri-sauce-carne-con-chimichurri-1294491\">Steak with Chimichurri Sauce (Carne con Chimichurri)</a>.",
+            "cuisines": [
+                "South American",
+                "Latin American"
+            ],
+            "dishTypes": [
+                "sauce"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "paleolithic",
+                "primal",
+                "whole 30",
+                "ketogenic"
+            ],
+            "occasions": [],
+            "instructions": "Start by mixing extra-virgin olive oil and red wine vinegar together in a bowl.\n\nAdd the finely chopped parsley, oregano, and sage. Then add the chopped garlic and shallots. Taste it, to see if you like the balance.\n\nNext, put on some gloves, chop the habanero pepper as finely as possible, and you’ll probably want to leave the seeds out too. \n\nStir everything and season with Maldon sea salt and some freshly cracked tellicherry pepper.\n\nCover and put in the fridge for at least 30 minutes (or overnight), to let the flavors mingle with the oil.\n\nAfter meat has cooked and rested, spoon the chimichurri sauce on top for serving.",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Start by mixing extra-virgin olive oil and red wine vinegar together in a bowl.",
+                            "ingredients": [
+                                {
+                                    "id": 1034053,
+                                    "name": "extra virgin olive oil",
+                                    "localizedName": "extra virgin olive oil",
+                                    "image": "olive-oil.jpg"
+                                },
+                                {
+                                    "id": 1022068,
+                                    "name": "red wine vinegar",
+                                    "localizedName": "red wine vinegar",
+                                    "image": "red-wine-vinegar.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Add the finely chopped parsley, oregano, and sage. Then add the chopped garlic and shallots. Taste it, to see if you like the balance.",
+                            "ingredients": [
+                                {
+                                    "id": 11677,
+                                    "name": "shallot",
+                                    "localizedName": "shallot",
+                                    "image": "shallots.jpg"
+                                },
+                                {
+                                    "id": 2027,
+                                    "name": "oregano",
+                                    "localizedName": "oregano",
+                                    "image": "oregano.jpg"
+                                },
+                                {
+                                    "id": 11297,
+                                    "name": "parsley",
+                                    "localizedName": "parsley",
+                                    "image": "parsley.jpg"
+                                },
+                                {
+                                    "id": 11215,
+                                    "name": "garlic",
+                                    "localizedName": "garlic",
+                                    "image": "garlic.png"
+                                },
+                                {
+                                    "id": 99226,
+                                    "name": "sage",
+                                    "localizedName": "sage",
+                                    "image": "fresh-sage.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Next, put on some gloves, chop the habanero pepper as finely as possible, and you’ll probably want to leave the seeds out too. ",
+                            "ingredients": [
+                                {
+                                    "id": 10011819,
+                                    "name": "habanero chili",
+                                    "localizedName": "habanero chili",
+                                    "image": "habanero-pepper.jpg"
+                                },
+                                {
+                                    "id": 93818,
+                                    "name": "seeds",
+                                    "localizedName": "seeds",
+                                    "image": "sunflower-seeds.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Stir everything and season with Maldon sea salt and some freshly cracked tellicherry pepper.",
+                            "ingredients": [
+                                {
+                                    "id": 1012047,
+                                    "name": "sea salt",
+                                    "localizedName": "sea salt",
+                                    "image": "salt.jpg"
+                                },
+                                {
+                                    "id": 1002030,
+                                    "name": "pepper",
+                                    "localizedName": "pepper",
+                                    "image": "pepper.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 5,
+                            "step": "Cover and put in the fridge for at least 30 minutes (or overnight), to let the flavors mingle with the oil.",
+                            "ingredients": [
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 30,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 6,
+                            "step": "After meat has cooked and rested, spoon the chimichurri sauce on top for serving.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "chimichurri",
+                                    "localizedName": "chimichurri",
+                                    "image": ""
+                                },
+                                {
+                                    "id": 1065062,
+                                    "name": "meat",
+                                    "localizedName": "meat",
+                                    "image": "whole-chicken.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 87.52176666259766,
+            "spoonacularSourceUrl": "https://spoonacular.com/a-chimichurri-youll-want-to-put-on-everything-1697773"
+        },
+        {
+            "id": 681713,
+            "image": "https://img.spoonacular.com/recipes/681713-556x370.png",
+            "imageType": "png",
+            "title": "Everything Bagel Cheese Burger",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://fullbellysisters.blogspot.com/2015/08/everything-bagel-cheese-burger.html",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 24,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 0,
+            "healthScore": 14.0,
+            "creditsText": "Full Belly Sisters",
+            "license": "CC BY-SA 3.0",
+            "sourceName": "Full Belly Sisters",
+            "pricePerServing": 203.8,
+            "extendedIngredients": [
+                {
+                    "id": 10023572,
+                    "aisle": "Meat",
+                    "image": "fresh-ground-beef.jpg",
+                    "consistency": "SOLID",
+                    "name": "ground beef",
+                    "nameClean": "ground beef",
+                    "original": "1 pound ground beef",
+                    "originalName": "ground beef",
+                    "amount": 1.0,
+                    "unit": "pound",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "lb",
+                            "unitLong": "pound"
+                        },
+                        "metric": {
+                            "amount": 453.592,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 10118408,
+                    "aisle": "Bakery/Bread",
+                    "image": "sesame-bagel.jpg",
+                    "consistency": "SOLID",
+                    "name": "everything bagel spice blend",
+                    "nameClean": "everything bagel spice blend",
+                    "original": "2 Tablespoons Everything Bagel Spice Blend",
+                    "originalName": "Everything Bagel Spice Blend",
+                    "amount": 2.0,
+                    "unit": "Tablespoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 10118408,
+                    "aisle": "Bakery/Bread",
+                    "image": "sesame-bagel.jpg",
+                    "consistency": "SOLID",
+                    "name": "everything bagels",
+                    "nameClean": "everything bagels",
+                    "original": "4 everything bagels, lightly toasted",
+                    "originalName": "everything bagels, lightly toasted",
+                    "amount": 4.0,
+                    "unit": "",
+                    "meta": [
+                        "lightly toasted"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 4.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 10118408,
+                    "aisle": "Bakery/Bread",
+                    "image": "sesame-bagel.jpg",
+                    "consistency": "SOLID",
+                    "name": "everything bagel cheddar cheese",
+                    "nameClean": "everything bagel cheddar cheese",
+                    "original": "about 4 oz of sliced Everything Bagel Cheddar Cheese (or substitute another cheese—a really sharp cheddar would be great)",
+                    "originalName": "about of sliced Everything Bagel Cheddar Cheese (or substitute another cheese—a really sharp cheddar would be great)",
+                    "amount": 4.0,
+                    "unit": "oz",
+                    "meta": [
+                        "sliced",
+                        "(or substitute another cheese—a really sharp cheddar would be great)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "oz",
+                            "unitLong": "ounces"
+                        },
+                        "metric": {
+                            "amount": 113.398,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 11252,
+                    "aisle": "Produce",
+                    "image": "iceberg-lettuce.jpg",
+                    "consistency": "SOLID",
+                    "name": "lettuce",
+                    "nameClean": "lettuce",
+                    "original": "lettuce, tomato slices, paper-thin red onion, and additional everything spice blend, for topping  ",
+                    "originalName": "lettuce, tomato paper-thin red onion, and additional everything spice blend, for topping",
+                    "amount": 1.0,
+                    "unit": "slices",
+                    "meta": [
+                        "paper-thin",
+                        "red",
+                        "for topping "
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "slice",
+                            "unitLong": "slice"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "slice",
+                            "unitLong": "slice"
+                        }
+                    }
+                },
+                {
+                    "id": 2046,
+                    "aisle": "Condiments",
+                    "image": "regular-mustard.jpg",
+                    "consistency": "LIQUID",
+                    "name": "mustard",
+                    "nameClean": "mustard",
+                    "original": "mustard, or any condiments you like",
+                    "originalName": "mustard, or any condiments you like",
+                    "amount": 1.0,
+                    "unit": "serving",
+                    "meta": [
+                        "or any condiments you like"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        }
+                    }
+                },
+                {
+                    "id": 23572,
+                    "aisle": "Frozen",
+                    "image": "beef-cubes-raw.png",
+                    "consistency": "SOLID",
+                    "name": "gently combine beef",
+                    "nameClean": "gently combine beef",
+                    "original": "Gently combine beef and",
+                    "originalName": "Gently combine beef and",
+                    "amount": 1.0,
+                    "unit": "serving",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        }
+                    }
+                },
+                {
+                    "id": 23507,
+                    "aisle": "Meat",
+                    "image": "fresh-ground-beef.jpg",
+                    "consistency": "SOLID",
+                    "name": "into patties. grill to desired doneness",
+                    "nameClean": "into patties. grill to desired doneness",
+                    "original": "into patties. Grill (or cook in a skillet) to desired doneness, topping with cheese in the last few minutes",
+                    "originalName": "into patties. Grill (or cook in a skillet) to desired doneness, topping with cheese in the last few minutes",
+                    "amount": 1.0,
+                    "unit": "serving",
+                    "meta": [
+                        "with cheese in the last few minutes",
+                        "(or cook in a skillet)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        }
+                    }
+                },
+                {
+                    "id": 4582,
+                    "aisle": "Oil, Vinegar, Salad Dressing",
+                    "image": "vegetable-oil.jpg",
+                    "consistency": "LIQUID",
+                    "name": "cooking",
+                    "nameClean": "cooking",
+                    "original": "of cooking.",
+                    "originalName": "of cooking",
+                    "amount": 1.0,
+                    "unit": "serving",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        }
+                    }
+                },
+                {
+                    "id": 18408,
+                    "aisle": "Bakery/Bread",
+                    "image": "bagels.jpg",
+                    "consistency": "SOLID",
+                    "name": "assemble the burgers on the bagels",
+                    "nameClean": "assemble the burgers on the bagels",
+                    "original": "Assemble the burgers on the bagels with lettuce, tomatoes, and onions. Top the burger with an additional sprinkle of the everything spice mix.",
+                    "originalName": "Assemble the burgers on the bagels with lettuce, tomatoes, and onions. Top the burger with an additional sprinkle of the everything spice mix",
+                    "amount": 1.0,
+                    "unit": "serving",
+                    "meta": [
+                        "with lettuce, tomatoes, and onions. top the burger with an additional sprinkle of the everything spice mix."
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        }
+                    }
+                },
+                {
+                    "id": 10118408,
+                    "aisle": "Bakery/Bread",
+                    "image": "sesame-bagel.jpg",
+                    "consistency": "SOLID",
+                    "name": "if you don't eat bread",
+                    "nameClean": "if you don't eat bread",
+                    "original": "If you don't eat bread (or are just watching your carb intake), you can skip the bagel bun. After all, you've got that delicious everything bagel flavor right in the burger!",
+                    "originalName": "If you don't eat bread (or are just watching your carb intake), you skip the bagel bun. After all, you've got that delicious everything bagel flavor right in the burger",
+                    "amount": 1.0,
+                    "unit": "can",
+                    "meta": [
+                        "(or are just watching your carb intake)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "can",
+                            "unitLong": "can"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "can",
+                            "unitLong": "can"
+                        }
+                    }
+                },
+                {
+                    "id": 10118408,
+                    "aisle": "Bakery/Bread",
+                    "image": "sesame-bagel.jpg",
+                    "consistency": "SOLID",
+                    "name": "do you love everything bagels as much as i do",
+                    "nameClean": "do you love everything bagels as much as i do",
+                    "original": "Do you love everything bagels as much as I do?",
+                    "originalName": "Do you love everything bagels as much as I do",
+                    "amount": 1.0,
+                    "unit": "serving",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        }
+                    }
+                }
+            ],
+            "summary": "If you want to add more <b>American</b> recipes to your collection, Everything Bagel Cheese Burger might be a recipe you should try. This main course has <b>820 calories</b>, <b>42g of protein</b>, and <b>37g of fat</b> per serving. This recipe serves 4 and costs $2.04 per serving. It is brought to you by fullbellysisters.blogspot.com. A mixture of if you don't eat bread, into patties. grill to desired doneness, cooking, and a handful of other ingredients are all it takes to make this recipe so tasty. 1 person has made this recipe and would make it again. From preparation to the plate, this recipe takes approximately <b>approximately 45 minutes</b>. It is a good option if you're following a <b>dairy free</b> diet. Taking all factors into account, this recipe <b>earns a spoonacular score of 0%</b>, which is very bad (but still fixable). Try <a href=\"https://spoonacular.com/recipes/everything-bagel-642489\">Everything Bagel</a>, <a href=\"https://spoonacular.com/recipes/everything-bagel-spice-blend-681703\">Everything Bagel Spice Blend</a>, and <a href=\"https://spoonacular.com/recipes/a-chimichurri-youll-want-to-put-on-everything-1697773\">A Chimichurri You'll Want to Put on Everything</a> for similar recipes.",
+            "cuisines": [
+                "American"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "dairy free"
+            ],
+            "occasions": [],
+            "instructions": null,
+            "analyzedInstructions": [],
+            "language": "en",
+            "spoonacularScore": 54.61886978149414,
+            "spoonacularSourceUrl": "https://spoonacular.com/everything-bagel-cheese-burger-681713"
+        },
+        {
+            "id": 681703,
+            "image": "https://img.spoonacular.com/recipes/681703-556x370.png",
+            "imageType": "png",
+            "title": "Everything Bagel Spice Blend",
+            "readyInMinutes": 45,
+            "servings": 1,
+            "sourceUrl": "https://fullbellysisters.blogspot.com/2015/08/everything-bagel-spice-blend.html",
+            "vegetarian": true,
+            "vegan": true,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 7,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 0,
+            "healthScore": 22.0,
+            "creditsText": "Full Belly Sisters",
+            "license": "CC BY-SA 3.0",
+            "sourceName": "Full Belly Sisters",
+            "pricePerServing": 330.68,
+            "extendedIngredients": [
+                {
+                    "id": 12023,
+                    "aisle": "Spices and Seasonings",
+                    "image": "sesame-seeds.png",
+                    "consistency": "SOLID",
+                    "name": "sesame seeds",
+                    "nameClean": "sesame seeds",
+                    "original": "2 Tablespoons sesame seeds",
+                    "originalName": "sesame seeds",
+                    "amount": 2.0,
+                    "unit": "Tablespoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 2033,
+                    "aisle": "Baking",
+                    "image": "poppyseed.png",
+                    "consistency": "SOLID",
+                    "name": "poppy seeds",
+                    "nameClean": "poppy seeds",
+                    "original": "2 Tablespoons poppy seeds",
+                    "originalName": "poppy seeds",
+                    "amount": 2.0,
+                    "unit": "Tablespoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 1012047,
+                    "aisle": "Spices and Seasonings",
+                    "image": "salt.jpg",
+                    "consistency": "SOLID",
+                    "name": "coarse sea salt",
+                    "nameClean": "coarse sea salt",
+                    "original": "1 teaspoon coarse sea salt",
+                    "originalName": "coarse sea salt",
+                    "amount": 1.0,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        }
+                    }
+                },
+                {
+                    "id": 11284,
+                    "aisle": "Spices and Seasonings",
+                    "image": "onion-powder.jpg",
+                    "consistency": "SOLID",
+                    "name": "onion",
+                    "nameClean": "onion",
+                    "original": "2 teaspoons dried minced onion",
+                    "originalName": "dried minced onion",
+                    "amount": 2.0,
+                    "unit": "teaspoons",
+                    "meta": [
+                        "dried",
+                        "minced"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 2020,
+                    "aisle": "Spices and Seasonings",
+                    "image": "garlic-powder.png",
+                    "consistency": "SOLID",
+                    "name": "garlic",
+                    "nameClean": "garlic",
+                    "original": "2 teaspoons dried minced garlic",
+                    "originalName": "dried minced garlic",
+                    "amount": 2.0,
+                    "unit": "teaspoons",
+                    "meta": [
+                        "dried",
+                        "minced"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 2018,
+                    "aisle": "Spices and Seasonings",
+                    "image": "fennel-seeds.jpg",
+                    "consistency": "SOLID",
+                    "name": "fennel seed",
+                    "nameClean": "fennel seed",
+                    "original": "1 teaspoon fennel seed, crushed or whole (optional, but recommended)",
+                    "originalName": "fennel seed, crushed or whole (optional, but recommended)",
+                    "amount": 1.0,
+                    "unit": "teaspoon",
+                    "meta": [
+                        "whole",
+                        "crushed",
+                        "(optional, but recommended)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        }
+                    }
+                }
+            ],
+            "summary": "You can never have too many marinade recipes, so give Everything Bagel Spice Blend a try. For <b>$3.31 per serving</b>, this recipe <b>covers 19%</b> of your daily requirements of vitamins and minerals. This recipe serves 1. One serving contains <b>247 calories</b>, <b>8g of protein</b>, and <b>16g of fat</b>. This recipe is typical of Southern cuisine. It is brought to you by fullbellysisters.blogspot.com. From preparation to the plate, this recipe takes around <b>around 45 minutes</b>. Not a lot of people made this recipe, and 1 would say it hit the spot. A mixture of garlic, poppy seeds, fennel seed, and a handful of other ingredients are all it takes to make this recipe so flavorful. It is a good option if you're following a <b>gluten free, dairy free, paleolithic, and lacto ovo vegetarian</b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 0%</b>. This score is very bad (but still fixable). Try <a href=\"https://spoonacular.com/recipes/everything-bagel-642489\">Everything Bagel</a>, <a href=\"https://spoonacular.com/recipes/everything-bagel-cheese-burger-681713\">Everything Bagel Cheese Burger</a>, and <a href=\"https://spoonacular.com/recipes/a-chimichurri-youll-want-to-put-on-everything-1697773\">A Chimichurri You'll Want to Put on Everything</a> for similar recipes.",
+            "cuisines": [
+                "Southern"
+            ],
+            "dishTypes": [
+                "seasoning",
+                "marinade"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "paleolithic",
+                "lacto ovo vegetarian",
+                "primal",
+                "whole 30",
+                "vegan"
+            ],
+            "occasions": [],
+            "instructions": null,
+            "analyzedInstructions": [],
+            "language": "en",
+            "spoonacularScore": 20.33884048461914,
+            "spoonacularSourceUrl": "https://spoonacular.com/everything-bagel-spice-blend-681703"
+        }
+    ],
+    "totalResults": 4
+}

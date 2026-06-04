@@ -1,0 +1,2812 @@
+{
+  "source": "OpenTable",
+  "restaurant_id": 1017331,
+  "slug": "brooklyn-chop-house-new-york",
+  "fetched_at": "2026-06-03T19:47:50.190722",
+  "reviews": [
+    {
+      "reviewId": "OT-1017331-254674-190114412169",
+      "text": "IDK what happened to that place but something needs to change",
+      "rating": {
+        "food": 1,
+        "service": 2,
+        "ambience": 1,
+        "value": 1,
+        "noise": "QUIET",
+        "overall": 2,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 5,
+        "nickname": "Krystal",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "K",
+        "isVip": true,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-06-01T03:20:45Z",
+      "dinedDateTime": "2026-05-27T18:30:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-254393-150185636305",
+      "text": "This place was a 10/10 for me! No complaints! I’ll be back soon!",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "ENERGETIC",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Jennie",
+        "metro": {
+          "metroId": 17,
+          "displayName": "Miami",
+          "__typename": "Metro"
+        },
+        "initials": "J",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-05-24T15:48:32Z",
+      "dinedDateTime": "2026-05-23T20:00:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [
+        {
+          "photoId": "94335589",
+          "type": null,
+          "photoMetaData": {
+            "title": null,
+            "source": "Diner",
+            "creator": "OpenTable",
+            "timestamp": "2026-05-24T15:48:36Z",
+            "photoBySize": {
+              "small": {
+                "url": "https://resizer.otstatic.com/v4/photos/94335589-1?width=160&height=160",
+                "__typename": "Photo"
+              },
+              "medium": {
+                "url": "https://resizer.otstatic.com/v4/photos/94335589-1?width=320&height=320",
+                "__typename": "Photo"
+              },
+              "xlarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/94335589-1?width=752&height=752",
+                "__typename": "Photo"
+              },
+              "wideMedium": {
+                "url": "https://resizer.otstatic.com/v4/photos/94335589-1?width=320&height=180",
+                "__typename": "Photo"
+              },
+              "wideLarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/94335589-1?width=640&height=360",
+                "__typename": "Photo"
+              },
+              "__typename": "PhotoSizes"
+            },
+            "width": 2160,
+            "height": 3840,
+            "__typename": "PhotoMetadata"
+          },
+          "caption": "New York Steak and Chicken Fried Rice",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        },
+        {
+          "photoId": "94335590",
+          "type": null,
+          "photoMetaData": null,
+          "caption": "Message In A Bottle Cocktail",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        }
+      ],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-254437-180181261448",
+      "text": "Nice birthday dinner, food was ehhhhh specially for a steak house , good not great.\n\nService was excellent would definitely  go back for drinks! And service ! Maybe just not always for a good steak.",
+      "rating": {
+        "food": 3,
+        "service": 4,
+        "ambience": 4,
+        "value": 2,
+        "noise": "MODERATE",
+        "overall": 2,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 20,
+        "nickname": "Drew",
+        "metro": {
+          "metroId": 3,
+          "displayName": "Chicago",
+          "__typename": "Metro"
+        },
+        "initials": "D",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-05-26T00:18:30Z",
+      "dinedDateTime": "2026-05-23T19:00:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-253737-140136844774",
+      "text": "5 stars! The overall experience was great. Great customer service, great drinks, great food, and a great atmosphere. Definitely a place I would come back to and recommend to others.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 15,
+        "nickname": "Pleasure",
+        "metro": {
+          "metroId": 430,
+          "displayName": "Tulsa",
+          "__typename": "Metro"
+        },
+        "initials": "P",
+        "isVip": true,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-05-24T17:42:51Z",
+      "dinedDateTime": "2026-05-23T18:30:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-254338-180017565968",
+      "text": "The food was excellent. Service was okay, the biggest surprise was being charged gratuity as a party of 2. We decided to check the place out because they recently joined the InKind network where you pay through the app. The server literally acted like we were walking out on our tab. Made a bit of a scene and it was uncomfortable.",
+      "rating": {
+        "food": 5,
+        "service": 3,
+        "ambience": 2,
+        "value": 3,
+        "noise": "QUIET",
+        "overall": 3,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 9,
+        "nickname": "Rachel",
+        "metro": {
+          "metroId": 91,
+          "displayName": "Charleston",
+          "__typename": "Metro"
+        },
+        "initials": "R",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-05-23T17:13:14Z",
+      "dinedDateTime": "2026-05-22T20:00:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-252854-160151754106",
+      "text": "Beautiful restaurant, food is always good. Our server was nice and he checked on us often",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "QUIET",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 2,
+        "nickname": "Raqiba",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "R",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": {
+            "xsmall": {
+              "url": "https://resizer.otstatic.com/v4/photos/94282242-1?width=105&height=105",
+              "__typename": "Photo"
+            },
+            "__typename": "PhotoSizes"
+          },
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-05-22T16:15:34Z",
+      "dinedDateTime": "2026-05-21T20:30:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [
+        {
+          "photoId": "94282102",
+          "type": null,
+          "photoMetaData": null,
+          "caption": "I surprised my boyfriend for his 33rd birthday!",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        },
+        {
+          "photoId": "94282171",
+          "type": null,
+          "photoMetaData": null,
+          "caption": "They surprised him with the cake and candle",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        }
+      ],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-253930-190078408739",
+      "text": "We had a fantastic time. The atmosphere, service and food were all outstanding! We were celebrating our son's graduation and this was the perfect environment! We were very appreciative of the restaurant's complimentary dessert for his celebration!",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "QUIET",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 14,
+        "nickname": "Kenneth",
+        "metro": {
+          "metroId": 31,
+          "displayName": "Charlotte",
+          "__typename": "Metro"
+        },
+        "initials": "K",
+        "isVip": true,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-05-16T16:13:45Z",
+      "dinedDateTime": "2026-05-15T20:00:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-253874-130095560913",
+      "text": "Decent food, quiet atmosphere, less than stellar service. It could be that they automatically add 20% gratuity no matter the party size, but we were not impressed with the service.",
+      "rating": {
+        "food": 4,
+        "service": 2,
+        "ambience": 3,
+        "value": 3,
+        "noise": "DO_NOT_RECALL",
+        "overall": 3,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 4,
+        "nickname": "Kelli",
+        "metro": {
+          "metroId": 367,
+          "displayName": "Grand Rapids",
+          "__typename": "Metro"
+        },
+        "initials": "K",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-05-16T21:50:10Z",
+      "dinedDateTime": "2026-05-15T18:00:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-252413-120256701132",
+      "text": "Great Experience. The food was delicious! I'll be back soon",
+      "rating": {
+        "food": 5,
+        "service": 4,
+        "ambience": 4,
+        "value": 4,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Justin",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "J",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-05-18T04:56:37Z",
+      "dinedDateTime": "2026-05-15T12:30:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-253373-170190908407",
+      "text": "I had wonderful dinner,  with nice music and a great waiter. The Bartender were on point as well.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 3,
+        "nickname": "Monic",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "M",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-05-11T20:00:33Z",
+      "dinedDateTime": "2026-05-10T16:00:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-253136-100086062020",
+      "text": "My glass was dirty, had things floating around in the water. My stake was made incorrectly, and for over $100 not very tasty. My duck tacos were nothing but fat. The Manager was nice and heard my complaints and compensated part of the bill. Might give it another chance, everyone has a bad night.",
+      "rating": {
+        "food": 2,
+        "service": 4,
+        "ambience": 4,
+        "value": 1,
+        "noise": "MODERATE",
+        "overall": 2,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 2,
+        "nickname": "Evelyn",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "E",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-05-11T13:29:56Z",
+      "dinedDateTime": "2026-05-09T22:45:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-252773-170014086387",
+      "text": "Overall our experience was enjoyable.  Highlights were certainly the steak (Porterhouse) and then the sparklers to celebrate two birthdays.\n\nThe restaurant was unseemingly warm.  I questioned out waiter and he said the A/C was ok but it definitely did not feel that way.    We were very warm.\n\nOur waiter didnt seem very personable in the beginning but towards the end he became more talkative and shared some travel experiences and recommendations.\n\nWe would very much keep this on places to dine when in NY. The steak was cooked perfectly and the other sides were delicious as well.",
+      "rating": {
+        "food": 5,
+        "service": 3,
+        "ambience": 2,
+        "value": 4,
+        "noise": "QUIET",
+        "overall": 4,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 19,
+        "nickname": "Kristin",
+        "metro": {
+          "metroId": 13,
+          "displayName": "Philadelphia",
+          "__typename": "Metro"
+        },
+        "initials": "K",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-05-04T15:12:34Z",
+      "dinedDateTime": "2026-05-02T17:30:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [
+        {
+          "photoId": "93688449",
+          "type": null,
+          "photoMetaData": {
+            "title": null,
+            "source": "Diner",
+            "creator": "OpenTable",
+            "timestamp": "2026-05-04T15:12:38Z",
+            "photoBySize": {
+              "small": {
+                "url": "https://resizer.otstatic.com/v4/photos/93688449-1?width=160&height=160",
+                "__typename": "Photo"
+              },
+              "medium": {
+                "url": "https://resizer.otstatic.com/v4/photos/93688449-1?width=320&height=320",
+                "__typename": "Photo"
+              },
+              "xlarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/93688449-1?width=752&height=752",
+                "__typename": "Photo"
+              },
+              "wideMedium": {
+                "url": "https://resizer.otstatic.com/v4/photos/93688449-1?width=320&height=180",
+                "__typename": "Photo"
+              },
+              "wideLarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/93688449-1?width=640&height=360",
+                "__typename": "Photo"
+              },
+              "__typename": "PhotoSizes"
+            },
+            "width": 3024,
+            "height": 4032,
+            "__typename": "PhotoMetadata"
+          },
+          "caption": "Iceburg Wedge Salad",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        }
+      ],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-250144-100044457140",
+      "text": "The food was very average and the service was terrible.  We had to ask to even get our water glasses refilled!! We also had to ask if they had dessert and asked for a menu.  Our server would NOT split up the check 5 ways, as she said it was to late for that.  She was very unprofessional.  Everyone there seemed to have attitudes!!!",
+      "rating": {
+        "food": 2,
+        "service": 1,
+        "ambience": 2,
+        "value": 2,
+        "noise": "ENERGETIC",
+        "overall": 1,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "CHRISTY",
+        "metro": {
+          "metroId": 48,
+          "displayName": "St. Louis",
+          "__typename": "Metro"
+        },
+        "initials": "C",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-04-27T15:44:36Z",
+      "dinedDateTime": "2026-04-25T18:30:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-251482-160092221416",
+      "text": "It was an amazing experience! The food, service, and atmosphere were all splendid. Thank you, Brooklyn Chop House Downtown 🩷",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "assem",
+        "metro": {
+          "metroId": 72,
+          "displayName": "London",
+          "__typename": "Metro"
+        },
+        "initials": "a",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-04-30T05:35:13Z",
+      "dinedDateTime": "2026-04-22T18:00:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-251600-180004649968",
+      "text": "Our waiter, Alex with the bald head, was perfect.  He was attentive, polite and entertaining.  We had a great time as usual, but his friendly banter and attention to detail was particularly appreciated.  We will be back again and again.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 4,
+        "nickname": "Ayana",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "A",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-04-20T16:04:20Z",
+      "dinedDateTime": "2026-04-19T16:00:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-251777-170101105177",
+      "text": "Didn’t like the that I was rushed and had to sit in between two people table was small could not Oder much with two people",
+      "rating": {
+        "food": 4,
+        "service": 1,
+        "ambience": 4,
+        "value": 3,
+        "noise": "QUIET",
+        "overall": 3,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "rashaan",
+        "metro": {
+          "metroId": 89,
+          "displayName": "Atlantic City",
+          "__typename": "Metro"
+        },
+        "initials": "r",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-04-19T17:09:23Z",
+      "dinedDateTime": "2026-04-18T22:30:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [
+        {
+          "photoId": "93262294",
+          "type": "Dff",
+          "photoMetaData": {
+            "title": null,
+            "source": "Diner",
+            "creator": "OpenTable",
+            "timestamp": "2026-04-19T17:08:30Z",
+            "photoBySize": {
+              "small": {
+                "url": "https://resizer.otstatic.com/v4/photos/93262294-1?width=160&height=160",
+                "__typename": "Photo"
+              },
+              "medium": {
+                "url": "https://resizer.otstatic.com/v4/photos/93262294-1?width=320&height=320",
+                "__typename": "Photo"
+              },
+              "xlarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/93262294-1?width=752&height=752",
+                "__typename": "Photo"
+              },
+              "wideMedium": {
+                "url": "https://resizer.otstatic.com/v4/photos/93262294-1?width=320&height=180",
+                "__typename": "Photo"
+              },
+              "wideLarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/93262294-1?width=640&height=360",
+                "__typename": "Photo"
+              },
+              "__typename": "PhotoSizes"
+            },
+            "width": 1290,
+            "height": 2293,
+            "__typename": "PhotoMetadata"
+          },
+          "caption": "",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        }
+      ],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-250678-190069344119",
+      "text": "Always 10/10! My favorite place to dine in the city.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "DO_NOT_RECALL",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 9,
+        "nickname": "Nia",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "N",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-04-05T18:31:14Z",
+      "dinedDateTime": "2026-04-04T16:00:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [
+        {
+          "photoId": "92740960",
+          "type": null,
+          "photoMetaData": {
+            "title": null,
+            "source": "Diner",
+            "creator": "OpenTable",
+            "timestamp": "2026-04-05T18:31:16Z",
+            "photoBySize": {
+              "small": {
+                "url": "https://resizer.otstatic.com/v4/photos/92740960-1?width=160&height=160",
+                "__typename": "Photo"
+              },
+              "medium": {
+                "url": "https://resizer.otstatic.com/v4/photos/92740960-1?width=320&height=320",
+                "__typename": "Photo"
+              },
+              "xlarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/92740960-1?width=752&height=752",
+                "__typename": "Photo"
+              },
+              "wideMedium": {
+                "url": "https://resizer.otstatic.com/v4/photos/92740960-1?width=320&height=180",
+                "__typename": "Photo"
+              },
+              "wideLarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/92740960-1?width=640&height=360",
+                "__typename": "Photo"
+              },
+              "__typename": "PhotoSizes"
+            },
+            "width": 1206,
+            "height": 2144,
+            "__typename": "PhotoMetadata"
+          },
+          "caption": null,
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        },
+        {
+          "photoId": "92740965",
+          "type": null,
+          "photoMetaData": {
+            "title": null,
+            "source": "Diner",
+            "creator": "OpenTable",
+            "timestamp": "2026-04-05T18:31:18Z",
+            "photoBySize": {
+              "small": {
+                "url": "https://resizer.otstatic.com/v4/photos/92740965-1?width=160&height=160",
+                "__typename": "Photo"
+              },
+              "medium": {
+                "url": "https://resizer.otstatic.com/v4/photos/92740965-1?width=320&height=320",
+                "__typename": "Photo"
+              },
+              "xlarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/92740965-1?width=752&height=752",
+                "__typename": "Photo"
+              },
+              "wideMedium": {
+                "url": "https://resizer.otstatic.com/v4/photos/92740965-1?width=320&height=180",
+                "__typename": "Photo"
+              },
+              "wideLarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/92740965-1?width=640&height=360",
+                "__typename": "Photo"
+              },
+              "__typename": "PhotoSizes"
+            },
+            "width": 1206,
+            "height": 2144,
+            "__typename": "PhotoMetadata"
+          },
+          "caption": null,
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        }
+      ],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-250259-140030826554",
+      "text": "This is my favorite restaurant when I visit NYC. On this visit, despite many open tables we were seated in a tight corner next to a busing area. I had the salt and pepper shrimp which was not my usual choice and it was a bit disappointing. Stick to the steak and pork chop.",
+      "rating": {
+        "food": 3,
+        "service": 4,
+        "ambience": 3,
+        "value": 5,
+        "noise": "QUIET",
+        "overall": 3,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 10,
+        "nickname": "Pamela",
+        "metro": {
+          "metroId": 11,
+          "displayName": "Portland",
+          "__typename": "Metro"
+        },
+        "initials": "P",
+        "isVip": true,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-03-30T16:04:06Z",
+      "dinedDateTime": "2026-03-29T18:00:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-247608-150077958765",
+      "text": "Ordered the LSD from the menu and it was worth it!",
+      "rating": {
+        "food": 4,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "QUIET",
+        "overall": 4,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 2,
+        "nickname": "Jesenia",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "J",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-03-22T17:22:12Z",
+      "dinedDateTime": "2026-03-21T18:30:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-249479-100060092230",
+      "text": "Alex, our waiter, thank you so much for the warm service. I had the best time with my sons. The food was PERFECT!!!! We can’t wait to come visit you all again. 10 out of 10!!!",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "ENERGETIC",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Janice",
+        "metro": {
+          "metroId": 28,
+          "displayName": "Orlando",
+          "__typename": "Metro"
+        },
+        "initials": "J",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-03-21T13:34:34Z",
+      "dinedDateTime": "2026-03-20T18:00:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-248825-150253818895",
+      "text": "Waiter added the tip without our approval on a party of 3",
+      "rating": {
+        "food": 4,
+        "service": 2,
+        "ambience": 5,
+        "value": 2,
+        "noise": "DO_NOT_RECALL",
+        "overall": 3,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 0,
+        "nickname": "Sarah",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "S",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-03-17T18:07:18Z",
+      "dinedDateTime": "2026-03-16T21:00:00+00:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-248955-130230313383",
+      "text": "Ordered a bunch of beautiful food, the glazed short ribs recommended",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "DO_NOT_RECALL",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 0,
+        "nickname": "Ernie",
+        "metro": {
+          "metroId": 199,
+          "displayName": "Unspecified",
+          "__typename": "Metro"
+        },
+        "initials": "E",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-03-16T06:17:30Z",
+      "dinedDateTime": "2026-03-15T20:30:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-246846-140095776754",
+      "text": "Food is good, the service is great, nice and clean. It was a great experience. I would definitely recommend and I plan to go back.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 10,
+        "nickname": "Stëphänįë",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "S",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-04-29T10:48:24Z",
+      "dinedDateTime": "2026-03-14T16:30:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-248982-130203354393",
+      "text": "I was vacationing from Dallas, Texas. I visited both locations during my time in Brooklyn. I definitely preferred one over the other. But overall great experience from both.   ￼ I did see the owner walking around to different tables talking to guest. She didn’t make it to our table though. ￼",
+      "rating": {
+        "food": 5,
+        "service": 4,
+        "ambience": 5,
+        "value": 4,
+        "noise": "QUIET",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Purpose",
+        "metro": {
+          "metroId": 20,
+          "displayName": "Dallas",
+          "__typename": "Metro"
+        },
+        "initials": "P",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-03-29T20:44:20Z",
+      "dinedDateTime": "2026-03-14T16:00:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-248818-160034446486",
+      "text": "Convenient locatoin across from Pace University very near One Police Plaza\n\nPortions were big.  18oz serloin and \"Pork Chops\" (two big pork chops)",
+      "rating": {
+        "food": 5,
+        "service": 4,
+        "ambience": 4,
+        "value": 3,
+        "noise": "QUIET",
+        "overall": 3,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 18,
+        "nickname": "Steven",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "S",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-03-15T18:01:11Z",
+      "dinedDateTime": "2026-03-11T18:00:00-04:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-247932-110173014811",
+      "text": "Great vibes , Great food & don’t let me get started on the drinks . Great service all around !",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 4,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 0,
+        "nickname": "Alex",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "A",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-03-05T20:41:42Z",
+      "dinedDateTime": "2026-02-27T22:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-246939-170169818257",
+      "text": "Always a great experience there. Never an issue. Love this place and location.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 4,
+        "noise": "ENERGETIC",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Leah",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "L",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-02-22T18:54:56Z",
+      "dinedDateTime": "2026-02-21T20:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-246363-130090882923",
+      "text": "This restaurant is overrated and should do better including staff",
+      "rating": {
+        "food": 3,
+        "service": 3,
+        "ambience": 2,
+        "value": 3,
+        "noise": "QUIET",
+        "overall": 3,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 0,
+        "nickname": "Armando",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "A",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-02-16T16:54:59Z",
+      "dinedDateTime": "2026-02-15T19:30:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-246281-170168710487",
+      "text": "Our waiter was horrible. He seemed like a drunk and quite obvious how he spoke to the bus boys, he is arrogant and disrespectful. They dont even like him.  We asked for recommendations and his opinion and he was vague, didnt seem like he wanted to be bothered.  I have been to the midtown restaurant with clients and always had a great experience since I work for Morgan Stanley down the block. Due to my great experience, I told my husband about it and he was not impressed.  Very disappointing and the service made it worse",
+      "rating": {
+        "food": 2,
+        "service": 1,
+        "ambience": 5,
+        "value": 2,
+        "noise": "QUIET",
+        "overall": 2,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 4,
+        "nickname": "donna",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "d",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": {
+            "xsmall": {
+              "url": "https://resizer.otstatic.com/v4/photos/57382294-1?width=105&height=105",
+              "__typename": "Photo"
+            },
+            "__typename": "PhotoSizes"
+          },
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": {
+        "message": "Hello,\nPlease email me directly to further discuss this matter.\nBest,\nChristina, BCH Communications",
+        "responseDateTimeUtc": "2026-02-18T19:13:16Z",
+        "__typename": "PublicRestaurantReply"
+      },
+      "submittedDateTime": "2026-02-16T20:16:19Z",
+      "dinedDateTime": "2026-02-15T16:30:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-246503-190157541259",
+      "text": "Love this place! Food was amazing!! Service was great even through the busy night of valentines. I will definitely be back.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 0,
+        "nickname": "Clarissa",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "C",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-02-20T22:31:38Z",
+      "dinedDateTime": "2026-02-14T23:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-246623-130185328693",
+      "text": "Overcrowded , people waiting to be seated standing bunched up behind our table. Draft constantly from the entrance door being opened and closed.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 1,
+        "noise": "MODERATE",
+        "overall": 1,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 0,
+        "nickname": "Steven",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "S",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": {
+        "message": "Hello,\nFeel free to reach out to me directly to further discuss your less than satisfactory experience. \nBest,\nChristina, Communications Manager",
+        "responseDateTimeUtc": "2026-02-18T19:17:47Z",
+        "__typename": "PublicRestaurantReply"
+      },
+      "submittedDateTime": "2026-02-15T18:06:24Z",
+      "dinedDateTime": "2026-02-14T19:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-246664-130149204343",
+      "text": "This was my first time visiting the Brooklyn chophouse. Ambience was a 10 out of a 10. It was set up perfectly for Valentines night. The prefix menu was pretty good. 175 a person it wasn’t bad. I did however order three  love potion drinks they were $25 apiece zero buzz for three drinks for that cost. service was very good. The servers were attentive. We had the salt and pepper lobster which was very good we had the filet mignon, which was very very good. We had a side of mashed potatoes. We had the crab fried rice that was very good. We had the chicken satay. I would give it a seven out of 10. My only complaint would Be that the seating was very close. The first couple we sat next to they were very friendly that we engaged them it was valentine so of course it’s awkward sitting next to people while you’re having a dinner, but then when they left the couple that sat down was a little bit more obnoxious a little louder so my advice would just be for something intimate like that kind of maybe not put people so on top of each other but other than that, I would definitely go back again .￼ The desert was huge and definitely a cute touch. Prosecco was included however we never received it. No biggie\nCute experience overall .",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 4,
+        "noise": "DO_NOT_RECALL",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Ayana",
+        "metro": {
+          "metroId": 13,
+          "displayName": "Philadelphia",
+          "__typename": "Metro"
+        },
+        "initials": "A",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": {
+        "message": "Hello,\nThank you for the review and feedback! We look forward to seeing you again soon.\nBest,\nBCH Communications",
+        "responseDateTimeUtc": "2026-02-18T19:18:29Z",
+        "__typename": "PublicRestaurantReply"
+      },
+      "submittedDateTime": "2026-02-15T17:05:11Z",
+      "dinedDateTime": "2026-02-14T17:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-245265-190082976229",
+      "text": "Great very expensive for Valentine’s Day but great",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "ENERGETIC",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 4,
+        "nickname": "Jonathan",
+        "metro": {
+          "metroId": 10,
+          "displayName": "Las Vegas",
+          "__typename": "Metro"
+        },
+        "initials": "J",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-02-25T20:02:06Z",
+      "dinedDateTime": "2026-02-14T17:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-245598-180049505908",
+      "text": "Went here fist time and I would not go back.  It was Valentine’s Day menu which I knew going in but the food was tasteless with a few items such as mashed potatoes and broccoli being decent.  The steak was cooked to correct temp surprisingly but had no taste (I wouldn’t offer filet mignon as the only steak option on the menu). My wife’s lamb chops were ok.  Drinks were watered down and we were supposed to get prosecco at the end which we had to ask for and the waiter said “oh you want it”.  Why wouldn’t you ask first before making an assumption someone wouldn’t want everything that they are paying for on the menu.  Anyway, I don’t expect pre-fixed menus to be amazing but I was turned off by the taste, watered down drinks, and bill was served without request before we even got our prosecco which I always find rude in any restaurant.",
+      "rating": {
+        "food": 3,
+        "service": 3,
+        "ambience": 3,
+        "value": 3,
+        "noise": "MODERATE",
+        "overall": 3,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 2,
+        "nickname": "Stan",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "S",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-02-15T16:22:49Z",
+      "dinedDateTime": "2026-02-14T17:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-246081-110149584861",
+      "text": "Definitely recommend everything was a plus food drinks service good vibes good music",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "ENERGETIC",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 0,
+        "nickname": "Wesley",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "W",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": {
+            "xsmall": {
+              "url": "https://resizer.otstatic.com/v4/photos/92711409-1?width=105&height=105",
+              "__typename": "Photo"
+            },
+            "__typename": "PhotoSizes"
+          },
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": {
+        "message": "Hello,\nThank you for the review and feedback! We look forward to seeing you again soon.\nBest,\nBCH Communications",
+        "responseDateTimeUtc": "2026-02-18T19:16:54Z",
+        "__typename": "PublicRestaurantReply"
+      },
+      "submittedDateTime": "2026-02-15T18:42:25Z",
+      "dinedDateTime": "2026-02-14T17:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-246775-170007569487",
+      "text": "Where to begin. We went there for Valentine's night. The worst dining experience we have ever had. First off, fake leather furniture that was coming apart everywhere, construction paper for the tabletops, red led lights and valentine's decorations purchased at what looks like the dollar store on the walls. The food had zero flavoring and was low quality. We wouldn't have minded if it were priced accordingly. However, it was a $175 minimum per person charge. We had 1 drink each which was extra, plus the automatic 20% gratuity and taxes that you have no choice on...our ticket was $525!! The only good thing about this place was our server, she was great and did her best. If you like hugely overpriced food for bottom of the barrel quality and interior design, then this is your place.\n\nI did respond to you privately as you instructed and no response.",
+      "rating": {
+        "food": 1,
+        "service": 4,
+        "ambience": 1,
+        "value": 1,
+        "noise": "MODERATE",
+        "overall": 2,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 2,
+        "nickname": "clint",
+        "metro": {
+          "metroId": 20,
+          "displayName": "Dallas",
+          "__typename": "Metro"
+        },
+        "initials": "c",
+        "isVip": true,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": {
+        "message": "Hello,\nFeel free to reach out to me directly to further discuss your less than satisfactory experience. \nBest,\nChristina, Communications Manager",
+        "responseDateTimeUtc": "2026-02-18T19:15:32Z",
+        "__typename": "PublicRestaurantReply"
+      },
+      "submittedDateTime": "2026-02-25T03:11:20Z",
+      "dinedDateTime": "2026-02-14T16:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-245922-190112008229",
+      "text": "Great experience with great food — service slow but overall would return.",
+      "rating": {
+        "food": 5,
+        "service": 3,
+        "ambience": 5,
+        "value": 3,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 8,
+        "nickname": "Mechelle",
+        "metro": {
+          "metroId": 4,
+          "displayName": "San Francisco",
+          "__typename": "Metro"
+        },
+        "initials": "M",
+        "isVip": true,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": {
+        "message": "Hello,\nThanks for the review and feedback! We look forward to seeing you again soon.\nBest,\nBCH Communications",
+        "responseDateTimeUtc": "2026-02-18T19:24:00Z",
+        "__typename": "PublicRestaurantReply"
+      },
+      "submittedDateTime": "2026-02-08T18:14:25Z",
+      "dinedDateTime": "2026-02-07T17:30:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-245865-120051075702",
+      "text": "We went for restaurant week, and of course there’s a reason their restaurant week menu wasn’t posted. Asian fusion options on this menu, which is disappointing considering they’re a steakhouse.\nI decided to not order from it and get the steak instead, which for $110 was very disappointing, smaller than expected and overcooked. The chicken satay from the prefix menu was probably one of the worse things I’ve ever eaten. The filet mignon n broccoli was tasty but very minimal steak. The fried rice was great with a nice smoky flavor. The cheesecake tasted stale.\n\nNegative experience even before seeing the menu as was completely ignored by the hostess when entered although no one was in front of us.\n\nThree star average because of the waiter’s service. Our waiter was very friendly and attentive. I also enjoyed the music which was largely dancehall.",
+      "rating": {
+        "food": 2,
+        "service": 5,
+        "ambience": 3,
+        "value": 2,
+        "noise": "MODERATE",
+        "overall": 3,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 0,
+        "nickname": "Diane",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "D",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": {
+        "message": "Thanks for taking the time to leave feedback. I do want to clarify one thing: we are very openly advertised across all platforms as an Asian-infused American steakhouse. That’s the entire concept, premium steakhouse cuts alongside Asian-inspired dishes, so the presence of satay, fried rice, and similar items on a Restaurant Week menu shouldn’t come as a surprise or feel misleading.\nWith that said, your comments about the steak temperature, portion expectations, and the cheesecake are noted and will be shared with the kitchen team. I also apologize for the initial lack of acknowledgment at the host stand. I'm glad your server took good care of you and that you enjoyed the music.\nBest,\nChristina, Communications Manager",
+        "responseDateTimeUtc": "2026-02-18T19:23:18Z",
+        "__typename": "PublicRestaurantReply"
+      },
+      "submittedDateTime": "2026-02-14T17:42:03Z",
+      "dinedDateTime": "2026-02-06T21:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [
+        {
+          "photoId": "91993646",
+          "type": null,
+          "photoMetaData": {
+            "title": null,
+            "source": "Diner",
+            "creator": "OpenTable",
+            "timestamp": "2026-02-14T17:42:09Z",
+            "photoBySize": {
+              "small": {
+                "url": "https://resizer.otstatic.com/v4/photos/91993646-1?width=160&height=160",
+                "__typename": "Photo"
+              },
+              "medium": {
+                "url": "https://resizer.otstatic.com/v4/photos/91993646-1?width=320&height=320",
+                "__typename": "Photo"
+              },
+              "xlarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/91993646-1?width=752&height=752",
+                "__typename": "Photo"
+              },
+              "wideMedium": {
+                "url": "https://resizer.otstatic.com/v4/photos/91993646-1?width=320&height=180",
+                "__typename": "Photo"
+              },
+              "wideLarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/91993646-1?width=640&height=360",
+                "__typename": "Photo"
+              },
+              "__typename": "PhotoSizes"
+            },
+            "width": 4032,
+            "height": 3024,
+            "__typename": "PhotoMetadata"
+          },
+          "caption": "Entrees, steak, fried rice",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        },
+        {
+          "photoId": "91993650",
+          "type": null,
+          "photoMetaData": {
+            "title": null,
+            "source": "Diner",
+            "creator": "OpenTable",
+            "timestamp": "2026-02-14T17:42:13Z",
+            "photoBySize": {
+              "small": {
+                "url": "https://resizer.otstatic.com/v4/photos/91993650-1?width=160&height=160",
+                "__typename": "Photo"
+              },
+              "medium": {
+                "url": "https://resizer.otstatic.com/v4/photos/91993650-1?width=320&height=320",
+                "__typename": "Photo"
+              },
+              "xlarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/91993650-1?width=752&height=752",
+                "__typename": "Photo"
+              },
+              "wideMedium": {
+                "url": "https://resizer.otstatic.com/v4/photos/91993650-1?width=320&height=180",
+                "__typename": "Photo"
+              },
+              "wideLarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/91993650-1?width=640&height=360",
+                "__typename": "Photo"
+              },
+              "__typename": "PhotoSizes"
+            },
+            "width": 3024,
+            "height": 4032,
+            "__typename": "PhotoMetadata"
+          },
+          "caption": "Red velvet cheesecake",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        }
+      ],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-245849-170038783077",
+      "text": "When we arrived the hostess greeted us with a scowl and not even a hello.  At that point we should have turned around and walked out.  The ambiance is an upscale Applebees at best.  Feels like a total tourist trap.  Wanted to try as a local but alas was super disappointed.  The restaurant was half empty although our waiter (who started off super unfriendly but redeemed himself) said the kitchen required us to order everything at once.   Very odd for a place where 75 % of the menu is small plates.  Overall, i would say avoid unless you are looking for a diner-like experience devoid of any real personality.",
+      "rating": {
+        "food": 3,
+        "service": 2,
+        "ambience": 1,
+        "value": 2,
+        "noise": "MODERATE",
+        "overall": 2,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 31,
+        "nickname": "Troy",
+        "metro": {
+          "metroId": 3,
+          "displayName": "Chicago",
+          "__typename": "Metro"
+        },
+        "initials": "T",
+        "isVip": true,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": {
+        "message": "Hello,\nFeel free to reach out to me directly to further discuss your less than satisfactory experience. \nBest,\nChristina, Communications Manager",
+        "responseDateTimeUtc": "2026-02-18T19:25:00Z",
+        "__typename": "PublicRestaurantReply"
+      },
+      "submittedDateTime": "2026-02-07T18:34:59Z",
+      "dinedDateTime": "2026-02-06T19:30:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-245284-110002303351",
+      "text": "My nephew came to town to visit and thought it would be nice to go to a steak house. I had heard good things about Brooklyn Chop House and made a reservation. Unfortunately, an excellent steak was ruined by some of the worst service I have ever received at a restaurant in the city.\n\nFirst the good: the steak itself (the ribeye) was fantastic, if slightly smaller than advertised on the menu. Cooked to perfection and flavorful. The sides were good if not to the level of the steak.\n\nThe bad: Our service was so bad that it felt intentional. We arrive and immediately get an eye roll from our server, Alex, and he also immediately takes away the wine list (funny enough after my nephew and I were discussing our favorite wines). We order our cocktails, steak and two sides, the bok choy and mac and cheese. When the sides arrive, they bring us bok choy and mashed potatoes. No issue, sometimes there are mix-ups so I tell the person who brought our food out about the mix-up that we had ordered the mac and cheese. Alex, then says \"You don't want the mashed potatoes, now.\" No, we would just like what we original ordered.\n\nAfter we eat our dinner we order dessert, a scoop of ice cream for each of us and a glass of wine. Before we are even able to order he says \"I have a nice Moscato for you.\" We end up getting two glasses of Malbec and our ice cream is brought out in a single bowl even though we asked for them separately.\nFinally, our sever immediately gives us the check and within one minute is already asking if we are ready to pay. We had not even finished our dessert or wine yet. There were several tables that had arrived before us and left after we did who did not get that level of push to leave, let alone the disdain we experienced during the entire meal.\n\nOverall, what should have been a fun time with my nephew was marred by a terrible server. I hope that other patrons like us don't receive that level of treatment.",
+      "rating": {
+        "food": 4,
+        "service": 1,
+        "ambience": 3,
+        "value": 2,
+        "noise": "DO_NOT_RECALL",
+        "overall": 1,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Antonio",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "A",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": {
+        "message": "Hello,\nFeel free to reach out to me directly to further discuss your less than satisfactory experience. \nBest,\nChristina, Communications Manager",
+        "responseDateTimeUtc": "2026-02-18T19:25:43Z",
+        "__typename": "PublicRestaurantReply"
+      },
+      "submittedDateTime": "2026-02-07T17:27:22Z",
+      "dinedDateTime": "2026-02-06T19:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-245163-130043104063",
+      "text": "I was joined with my friends for restaurant week! The service was good and food was delicious. We ordered from the Restaurant Week menu which was great three course menu choices and the Red Velvet Cheesecake was to die for! We truly enjoyed everything on the menu! I highly recommend Brooklyn Chop House-Downtown!!",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 29,
+        "nickname": "DALIS C",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "D",
+        "isVip": true,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": {
+            "xsmall": {
+              "url": "https://resizer.otstatic.com/v4/photos/63541845-1?width=105&height=105",
+              "__typename": "Photo"
+            },
+            "__typename": "PhotoSizes"
+          },
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": {
+        "message": "Hello,\nThank you for the review and feedback! We look forward to seeing you again soon.\nBest,\nBCH Communications",
+        "responseDateTimeUtc": "2026-02-18T19:36:07Z",
+        "__typename": "PublicRestaurantReply"
+      },
+      "submittedDateTime": "2026-02-05T03:18:03Z",
+      "dinedDateTime": "2026-02-02T19:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [
+        {
+          "photoId": "91837406",
+          "type": null,
+          "photoMetaData": {
+            "title": null,
+            "source": "Diner",
+            "creator": "OpenTable",
+            "timestamp": "2026-02-05T03:18:08Z",
+            "photoBySize": {
+              "small": {
+                "url": "https://resizer.otstatic.com/v4/photos/91837406-1?width=160&height=160",
+                "__typename": "Photo"
+              },
+              "medium": {
+                "url": "https://resizer.otstatic.com/v4/photos/91837406-1?width=320&height=320",
+                "__typename": "Photo"
+              },
+              "xlarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/91837406-1?width=752&height=752",
+                "__typename": "Photo"
+              },
+              "wideMedium": {
+                "url": "https://resizer.otstatic.com/v4/photos/91837406-1?width=320&height=180",
+                "__typename": "Photo"
+              },
+              "wideLarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/91837406-1?width=640&height=360",
+                "__typename": "Photo"
+              },
+              "__typename": "PhotoSizes"
+            },
+            "width": 3024,
+            "height": 4032,
+            "__typename": "PhotoMetadata"
+          },
+          "caption": "Red Velvet Cheesecake",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        }
+      ],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-244892-190168859359",
+      "text": "This is a very beautiful establishment with great food. There's someone that comes around and takes photos for $27 and you get a framed photo + the all digitals for \"free\" (I believe). We ordered the Caesar salad, sweet and sour chicken and the chicken fried rice for 2.\n\nMy con for this restaurant was the service and seating. They are squeezing a bunch of people into a small space. We were so close to the tables next to us that we could hear every part of their conversations. As for the service...from the moment we entered although sat instantly we were not greeted by the host staff. Our server was kind but non-attentive. When ordering your food you have to order everything at one time. This includes, small plates, entrees, sides and whatever other food you want. We waited so long on our server to come back to our table that we ended up with our meal before being able to get a straw for our water. She never came back to see if we wanted to order a drink or even if we wanted to order more food. Overall, it was a great meal but disappointing customer service experience for a birthday dinner. We made note to the manager about our experience and accepted this wasn't the experience we were hoping for on our last night in NYC.\n\nSomething to note: They do offer a slice of cheesecake if you're celebrating something.",
+      "rating": {
+        "food": 5,
+        "service": 2,
+        "ambience": 3,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 3,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 4,
+        "nickname": "Angel",
+        "metro": {
+          "metroId": 91,
+          "displayName": "Charleston",
+          "__typename": "Metro"
+        },
+        "initials": "A",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-02-01T22:45:32Z",
+      "dinedDateTime": "2026-01-31T19:30:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-245136-190140501749",
+      "text": "We had lovely service & great food! Our waiter was extremely helpful and friendly. Will be back",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "QUIET",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Cassidy",
+        "metro": {
+          "metroId": 3,
+          "displayName": "Chicago",
+          "__typename": "Metro"
+        },
+        "initials": "C",
+        "isVip": true,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": {
+        "message": "Hello,\nThank you for the review and feedback! We look forward to seeing you again soon.\nBest,\nBCH Communications",
+        "responseDateTimeUtc": "2026-02-18T19:37:29Z",
+        "__typename": "PublicRestaurantReply"
+      },
+      "submittedDateTime": "2026-02-01T19:33:17Z",
+      "dinedDateTime": "2026-01-31T19:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-242411-190108293759",
+      "text": "I came here for my wife's birthday on 1/31/26. I wanted to take her here after coming here months before with friends and having an amazing time.  My only issue on this visit was my server. His vibe changed after we asked another server for him because we waited a while to place our food order. The place was not packed at this time.  My wife was ready to leave but I convinced her to stay. The food was amazing as always but my wife has a peanut allergy and I asked for no peanuts with my chicken entree and it still arrived with peanuts.  I ate it anyway because I was starving but my wife was very upset. She won't be coming back but I will give it another chance",
+      "rating": {
+        "food": 5,
+        "service": 2,
+        "ambience": 5,
+        "value": 5,
+        "noise": "QUIET",
+        "overall": 3,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Marvin",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "M",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": {
+        "message": "Hello,\nFeel free to reach out to me directly to further discuss your less than satisfactory experience. \nBest,\nChristina, Communications Manager",
+        "responseDateTimeUtc": "2026-02-18T19:36:34Z",
+        "__typename": "PublicRestaurantReply"
+      },
+      "submittedDateTime": "2026-02-04T22:49:35Z",
+      "dinedDateTime": "2026-01-31T18:30:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-244950-100060885680",
+      "text": "The food was delicious.  The staff was friendly, personable and attentive. The atmosphere was inviting and pleasant. It is an experience I will repeat.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "QUIET",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 2,
+        "nickname": "Abram",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "A",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": {
+        "message": "Hello,\nThank you for the review and feedback! We look forward to seeing you again soon.\nBest,\nBCH Communications",
+        "responseDateTimeUtc": "2026-02-18T19:38:07Z",
+        "__typename": "PublicRestaurantReply"
+      },
+      "submittedDateTime": "2026-01-28T19:10:01Z",
+      "dinedDateTime": "2026-01-27T12:30:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-244664-170170308497",
+      "text": "It was amazing!  I just don't like how the server put his own tip and didn't allow us to tip based off his service .",
+      "rating": {
+        "food": 5,
+        "service": 2,
+        "ambience": 5,
+        "value": 3,
+        "noise": "ENERGETIC",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 3,
+        "nickname": "kiarra",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "k",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-01-23T14:17:34Z",
+      "dinedDateTime": "2026-01-22T20:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-244552-150191033375",
+      "text": "Had a great time .\nFood was good . Our server was great.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 4,
+        "value": 4,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 3,
+        "nickname": "Rhonda",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "R",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": {
+        "message": "Hello Rhonda,\nThank you for the review and feedback! We look forward to seeing you again soon.\nBest,\nBCH Communications",
+        "responseDateTimeUtc": "2026-01-26T19:30:44Z",
+        "__typename": "PublicRestaurantReply"
+      },
+      "submittedDateTime": "2026-01-22T18:49:04Z",
+      "dinedDateTime": "2026-01-21T13:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-243813-150082989295",
+      "text": "This marks the second occasion I've celebrated my birthday at this establishment with my close friends, and I must say, everything from the staff to the food was truly exceptional. I am certainly looking forward to returning again.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 2,
+        "nickname": "bonita",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "b",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": {
+        "message": "Hello Bonita,\nThanks for the review and for celebrating with us! We look forward to seeing you again soon.\nBest,\nBCH Communications",
+        "responseDateTimeUtc": "2026-01-21T19:13:03Z",
+        "__typename": "PublicRestaurantReply"
+      },
+      "submittedDateTime": "2026-01-18T19:33:36Z",
+      "dinedDateTime": "2026-01-17T21:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [
+        {
+          "photoId": "91476499",
+          "type": "Dff",
+          "photoMetaData": {
+            "title": null,
+            "source": "Diner",
+            "creator": "OpenTable",
+            "timestamp": "2026-01-18T19:33:26Z",
+            "photoBySize": {
+              "small": {
+                "url": "https://resizer.otstatic.com/v4/photos/91476499-1?width=160&height=160",
+                "__typename": "Photo"
+              },
+              "medium": {
+                "url": "https://resizer.otstatic.com/v4/photos/91476499-1?width=320&height=320",
+                "__typename": "Photo"
+              },
+              "xlarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/91476499-1?width=752&height=752",
+                "__typename": "Photo"
+              },
+              "wideMedium": {
+                "url": "https://resizer.otstatic.com/v4/photos/91476499-1?width=320&height=180",
+                "__typename": "Photo"
+              },
+              "wideLarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/91476499-1?width=640&height=360",
+                "__typename": "Photo"
+              },
+              "__typename": "PhotoSizes"
+            },
+            "width": 576,
+            "height": 1024,
+            "__typename": "PhotoMetadata"
+          },
+          "caption": "",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        },
+        {
+          "photoId": "91476500",
+          "type": "Dff",
+          "photoMetaData": null,
+          "caption": "",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        },
+        {
+          "photoId": "91476497",
+          "type": "Dff",
+          "photoMetaData": {
+            "title": null,
+            "source": "Diner",
+            "creator": "OpenTable",
+            "timestamp": "2026-01-18T19:33:26Z",
+            "photoBySize": {
+              "small": {
+                "url": "https://resizer.otstatic.com/v4/photos/91476497-1?width=160&height=160",
+                "__typename": "Photo"
+              },
+              "medium": {
+                "url": "https://resizer.otstatic.com/v4/photos/91476497-1?width=320&height=320",
+                "__typename": "Photo"
+              },
+              "xlarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/91476497-1?width=752&height=752",
+                "__typename": "Photo"
+              },
+              "wideMedium": {
+                "url": "https://resizer.otstatic.com/v4/photos/91476497-1?width=320&height=180",
+                "__typename": "Photo"
+              },
+              "wideLarge": {
+                "url": "https://resizer.otstatic.com/v4/photos/91476497-1?width=640&height=360",
+                "__typename": "Photo"
+              },
+              "__typename": "PhotoSizes"
+            },
+            "width": 576,
+            "height": 1024,
+            "__typename": "PhotoMetadata"
+          },
+          "caption": "",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        },
+        {
+          "photoId": "91476495",
+          "type": "Dff",
+          "photoMetaData": null,
+          "caption": "",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        },
+        {
+          "photoId": "91476498",
+          "type": "Dff",
+          "photoMetaData": null,
+          "caption": "",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        },
+        {
+          "photoId": "91476496",
+          "type": "Dff",
+          "photoMetaData": null,
+          "caption": "",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        },
+        {
+          "photoId": "91476482",
+          "type": "Dff",
+          "photoMetaData": null,
+          "caption": "",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        }
+      ],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-243935-170129127097",
+      "text": "HAD AN AMAZING EXPERIENCE , FOOD WAS AMAZING. I WILL BE COMING BACK",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "ENERGETIC",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Rasaan",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "R",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": {
+        "message": "Hello Rasaan,\nThank you for the review ! We look forward to seeing you again soon.\nBest,\nBCH Communications",
+        "responseDateTimeUtc": "2026-01-21T19:12:10Z",
+        "__typename": "PublicRestaurantReply"
+      },
+      "submittedDateTime": "2026-01-20T13:03:22Z",
+      "dinedDateTime": "2026-01-16T21:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-1017331-243268-140027637814",
+      "text": "Great food! Great service! Nyla & Alex were great!",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "QUIET",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 8,
+        "nickname": "Martinique",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "M",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": {
+        "message": "Hello Martinique,\nThank you for the review and feedback! We look forward to seeing you again soon.\nBest,\nBCH Communications",
+        "responseDateTimeUtc": "2026-01-13T17:20:52Z",
+        "__typename": "PublicRestaurantReply"
+      },
+      "submittedDateTime": "2026-01-13T02:07:08Z",
+      "dinedDateTime": "2026-01-10T20:00:00-05:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    }
+  ]
+}

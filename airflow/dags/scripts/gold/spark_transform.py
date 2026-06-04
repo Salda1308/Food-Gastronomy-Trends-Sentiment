@@ -137,6 +137,37 @@ def transform_articles(spark, silver_web_dir: str, gold_out: str) -> int:
     return df.count()
 
 
+REVIEW_COLS = [
+    "review_id", "restaurant_id", "restaurant_slug",
+    "text", "text_clean",
+    "rating_overall", "rating_food", "rating_service", "rating_ambience", "rating_value",
+    "noise_level", "dined_date", "submitted_date",
+    "user_nickname", "user_metro", "source",
+]
+
+
+def transform_reviews(spark, silver_ot_dir: str, gold_out: str) -> int:
+    """
+    Reads silver/opentable/ Parquet files, selects NLP-ready columns,
+    deduplicates by review_id, and writes to gold_out.
+    Returns 0 gracefully if no OpenTable data exists yet.
+    """
+    from pathlib import Path
+    if not any(Path(silver_ot_dir).glob("*.parquet")):
+        print("gold_reviews: no silver/opentable data yet — skipping")
+        return 0
+
+    df   = _read_with_type_coercion(spark, silver_ot_dir)
+    keep = [c for c in REVIEW_COLS if c in df.columns]
+    df   = df.select(keep)
+
+    if "review_id" in df.columns:
+        df = df.dropDuplicates(["review_id"])
+
+    df.coalesce(1).write.mode("overwrite").parquet(gold_out)
+    return df.count()
+
+
 def main() -> None:
     spark = build_spark_session()
     try:
@@ -145,15 +176,20 @@ def main() -> None:
 
         silver_api = latest_date_dir(Path(SILVER_BASE) / "api")
         silver_web = latest_date_dir(Path(SILVER_BASE) / "webscraping")
+        silver_ot  = latest_date_dir(Path(SILVER_BASE) / "opentable")
 
         recipes_out  = str(gold_dir / f"gold_recipes_{ts}.parquet")
         articles_out = str(gold_dir / f"gold_articles_{ts}.parquet")
+        reviews_out  = str(gold_dir / f"gold_reviews_{ts}.parquet")
 
         n = transform_recipes(spark, str(silver_api), recipes_out)
         print(f"gold_recipes:  {n} rows → {recipes_out}")
 
         n = transform_articles(spark, str(silver_web), articles_out)
         print(f"gold_articles: {n} rows → {articles_out}")
+
+        n = transform_reviews(spark, str(silver_ot), reviews_out)
+        print(f"gold_reviews:  {n} rows → {reviews_out}")
 
     finally:
         spark.stop()

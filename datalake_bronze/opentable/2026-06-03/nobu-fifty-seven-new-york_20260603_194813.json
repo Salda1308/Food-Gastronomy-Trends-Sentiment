@@ -1,0 +1,53 @@
+{
+  "source": "OpenTable",
+  "restaurant_id": 188978,
+  "slug": "nobu-fifty-seven-new-york",
+  "fetched_at": "2026-06-03T19:48:13.749427",
+  "reviews": [
+    {
+      "reviewId": "OT-188978-44108447-280059853448",
+      "text": "not enough staffs, with reservation we need to wait for 15min to be sited as they need to get table ready.   and another 40min for our meals after we had placed order.  Will not recommending this place, if you have limited times for lunches.",
+      "rating": {
+        "food": 3,
+        "service": 1,
+        "ambience": 2,
+        "value": 2,
+        "noise": "ENERGETIC",
+        "overall": 2,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "嘉蓓",
+        "metro": {
+          "metroId": 303,
+          "displayName": "Greater Taipei",
+          "__typename": "Metro"
+        },
+        "initials": "嘉",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-08-07T07:07:50Z",
+      "dinedDateTime": "2025-08-04T12:00:00+08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    }
+  ]
+}

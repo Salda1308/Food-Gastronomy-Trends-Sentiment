@@ -19,7 +19,7 @@ except ImportError:
 # These are high-frequency terms that carry no sentiment signal in this dataset
 # (every article and recipe is already known to be NYC-focused and food-related).
 FOOD_NYC_STOP_WORDS: set[str] = {
-    "eater", "eaterland", "nyc", "ny",
+    "eater", "eaterland", "nyc", "ny", "food", "bar", "cup", "menu",
     "recipe", "recipes",
     "restaurant", "restaurants",
     "new york", "york",   # "new" kept — can carry sentiment ("new opening")
@@ -41,6 +41,13 @@ def organize_raw_files(base_dir: Path) -> tuple[list[Path], list[Path]]:
     web_files = sorted(latest_date_dir(web_bronze_base).glob("*.json"))
 
     return api_files, web_files
+
+
+def organize_opentable_files(base_dir: Path) -> list[Path]:
+    """Locates Bronze OpenTable JSON files in the latest date partition."""
+    ot_base = base_dir / "bronze" / "opentable"
+    ot_base.mkdir(parents=True, exist_ok=True)
+    return sorted(latest_date_dir(ot_base).glob("*.json"))
 
 
 def _dedupe_paths(paths: Iterable[Path]) -> list[Path]:
@@ -146,6 +153,80 @@ def _extract_instructions_text(instructions) -> str:
                 if isinstance(step, dict) and step.get("step"):
                     steps.append(step["step"].strip())
     return " ".join(steps)
+
+
+def preprocess_opentable_only(base_dir_str: str = "/opt/airflow/datalake") -> None:
+    """
+    Process Bronze OpenTable JSONs → Silver OpenTable Parquet.
+    Flattens nested reviews, extracts ratings, and NLP-cleans the text.
+    Called by the clean_opentable Airflow task.
+    """
+    base_dir  = Path(base_dir_str).resolve()
+    ot_files  = organize_opentable_files(base_dir)
+    out_dir   = today_output_dir(base_dir / "silver" / "opentable")
+    stop_words = get_english_stopwords() | FOOD_NYC_STOP_WORDS
+
+    print(f"[silver/opentable] Processing {len(ot_files)} Bronze OpenTable files…")
+    if not ot_files:
+        print("[silver/opentable] No Bronze OpenTable files found — nothing to do.")
+        return
+
+    rows: list[dict] = []
+    for path in ot_files:
+        with path.open("r", encoding="utf-8") as f:
+            payload = json.load(f)
+
+        restaurant_id   = payload.get("restaurant_id")
+        restaurant_slug = payload.get("slug", "")
+
+        for review in payload.get("reviews", []):
+            rating = review.get("rating", {}) or {}
+            user   = review.get("user", {}) or {}
+            metro  = user.get("metro", {}) or {}
+
+            rows.append({
+                "review_id":        review.get("reviewId", ""),
+                "restaurant_id":    restaurant_id,
+                "restaurant_slug":  restaurant_slug,
+                "text":             review.get("text", ""),
+                "rating_overall":   rating.get("overall"),
+                "rating_food":      rating.get("food"),
+                "rating_service":   rating.get("service"),
+                "rating_ambience":  rating.get("ambience"),
+                "rating_value":     rating.get("value"),
+                "noise_level":      rating.get("noise", ""),
+                "dined_date":       review.get("dinedDateTime", ""),
+                "submitted_date":   review.get("submittedDateTime", ""),
+                "user_nickname":    user.get("nickname", ""),
+                "user_metro":       metro.get("displayName", ""),
+                "source":           "OpenTable",
+            })
+
+    if not rows:
+        print("[silver/opentable] All files were empty — nothing written.")
+        return
+
+    df = pd.DataFrame(rows)
+
+    # Deduplicate by review_id
+    before = len(df)
+    df = df.drop_duplicates(subset="review_id", keep="first")
+    if len(df) < before:
+        print(f"[silver/opentable] Deduplicated {before - len(df)} duplicate reviews.")
+
+    # NLP clean the review text
+    df["text_clean"] = df["text"].astype(str).apply(
+        lambda t: clean_nlp_text(t, stop_words)
+    )
+
+    # Coerce rating columns to nullable Int32
+    for col in ["rating_overall", "rating_food", "rating_service", "rating_ambience", "rating_value"]:
+        df[col] = pd.to_numeric(df[col], errors="coerce").astype("Int32")
+
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / f"opentable_{pd.Timestamp.now().strftime('%Y%m%d_%H%M%S')}.parquet"
+    df.to_parquet(out_path, index=False)
+    print(f"[silver/opentable] Written: {out_path.name}  ({len(df)} unique reviews)")
 
 
 def preprocess_api_file(file_path: Path, output_dir: Path) -> Path | None:

@@ -1,35 +1,49 @@
+"""
+Bronze Ingestion DAG — Web scraping + OpenTable reviews
+=========================================================
+Tasks:
+  1. extract_eater_ny   → Eater NY RSS/Atom feed → bronze/webscraping/
+  2. extract_opentable  → OpenTable reviews (Playwright + GraphQL) → bronze/opentable/
+
+Paused by default. Trigger manually para snapshot sin correr el pipeline completo.
+"""
+
 from airflow.decorators import dag, task
-from datetime import datetime
-import sys
+from datetime import datetime, timedelta
 
-# Aseguramos que Python vea la carpeta de scripts
-sys.path.append('/opt/airflow/dags')
+default_args = {
+    "owner": "data_engineering_team",
+    "retries": 1,
+    "retry_delay": timedelta(minutes=5),
+}
 
-# IMPORTACIÓN CORRECTA (fíjate en las mayúsculas)
-from scripts.bronze.WebScrapping_NY import main as run_web_scraping
-from scripts.bronze.api_ingestion import main as run_api_ingestion
 
 @dag(
-    dag_id='bronze_ingestion_pipeline',
-    schedule_interval='@daily',
+    dag_id="bronze_ingestion_pipeline",
+    default_args=default_args,
+    schedule_interval=None,
     start_date=datetime(2024, 1, 1),
     catchup=False,
-    is_paused_upon_creation=True,  # superseded by nyc_gastronomy_pipeline
-    tags=['bronze']
+    is_paused_upon_creation=True,
+    tags=["bronze"],
 )
 def bronze_ingestion_pipeline():
-    
-    @task()
-    def extract_api_data():
-        run_api_ingestion()
-        return "API OK"
 
     @task()
-    def extract_web_data():
-        # Ahora sí llamará a la función main del script WebScrapping_NY.py
-        run_web_scraping() 
-        return "Web OK"
+    def extract_eater_ny() -> str:
+        from scripts.bronze.WebScrapping_NY import main
+        main()
+        return "Eater NY feed extracted to Bronze"
 
-    extract_api_data() >> extract_web_data()
+    @task()
+    def extract_opentable() -> str:
+        from scripts.bronze.opentable_ingestion import main
+        main()
+        return "OpenTable reviews extracted to Bronze"
 
-ingestion_dag = bronze_ingestion_pipeline()
+    # Corren en paralelo — son fuentes independientes
+    extract_eater_ny()
+    extract_opentable()
+
+
+dag_instance = bronze_ingestion_pipeline()

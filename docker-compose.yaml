@@ -24,6 +24,11 @@ services:
       AIRFLOW__WEBSERVER__SECRET_KEY: "this-is-a-stable-airflow-secret-key-change-me"
       AIRFLOW__API__SECRET_KEY: "this-is-a-stable-airflow-secret-key-change-me"
       SPOONACULAR_API_KEY: ${SPOONACULAR_API_KEY}
+      SPOONACULAR_API_KEY_2: ${SPOONACULAR_API_KEY_2:-}
+      SPOONACULAR_API_KEY_3: ${SPOONACULAR_API_KEY_3:-}
+      SPOONACULAR_API_KEY_4: ${SPOONACULAR_API_KEY_4:-}
+      SPOONACULAR_API_KEY_5: ${SPOONACULAR_API_KEY_5:-}
+      SPOONACULAR_API_KEY_6: ${SPOONACULAR_API_KEY_6:-}
       PYTHONPATH: /opt/airflow/dags
       # Defines the fs_default connection via env var so it is available without
       # needing a separate airflow connections add command or UI setup.
@@ -56,6 +61,11 @@ services:
       AIRFLOW__WEBSERVER__SECRET_KEY: "this-is-a-stable-airflow-secret-key-change-me"
       AIRFLOW__API__SECRET_KEY: "this-is-a-stable-airflow-secret-key-change-me"
       SPOONACULAR_API_KEY: ${SPOONACULAR_API_KEY}
+      SPOONACULAR_API_KEY_2: ${SPOONACULAR_API_KEY_2:-}
+      SPOONACULAR_API_KEY_3: ${SPOONACULAR_API_KEY_3:-}
+      SPOONACULAR_API_KEY_4: ${SPOONACULAR_API_KEY_4:-}
+      SPOONACULAR_API_KEY_5: ${SPOONACULAR_API_KEY_5:-}
+      SPOONACULAR_API_KEY_6: ${SPOONACULAR_API_KEY_6:-}
       PYTHONPATH: /opt/airflow/dags
       AIRFLOW_CONN_FS_DEFAULT: '{"conn_type": "fs", "extra": {"path": "/opt/airflow/datalake/bronze"}}'
     ports:
@@ -86,6 +96,11 @@ services:
       AIRFLOW__WEBSERVER__SECRET_KEY: "this-is-a-stable-airflow-secret-key-change-me"
       AIRFLOW__API__SECRET_KEY: "this-is-a-stable-airflow-secret-key-change-me"
       SPOONACULAR_API_KEY: ${SPOONACULAR_API_KEY}
+      SPOONACULAR_API_KEY_2: ${SPOONACULAR_API_KEY_2:-}
+      SPOONACULAR_API_KEY_3: ${SPOONACULAR_API_KEY_3:-}
+      SPOONACULAR_API_KEY_4: ${SPOONACULAR_API_KEY_4:-}
+      SPOONACULAR_API_KEY_5: ${SPOONACULAR_API_KEY_5:-}
+      SPOONACULAR_API_KEY_6: ${SPOONACULAR_API_KEY_6:-}
       PYTHONPATH: /opt/airflow/dags
       AIRFLOW_CONN_FS_DEFAULT: '{"conn_type": "fs", "extra": {"path": "/opt/airflow/datalake/bronze"}}'
       # socket:gethostname honours the hostname: setting above so task instances
@@ -139,5 +154,28 @@ services:
     environment:
       GOLD_BASE: /app/datalake_gold
 
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile.web
+      args:
+        NEXT_PUBLIC_API_URL: http://localhost:8000
+    ports:
+      - "3000:3000"
+    volumes:
+      - web_db:/app/data
+    environment:
+      DATABASE_URL: file:/app/data/prod.db
+      AUTH_SECRET: ${AUTH_SECRET}
+      AUTH_GOOGLE_ID: ${AUTH_GOOGLE_ID}
+      AUTH_GOOGLE_SECRET: ${AUTH_GOOGLE_SECRET}
+      AUTH_GITHUB_ID: ${AUTH_GITHUB_ID:-}
+      AUTH_GITHUB_SECRET: ${AUTH_GITHUB_SECRET:-}
+      AUTH_URL: http://localhost:3000
+      API_INTERNAL_URL: http://gastronomy-api:8000
+    depends_on:
+      - gastronomy-api
+
 volumes:
   pgdata:
+  web_db:

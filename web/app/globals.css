@@ -1,0 +1,159 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ========================================================
+   EMPIRE'S TASTE — Street Art Edition
+   The wall is the canvas. Data is the tag.
+   ======================================================== */
+
+@layer base {
+  :root {
+    /* ---- NIGHT ASPHALT — everything lives in the dark ---- */
+    --wall:         13  13  15;   /* #0d0d0f — street at 2am */
+    --wall-deep:    10  10  12;   /* #0a0a0c */
+    --wire-light:   60  58  55;   /* #3c3a37 */
+    --ink:          22  22  22;   /* #161616 */
+    --chalk:       238 234 226;   /* #eeeae2 — primary text on dark */
+
+    /* ---- SURFACES — layers of depth ---- */
+    --poster:       20  20  22;   /* #141416 */
+    --concrete:     28  28  30;   /* #1c1c1e */
+    --slab:         40  40  42;   /* #28282a */
+    --wire:         52  52  54;   /* #343436 */
+
+    /* ---- SPRAY PAINT ---- */
+    --neon:        245 197  24;   /* #f5c518 — data accent only: ticker numbers, active tab */
+    --heat:        218  54  54;   /* #da3636 — primary accent: CTAs, borders, alerts */
+    --spray-green:  36 160  88;   /* #24a058 — positive sentiment only */
+    --smoke:       108 105 100;   /* #6c6964 */
+
+    /* ---- DATA VIZ ---- */
+    --viz-pos:     36 160  88;
+    --viz-neg:    210  45  45;
+    --viz-neu:     90  88  86;
+    --viz-trend:  245 197  24;
+  }
+
+  * { border-color: rgb(var(--wire)); }
+
+  html {
+    background-color: rgb(var(--wall));
+    color: rgb(var(--ink));
+  }
+}
+
+/* =====================================================
+   GLOBAL CONCRETE GRAIN
+   Fixed layer — never on scrolling containers
+   ===================================================== */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  pointer-events: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='250' height='250'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.68' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  opacity: 0.045;
+  mix-blend-mode: overlay;
+}
+
+/* =====================================================
+   KEYFRAMES
+   ===================================================== */
+@keyframes et-marquee {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+@keyframes et-kw-scroll {
+  from { transform: translateY(0); }
+  to   { transform: translateY(-50%); }
+}
+
+/* Glitch — neon tube flicker on headline */
+@keyframes glitch-a {
+  0%,96%,100% { clip-path:inset(100% 0 0 0); transform:translate(0);   opacity:0; }
+  97% { clip-path:inset(25% 0 65% 0); transform:translate(-2px,0); opacity:.85; }
+  98% { clip-path:inset(55% 0 25% 0); transform:translate( 2px,0); opacity:.85; }
+  99% { clip-path:inset(80% 0  5% 0); transform:translate(-1px,0); opacity:.85; }
+}
+@keyframes glitch-b {
+  0%,96%,100% { clip-path:inset(100% 0 0 0); transform:translate(0);   opacity:0; }
+  97% { clip-path:inset(60% 0 25% 0); transform:translate( 2px,0); opacity:.85; }
+  98% { clip-path:inset(20% 0 55% 0); transform:translate(-2px,0); opacity:.85; }
+  99% { clip-path:inset(45% 0 40% 0); transform:translate( 1px,0); opacity:.85; }
+}
+
+/* =====================================================
+   GLITCH CLASS — apply to headline wrappers
+   ===================================================== */
+.et-glitch { position: relative; display: inline-block; }
+.et-glitch::before,
+.et-glitch::after {
+  content: attr(data-text);
+  position: absolute; left: 0; top: 0; width: 100%;
+  pointer-events: none;
+}
+.et-glitch::before { color: rgb(var(--heat));  animation: glitch-a 11s steps(1) infinite; }
+.et-glitch::after  { color: rgb(var(--neon));  animation: glitch-b 11s steps(1) infinite; }
+
+/* Keyword scroll tracks */
+.et-kw-track-fast { animation: et-kw-scroll 20s linear infinite; }
+.et-kw-track-slow { animation: et-kw-scroll 28s linear infinite; }
+
+@media (prefers-reduced-motion: reduce) {
+  .et-glitch::before, .et-glitch::after,
+  .et-kw-track-fast, .et-kw-track-slow { animation: none !important; }
+}
+
+/* =====================================================
+   BRUSH MARK — hand-drawn underline under section titles
+   Like the orange stroke under "WALKERS" in Last Oasis
+   ===================================================== */
+.brush-mark {
+  position: relative;
+  display: inline-block;
+}
+.brush-mark::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  width: 70%;
+  height: 5px;
+  background: rgb(var(--neon));
+  transform: rotate(-0.8deg) skew(-2deg);
+  opacity: 0.92;
+}
+.brush-mark-full::after { width: 100%; }
+.brush-mark-heat::after { background: rgb(var(--heat)); }
+
+/* =====================================================
+   POSTER CARD — wheat-paste shadow
+   Hard drop shadow = physically lifted from the wall
+   ===================================================== */
+.poster-card {
+  background: rgb(var(--poster));
+  box-shadow: 7px 9px 0 rgba(0,0,0,.55), 16px 20px 0 rgba(0,0,0,.18);
+  border-radius: 2px;
+}
+.poster-card:hover {
+  box-shadow: 9px 12px 0 rgba(0,0,0,.60), 18px 24px 0 rgba(0,0,0,.20);
+  transform: translateY(-2px);
+}
+
+/* =====================================================
+   STICKER — spray-paint tag label
+   ===================================================== */
+.et-sticker {
+  display: inline-block;
+  font-family: var(--font-stencil);
+  font-size: 9px;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  padding: 5px 12px;
+  box-shadow: 3px 3px 0 rgba(0,0,0,.4);
+}
+.et-sticker-neon   { background: rgb(var(--neon));  color: rgb(var(--poster)); }
+.et-sticker-ink    { background: rgb(var(--ink));   color: rgb(var(--chalk)); }
+.et-sticker-heat   { background: rgb(var(--heat));  color: #fff; }

@@ -1,0 +1,2281 @@
+{
+  "source": "OpenTable",
+  "restaurant_id": 3316,
+  "slug": "the-modern-new-york",
+  "fetched_at": "2026-06-03T19:48:02.880763",
+  "reviews": [
+    {
+      "reviewId": "OT-3316-351299-100103079530",
+      "text": "We always have a great meal at Momma’s. Friendly atmosphere",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 4,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 4,
+        "nickname": "Nancy",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "N",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-02-25T17:44:23Z",
+      "dinedDateTime": "2026-02-24T18:00:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-351297-170195975167",
+      "text": "We highly appreciate Mama Stortini's!\nThe food, staff and service are excellent.  The ambience was a bit loud recently but those diners were celebrating a special occasion. The overall experience is topnotch!\nBarb, Puyallup",
+      "rating": {
+        "food": 5,
+        "service": 4,
+        "ambience": 4,
+        "value": 5,
+        "noise": "ENERGETIC",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 3,
+        "nickname": "Barb",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "B",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-02-26T17:03:17Z",
+      "dinedDateTime": "2026-02-23T16:30:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-351266-190014699189",
+      "text": "Wonderful restaurant with a terrific menu and excellent service!  The noise factor is the only dining element  that keeps it from being 5 star.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 4,
+        "value": 5,
+        "noise": "ENERGETIC",
+        "overall": 4,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 8,
+        "nickname": "George",
+        "metro": {
+          "metroId": 6,
+          "displayName": "Los Angeles",
+          "__typename": "Metro"
+        },
+        "initials": "G",
+        "isVip": true,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-02-17T15:44:23Z",
+      "dinedDateTime": "2026-02-16T16:00:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-351243-100227557810",
+      "text": "Even on a crowded night, Mama Stortini's was excellent. Great food and service.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "QUIET",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 3,
+        "nickname": "Karen",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "K",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-02-18T20:50:00Z",
+      "dinedDateTime": "2026-02-15T18:00:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-351147-100002103750",
+      "text": "My friend picked it who had dietary issues bigger than mind. She got a salad salmon and a glass of wine. I had same a salad and cup of soup. Same $. Just awful. Service wasn’t great. Worst it the access",
+      "rating": {
+        "food": 1,
+        "service": 2,
+        "ambience": 1,
+        "value": 1,
+        "noise": "QUIET",
+        "overall": 2,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 73,
+        "nickname": "Adria",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "A",
+        "isVip": true,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-02-03T06:04:47Z",
+      "dinedDateTime": "2026-01-29T12:00:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-351107-170165938607",
+      "text": "Great atmosphere with excellent food! One of my favorite places to eat!",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 4,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 8,
+        "nickname": "Diane",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "D",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": {
+            "xsmall": {
+              "url": "https://resizer.otstatic.com/v4/photos/63434383-1?width=105&height=105",
+              "__typename": "Photo"
+            },
+            "__typename": "PhotoSizes"
+          },
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-01-22T21:39:04Z",
+      "dinedDateTime": "2026-01-19T16:30:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-351100-190014699189",
+      "text": "The food was quite good and our service was outstanding. The one drawback is that the noise level is very bad.",
+      "rating": {
+        "food": 4,
+        "service": 5,
+        "ambience": 3,
+        "value": 4,
+        "noise": "ENERGETIC",
+        "overall": 4,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 8,
+        "nickname": "George",
+        "metro": {
+          "metroId": 6,
+          "displayName": "Los Angeles",
+          "__typename": "Metro"
+        },
+        "initials": "G",
+        "isVip": true,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-01-19T22:35:16Z",
+      "dinedDateTime": "2026-01-18T16:45:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-351018-150199150335",
+      "text": "We were disappointed with our experience at Mama Stortini's. We went there for an anniversary dinner.  First, access from the parking lot was awkward, as there isn't a pedestrian access from the parking lot that doesn't involve walking up a driveway.  The greeters were very pleasant and seated us right away. Our booth was in a lower area, near windows, which was fine, but the first thing we noticed was the noise level, voices echoed and it seemed most had to speak loudly to be heard.  The music playlist felt like it didn't fit. I was mostly late 70s -early 80s album rock - think Rolling Stones, Kansas, Boston etc.  I should note that it wasn't crowded at all, just very loud. The menu offered a good variety of Italian fare, but prices felt high, most things starting in the $20 range for small portions, and no sides were included. Happy hour cocktails started at $9. We weren't feeling excited about the atmosphere so we ordered small. My wife had Chicken Fettuccini Alfredo (small), I had Seafood Fettuccini Alfredo (small).  We chose not to order drinks.  The food came pretty quickly. My first impression was that I wasn't used to Alfredo being more brown than white, but I thought maybe that's more authentic?  I'm still not sure, but the flavor was off - too much garlic, too little cream and parmesan. The food temperature was fine. My wife didn't like hers at all, \"nasty\" was her descriptor. After two bites is was set aside. I ate mine, and it was tolerable but in real life I'd take Olive Garden. When our server came by again, she saw the almost untouched entree, and didn't ask if there was something wrong with it, she simply said \"are you ready for a box\"?  This was less than 5 minutes after getting our food.  So, we took the box, paid our tab and headed home. Disappointed with the access, the food, the noise and the service.",
+      "rating": {
+        "food": 2,
+        "service": 3,
+        "ambience": 1,
+        "value": 1,
+        "noise": "ENERGETIC",
+        "overall": 2,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Randy",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "R",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-01-18T16:23:46Z",
+      "dinedDateTime": "2026-01-14T17:00:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-351013-100227557810",
+      "text": "Our server was Cheyenne, and she was amazing. Attentive, helpful, and worth asking for to serve us again.  As always, the food was delicious, and a plentiful portion. There are many favorites at Mama's that we love. Highly recommend checking it out.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "QUIET",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 3,
+        "nickname": "Karen",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "K",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-01-17T17:12:42Z",
+      "dinedDateTime": "2026-01-13T18:00:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-350787-150249441505",
+      "text": "That was the best time we have had at mama sortinis ever! Micheal made the not comfortable and recommended that best substitutes for the dinner! the kids were so happy with their for we will make sure to go back majority of our Sundays!!!",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Alverno",
+        "metro": {
+          "metroId": 199,
+          "displayName": "Unspecified",
+          "__typename": "Metro"
+        },
+        "initials": "A",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2026-01-05T22:00:09Z",
+      "dinedDateTime": "2026-01-04T18:30:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-350078-100151881860",
+      "text": "Service was a little slower, and the waiter checked on us infrequently. (I'll give them the benefit of the doubt as there was also a wedding reception going on at the same time.)",
+      "rating": {
+        "food": 3,
+        "service": 3,
+        "ambience": 4,
+        "value": 3,
+        "noise": "MODERATE",
+        "overall": 3,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 3,
+        "nickname": "Robert",
+        "metro": {
+          "metroId": 28,
+          "displayName": "Orlando",
+          "__typename": "Metro"
+        },
+        "initials": "R",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-12-29T23:40:28Z",
+      "dinedDateTime": "2025-12-28T17:45:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-348455-140049302324",
+      "text": "Went there for a special Christmas eve dinner with our family of three. Instead of being seated at the main dining room, we were ushered downstairs to the Fireside room where it felt like a banquet hall. Temporary round tables were set up like you would find at temporary venues, complete with plastic tables and chairs. The room was full of large parties and they stuck us in a corner where they couldn't fit a large table but could squeeze in a group of4 or less. Was so loud that we could hear the conversations from across the room. The lighting was harsh, unlike the warm lighting upstairs. Missing were the flatware, napkins, and service. Seems once you're down there, you're forgotten. My family seemed to enjoy their food but the meatballs were overly salted and inedible. Charged for a 23 oz beer but was given a 16 oz glass. Had high expectations. Very disappointed.",
+      "rating": {
+        "food": 3,
+        "service": 3,
+        "ambience": 1,
+        "value": 2,
+        "noise": "ENERGETIC",
+        "overall": 2,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 3,
+        "nickname": "Anita",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "A",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-12-26T17:00:56Z",
+      "dinedDateTime": "2025-12-24T19:00:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-348598-110021000781",
+      "text": "Service was excellent and we enjoyed our food and drink",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 4,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 6,
+        "nickname": "Kathy",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "K",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-12-14T23:39:55Z",
+      "dinedDateTime": "2025-12-13T17:30:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-347671-140173706424",
+      "text": "Great food and Christmas carolers came in and were a delightful surprise.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "QUIET",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 3,
+        "nickname": "Patrice",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "P",
+        "isVip": true,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-12-03T19:27:15Z",
+      "dinedDateTime": "2025-12-02T17:00:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-346621-160040516056",
+      "text": "I made a reservation for a 20-year wedding anniversary. I asked for a private booth, got it! I asked for a romantic candle, got it! We arrived 10 minutes early, the place was packed. We were seated at the exact time of the reservation. Everything was perfect and better than I could imagine. We will be back for sure. This was the Puyallup location.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 0,
+        "nickname": "Laura",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "L",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-11-22T23:27:48Z",
+      "dinedDateTime": "2025-11-21T17:30:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-345944-160115051576",
+      "text": "Excellent Happy Hour menu.  Great quality meals.  Service is top notch, too.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 4,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 3,
+        "nickname": "Catherine",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "C",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-11-17T23:17:54Z",
+      "dinedDateTime": "2025-11-16T17:30:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-345806-160079868116",
+      "text": "It was great we celebrated my son’s birthday! We did order another drink it never did come they took off our bill. Food was good, service was good! We will be back! Our server was busy with lots of tables",
+      "rating": {
+        "food": 5,
+        "service": 4,
+        "ambience": 5,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 6,
+        "nickname": "Teresa edd",
+        "metro": {
+          "metroId": 10,
+          "displayName": "Las Vegas",
+          "__typename": "Metro"
+        },
+        "initials": "T",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-11-17T01:43:54Z",
+      "dinedDateTime": "2025-11-15T17:00:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-345412-180073740908",
+      "text": "Wait time was good , did not have to wait long\n\nWaitress was great very polite and attentive \nLove that you have 3 meal course now\nFood tasted great\nWas nice and hot , when it came to the table\nPortion could have been a little bigger for the main dish\nDesert tasted delicious \nWe had Tiramisu , yummy \nOverall experience was great",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 4,
+        "noise": "QUIET",
+        "overall": 4,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Sigrid",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "S",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-11-09T21:11:52Z",
+      "dinedDateTime": "2025-11-08T16:15:00-08:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-344432-150034868765",
+      "text": "Always amazing food and service! Love the all day happy hour on Sundays and Mondays. Great reward program as well!",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "QUIET",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 7,
+        "nickname": "Michelle",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "M",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-10-31T02:00:18Z",
+      "dinedDateTime": "2025-10-27T20:15:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-343825-150058636655",
+      "text": "We had reservations at 5:45. They sat us at 6:10. Seemed like they were sitting people that didn’t have reservations before us but I could be wrong.\n\nWhen they did sit us down. The table was wet with sanitizer. When I asked to get a dry towel to dry the table off the host said we just wiped it down that is why it’s wet. I had to explain to him I didn’t want to sit at a wet table can I please get some napkins to dry the very wet table off. He clearly didn’t understand my issue with the wet  table but he did go get me napkins.\n\nThe dining room was cold. There clearly were not reading the room. When I looked around everyone was wearing their coats. It’s not a good dining experience if you are cold and having to eat dinner wearing your coat.\n\nI got the 3 course dinner and added a couple of soup.\n\nFirst my soup was not even lukewarm and tasted like canned soup.\n\nThe starter I got was the Zucchini crisp.  Guess im not used to there version. I’m used to the thin sliced zucchini disk. These were long thick sticks and were mushy on the inside. Kind of off putting to me.\n\nThe main course was the chicken parm. This was good. It was a huge portion and it was hot.  But I was wishing I had gotten the salmon at this point.\n\nThe desert was the Crème Brȗlée. It was ok tasted like the ones I get at Costco. Nothing to write home about.",
+      "rating": {
+        "food": 2,
+        "service": 3,
+        "ambience": 2,
+        "value": 3,
+        "noise": "MODERATE",
+        "overall": 3,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 15,
+        "nickname": "Steven",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "S",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-10-25T16:09:08Z",
+      "dinedDateTime": "2025-10-24T17:45:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-342841-160027408646",
+      "text": "Excellent food and service. Salmon is so good, not too dry. Seafoods fettuccine amazing, remember to add mushrooms.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 0,
+        "nickname": "Lynda",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "L",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-10-20T00:53:20Z",
+      "dinedDateTime": "2025-10-18T17:15:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-342541-190157745689",
+      "text": "Staff was accommodating and helpful. Made our mother’s bday celebration wonderful!!!",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "QUIET",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 0,
+        "nickname": "Aaron",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "A",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-10-22T01:57:50Z",
+      "dinedDateTime": "2025-10-12T16:30:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-341837-160027289136",
+      "text": "Wonderful menu, great food, and a very delightful server.  No wonder why the place was packed.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 4,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 28,
+        "nickname": "Mimi",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "M",
+        "isVip": true,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-10-02T23:21:11Z",
+      "dinedDateTime": "2025-10-01T11:30:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-340043-160110772206",
+      "text": "Great all day happy hour on Sundays! Service was excellent! Always enjoy the food and wine!",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "QUIET",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 18,
+        "nickname": "Teri",
+        "metro": {
+          "metroId": 81,
+          "displayName": "Palm Springs",
+          "__typename": "Metro"
+        },
+        "initials": "T",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-09-15T20:47:17Z",
+      "dinedDateTime": "2025-09-14T16:45:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-338726-150089223045",
+      "text": "My gluten free lemon pasta and prawn dish was half the size as the others at my table who ordered non-gluten free pasta dishes. There were only 5 prawns in my meal. The flavor was good, but it was very skimpy and definitely NOT worth the expensive price of $26.94.  I probably won't be going back.",
+      "rating": {
+        "food": 2,
+        "service": 4,
+        "ambience": 4,
+        "value": 1,
+        "noise": "ENERGETIC",
+        "overall": 3,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 0,
+        "nickname": "Lisa",
+        "metro": {
+          "metroId": 34,
+          "displayName": "Hawaii",
+          "__typename": "Metro"
+        },
+        "initials": "L",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-09-09T19:17:54Z",
+      "dinedDateTime": "2025-09-08T12:00:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-339411-180056080688",
+      "text": "Food is always good at Mama's!  Service is friendly and fast, but not rushed.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 3,
+        "value": 4,
+        "noise": "ENERGETIC",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Connie",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "C",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-09-08T03:36:47Z",
+      "dinedDateTime": "2025-09-04T17:30:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-339102-180212496768",
+      "text": "I love Mama Stortini's. I eat here often. Always reliable quality. The seafood is excellent and the pastas are great, too.  The dining area is tasteful, quiet and relaxing.  They offer a wonder happy hour menu.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "QUIET",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 4,
+        "nickname": "donna",
+        "metro": {
+          "metroId": 7,
+          "displayName": "Greater Boston",
+          "__typename": "Metro"
+        },
+        "initials": "d",
+        "isVip": true,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-12-24T11:01:13Z",
+      "dinedDateTime": "2025-08-31T18:00:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-338078-120100121602",
+      "text": "Usually good experience. Maybe an off night for them",
+      "rating": {
+        "food": 3,
+        "service": 2,
+        "ambience": 3,
+        "value": 3,
+        "noise": "QUIET",
+        "overall": 3,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "gordon",
+        "metro": {
+          "metroId": 10,
+          "displayName": "Las Vegas",
+          "__typename": "Metro"
+        },
+        "initials": "g",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-08-27T18:01:13Z",
+      "dinedDateTime": "2025-08-20T18:45:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-335599-170026716397",
+      "text": "A large, very loud and boisterous group at the next table, pretty much ruined the meal for us. A shame; previous dinners at MS were very good",
+      "rating": {
+        "food": 3,
+        "service": 4,
+        "ambience": 1,
+        "value": 2,
+        "noise": "ENERGETIC",
+        "overall": 2,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 15,
+        "nickname": "Michael",
+        "metro": {
+          "metroId": 8,
+          "displayName": "New York City",
+          "__typename": "Metro"
+        },
+        "initials": "M",
+        "isVip": true,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-07-27T18:48:17Z",
+      "dinedDateTime": "2025-07-26T17:45:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-334814-130056473653",
+      "text": "We took my oarents out for dinner to celebrate their 60th Wedding Anniversary at their favorite place. Mike was our server and was great, had a nice meal and great visit.\n\nThank you all",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 4,
+        "nickname": "Joe",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "J",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-07-20T19:47:03Z",
+      "dinedDateTime": "2025-07-19T17:45:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [
+        {
+          "photoId": "79662248",
+          "type": "Dff",
+          "photoMetaData": null,
+          "caption": "Happy 60th Anniversary Mike and Arline Bauman!!",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        },
+        {
+          "photoId": "79662247",
+          "type": "Dff",
+          "photoMetaData": null,
+          "caption": "",
+          "showCaption": true,
+          "__typename": "ReviewPhoto"
+        }
+      ],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-333769-170191616357",
+      "text": "Our waitress could not remember our order and kept coming back and asking. We waited over an hour for our food. I understand it gets busy, but we should have been told it might be a long wait. It didn't seem busy, but maybe low on staff or something. It was a birthday celebration and it really put a damper on the evening.",
+      "rating": {
+        "food": 4,
+        "service": 1,
+        "ambience": 3,
+        "value": 2,
+        "noise": "QUIET",
+        "overall": 2,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 2,
+        "nickname": "SherieK",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "SK",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-07-07T20:41:07Z",
+      "dinedDateTime": "2025-07-06T17:45:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-333166-110031030631",
+      "text": "Great service. Our waitress Laura was outstanding. Noise level was high.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "ENERGETIC",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 2,
+        "nickname": "Burto",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "B",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-07-02T16:40:20Z",
+      "dinedDateTime": "2025-06-29T17:45:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-331668-180118496238",
+      "text": "They had a great special of the day for Father’s Day and we were seated promptly at our reservation time.  Enjoyable service and atmosphere!",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "ENERGETIC",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 3,
+        "nickname": "Jodi",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "J",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-06-17T02:47:14Z",
+      "dinedDateTime": "2025-06-15T17:30:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-331546-170198405617",
+      "text": "Love this restaurant it is our go to place for date nights.",
+      "rating": {
+        "food": 5,
+        "service": 1,
+        "ambience": 5,
+        "value": 5,
+        "noise": "QUIET",
+        "overall": 4,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Michael",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "M",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-06-16T18:42:32Z",
+      "dinedDateTime": "2025-06-15T12:15:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-330499-150011312905",
+      "text": "The servers are wonderful!  The food is great and they give you good sized portions!  They serve your orders quickly! Its my go to place when I want to eat out!  It can be a little noisy.   It is almost always busy.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "ENERGETIC",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 2,
+        "nickname": "Denise",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "D",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-06-11T21:13:34Z",
+      "dinedDateTime": "2025-06-10T12:30:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-330722-140006822844",
+      "text": "The appetizers we had were good, but it went down hill from there. I had the small Caesar salad and requested anchovies, when the salad arrived there were no anchovies and was told they didn't have any? What authentic Italian restaurant doesn't have anchovies? I had ordered the the spaghetti and meatballs and when it arrived I was surprised it doesn't come with any kind of bread? The entire dish was so salty I could barely eat it, and the sauce was so over simmered it was like tomato paste. The meatballs were so-so, but way over seasoned and salty. My wife had the chicken cannelloni for $17 which was about the size of two small hotdogs and didn't come with any sort of bread either. Service was okay, but not great. Needless to say, the food was horrible and the atmosphere and service don't make up for the poor quality food. We won't be going back!",
+      "rating": {
+        "food": 1,
+        "service": 3,
+        "ambience": 3,
+        "value": 1,
+        "noise": "QUIET",
+        "overall": 1,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 6,
+        "nickname": "Charlie",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "C",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-06-05T19:26:56Z",
+      "dinedDateTime": "2025-06-04T17:00:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-329813-110003062011",
+      "text": "I got the salmon with honey pistachio butter.  It was amazing.  My family thought the portion was small. I chose the large option. I think the salmon portion was fine I wish there were more vegetables.\nMy fiance got the lasagna he said it was good it didn't have heavy tanato taste which is a plus for him. There was hair on the plate which he didn't tell me until later.\nLove their cheesy garlic bread.  So good.  Nice portion.\nTirimisu was definitely the highlight for me and they give you a big piece assume it's meant for sharing.",
+      "rating": {
+        "food": 4,
+        "service": 4,
+        "ambience": 4,
+        "value": 4,
+        "noise": "QUIET",
+        "overall": 4,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 4,
+        "nickname": "Alison",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "A",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-05-26T20:02:26Z",
+      "dinedDateTime": "2025-05-25T18:30:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-328720-170109387647",
+      "text": "Food was good.  Service was good.  A little loud for a while but got better.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 4,
+        "value": 3,
+        "noise": "ENERGETIC",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 4,
+        "nickname": "Charlotte ",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "C",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-05-24T20:49:34Z",
+      "dinedDateTime": "2025-05-23T11:00:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-328585-100126285780",
+      "text": "We were lucky to sit in the area overlooking the beautiful rhododendrons - and it cut down on the noise from the main restaurant.  Our server, Toni, was exceptional, fun and very helpful in making our choices.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 4,
+        "value": 4,
+        "noise": "ENERGETIC",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 7,
+        "nickname": "Marrianne",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "M",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-05-16T18:55:06Z",
+      "dinedDateTime": "2025-05-13T18:00:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-327895-130067011773",
+      "text": "The food was great. Service very good. There for a Birthday on Mother's day. Crowded. Wait for apps, drinks and food not long. We saw lots of staff doing a great job moving folks in and out.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "ENERGETIC",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 14,
+        "nickname": "Thomas",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "T",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-05-12T03:33:26Z",
+      "dinedDateTime": "2025-05-11T16:15:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-328239-180140665008",
+      "text": "Great service and food! Thank you for a great experience.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "QUIET",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": null,
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "OT",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-05-12T03:01:57Z",
+      "dinedDateTime": "2025-05-11T15:30:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-327187-110143267681",
+      "text": "Very mediocre food, including dessert.  Service was fair to good.",
+      "rating": {
+        "food": 2,
+        "service": 3,
+        "ambience": 3,
+        "value": 2,
+        "noise": "ENERGETIC",
+        "overall": 2,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Victoria",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "V",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-05-12T01:08:03Z",
+      "dinedDateTime": "2025-05-11T12:15:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-327364-100005886000",
+      "text": "Our food was delicious! Fresh & flavorful.\nGreat service.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "DO_NOT_RECALL",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 7,
+        "nickname": "William",
+        "metro": {
+          "metroId": 11,
+          "displayName": "Portland",
+          "__typename": "Metro"
+        },
+        "initials": "W",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-05-08T22:51:44Z",
+      "dinedDateTime": "2025-05-03T18:15:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-326197-100227557810",
+      "text": "Mama Stortini’s is our go-to restaurant for a delicious meal in a relaxing setting. Our server was attentive, and menu options wide ranging. The food is prepared perfectly. We’ll be back.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "DO_NOT_RECALL",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 3,
+        "nickname": "Karen",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "K",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-05-01T05:20:43Z",
+      "dinedDateTime": "2025-04-25T18:30:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-326389-150034868765",
+      "text": "Favorite restaurant! Always delicious and great service!",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "ENERGETIC",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 7,
+        "nickname": "Michelle",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "M",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-04-24T18:13:18Z",
+      "dinedDateTime": "2025-04-23T20:00:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-325989-150025548705",
+      "text": "Food was mediocre and expensive for what we got. Used to love this place, but probably won’t be going back.",
+      "rating": {
+        "food": 2,
+        "service": 3,
+        "ambience": 2,
+        "value": 1,
+        "noise": "QUIET",
+        "overall": 3,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 6,
+        "nickname": "Marla",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "M",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-04-20T03:57:35Z",
+      "dinedDateTime": "2025-04-19T16:30:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-325433-170160225717",
+      "text": "The portions seem smaller and now that’s no bread prior to meal.",
+      "rating": {
+        "food": 3,
+        "service": 4,
+        "ambience": 3,
+        "value": 2,
+        "noise": "MODERATE",
+        "overall": 2,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Michelle",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "M",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "ICECREAM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-04-18T02:21:10Z",
+      "dinedDateTime": "2025-04-12T13:00:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-324376-110055757571",
+      "text": "Service was great! Kyleigh our waitress was awesome and made sure we were well taken care of! Food was great and the chocolate cake was outstanding!!",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 3,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 5,
+        "nickname": "Ron",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "R",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PLUM",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-04-07T02:19:06Z",
+      "dinedDateTime": "2025-04-06T16:00:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-323909-180143995338",
+      "text": "Love Mama Stortini’s.  A guaranteed great meal with great service.",
+      "rating": {
+        "food": 5,
+        "service": 5,
+        "ambience": 5,
+        "value": 5,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 1,
+        "nickname": "Kelly",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "K",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "PUMPKIN",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-04-01T03:06:51Z",
+      "dinedDateTime": "2025-03-31T17:00:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    },
+    {
+      "reviewId": "OT-3316-323906-100067750380",
+      "text": "Daily happy hour from 2 - 6 not just in the bar is great! Lots of variety on the menu and all of our food was excellent.",
+      "rating": {
+        "food": 4,
+        "service": 4,
+        "ambience": 4,
+        "value": 4,
+        "noise": "MODERATE",
+        "overall": 5,
+        "__typename": "ReviewRating"
+      },
+      "user": {
+        "numOfApprovedReviews": 10,
+        "nickname": "Melissa",
+        "metro": {
+          "metroId": 2,
+          "displayName": "Seattle",
+          "__typename": "Metro"
+        },
+        "initials": "M",
+        "isVip": null,
+        "isLoggedInUser": false,
+        "profileColor": "MUSTARD",
+        "profilePhoto": {
+          "photoBySize": null,
+          "__typename": "PublicDinerProfilePhoto"
+        },
+        "__typename": "ReviewUser"
+      },
+      "helpfulness": {
+        "up": 0,
+        "down": 0,
+        "score": 0,
+        "__typename": "ReviewHelpfulness"
+      },
+      "publicRestaurantReply": null,
+      "submittedDateTime": "2025-03-30T14:54:52Z",
+      "dinedDateTime": "2025-03-29T16:45:00-07:00",
+      "type": "OPENTABLEVERIFIED",
+      "fromPreviousConcept": false,
+      "highlight": [],
+      "photos": [],
+      "__typename": "ReviewSearchResult"
+    }
+  ]
+}

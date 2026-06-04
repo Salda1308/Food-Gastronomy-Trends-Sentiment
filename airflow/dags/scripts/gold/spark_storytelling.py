@@ -449,6 +449,66 @@ def agg_recipe_trend_alignment(articles_df, recipes_df, ts, results):
 # ── Aggregation 10: Dietary breakdown ────────────────────────────────────────
 # User story #2 (filter suggestions by dietary restriction)
 
+def agg_reviews_sentiment(reviews_df, ts, results):
+    """
+    Distribución de sentimiento de las reseñas de OpenTable.
+    Complementa agg_sentiment_distribution (que es solo Eater NY),
+    dando una visión más balanceada del sentimiento real de los comensales.
+    """
+    from pyspark.sql import functions as F
+
+    total = reviews_df.count()
+    if total == 0:
+        return
+
+    for row in reviews_df.groupBy("sentiment_label").count().collect():
+        lbl = row["sentiment_label"]
+        cnt = row["count"]
+        pct = round(cnt / total * 100, 2)
+        results.append(_row("reviews_sentiment_distribution", "reviews",
+                            "sentiment_label", lbl, "count",      cnt,
+                            f"{pct}% of reviews", ts))
+        results.append(_row("reviews_sentiment_distribution", "reviews",
+                            "sentiment_label", lbl, "percentage", pct,
+                            f"{cnt} reviews", ts))
+
+    avg = reviews_df.agg(F.avg("compound_score")).collect()[0][0] or 0.0
+    results.append(_row("reviews_sentiment_distribution", "reviews",
+                        "overall", "all", "avg_compound_score",
+                        round(float(avg), 4), "VADER compound (reviews)", ts))
+
+    # Distribución de rating_overall (1-5 estrellas)
+    if "rating_overall" in reviews_df.columns:
+        for row in reviews_df.groupBy("rating_overall").count().orderBy("rating_overall").collect():
+            rating = row["rating_overall"]
+            cnt    = row["count"]
+            pct    = round(cnt / total * 100, 2)
+            results.append(_row("reviews_rating_distribution", "reviews",
+                                "rating", str(rating), "count", cnt,
+                                f"{pct}% of reviews", ts))
+
+    # Sentimiento por restaurante (top 10 por volumen)
+    if "restaurant_slug" in reviews_df.columns:
+        for row in (
+            reviews_df
+            .groupBy("restaurant_slug")
+            .agg(F.count("*").alias("n"), F.avg("compound_score").alias("avg_s"),
+                 F.avg("rating_overall").alias("avg_r"))
+            .orderBy(F.desc("n"))
+            .limit(10)
+            .collect()
+        ):
+            slug = row["restaurant_slug"]
+            results.append(_row("reviews_by_restaurant", "reviews",
+                                "restaurant", slug, "avg_sentiment",
+                                round(float(row["avg_s"] or 0), 4),
+                                f"{row['n']} reviews", ts))
+            results.append(_row("reviews_by_restaurant", "reviews",
+                                "restaurant", slug, "avg_rating",
+                                round(float(row["avg_r"] or 0), 2),
+                                slug, ts))
+
+
 def agg_dietary_breakdown(recipes_df, ts, results):
     from pyspark.sql import functions as F
 
@@ -529,7 +589,7 @@ def main():
     import nltk
     nltk.download("vader_lexicon", quiet=True)
 
-    from pyspark.sql import Row
+    from pyspark.sql import Row, functions as F
 
     spark = _build_spark()
     try:
@@ -539,8 +599,34 @@ def main():
         articles_df = spark.read.parquet(_latest_gold("gold_articles_*.parquet"))
         recipes_df  = spark.read.parquet(_latest_gold("gold_recipes_*.parquet"))
 
-        # Enrich articles with VADER sentiment scores (runs as Spark UDF, local mode)
+        # Enrich articles with VADER sentiment
         articles_df = _add_sentiment(articles_df)
+
+        # ── OpenTable reviews (optional) ──────────────────────────────────────
+        reviews_df = None
+        try:
+            reviews_path = _latest_gold("gold_reviews_*.parquet")
+            reviews_df   = spark.read.parquet(reviews_path)
+            # VADER sobre el texto limpio de las reseñas
+            reviews_df = (
+                reviews_df
+                .withColumn("compound_score",
+                    F.udf(lambda t: (
+                        __import__("nltk.sentiment.vader", fromlist=["SentimentIntensityAnalyzer"])
+                        .SentimentIntensityAnalyzer().polarity_scores(t or "")["compound"]
+                    ), __import__("pyspark.sql.types", fromlist=["FloatType"]).FloatType())(
+                        F.col("text_clean")
+                    )
+                )
+                .withColumn("sentiment_label",
+                    F.when(F.col("compound_score") >= 0.05,  F.lit("positive"))
+                     .when(F.col("compound_score") <= -0.05, F.lit("negative"))
+                     .otherwise(F.lit("neutral"))
+                )
+            )
+            print(f"[storytelling] OpenTable reviews loaded: {reviews_df.count()} rows")
+        except FileNotFoundError:
+            print("[storytelling] No gold_reviews yet — OpenTable aggregations skipped")
 
         agg_sentiment_distribution(articles_df, ts, results)
         agg_sentiment_trend(articles_df, ts, results)
@@ -553,6 +639,10 @@ def main():
         agg_recipe_trend_alignment(articles_df, recipes_df, ts, results)
         agg_dietary_breakdown(recipes_df, ts, results)
         agg_named_entities(articles_df, ts, results)
+
+        # ── Sentimiento de reseñas OpenTable (fix al sesgo 100% positivo) ─────
+        if reviews_df is not None:
+            agg_reviews_sentiment(reviews_df, ts, results)
 
         gold_dir = today_output_dir(Path(GOLD_BASE))
         file_ts  = datetime.now().strftime("%H%M%S")

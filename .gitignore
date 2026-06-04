@@ -1,39 +1,106 @@
-# ── Credenciales — nunca subir ────────────────────────────────────────────────
+# Dependencies
+node_modules/
+
+# Build outputs
+.next/
+out/
+build/
+dist/
+web-build/
+coverage/
+
+# Package manager artifacts
+.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# Expo / React Native
+.expo/
+.expo-shared/
+.metro-health-check*
+
+# Native outputs
+ios/
+android/
+.kotlin/
+
+# Local env files
 .env
+.env.*
+.env*.local
+web/.env.local
+web/.env*.local
 
-# ── Datos del datalake — generados por el pipeline, pueden ser GB ─────────────
-datalake_bronze/
-datalake_silver/
-datalake_gold/
+# Databases and generated data
+*.db
+*.db-journal
 
-# ── Logs de Airflow — se crean solos al correr Docker ─────────────────────────
-logs/
+# Internal documentation (presentations, architecture docs, diagrams)
+Documents/
 
-# ── Python ────────────────────────────────────────────────────────────────────
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
 .Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
-# ── Jupyter ───────────────────────────────────────────────────────────────────
+# Jupyter
 .ipynb_checkpoints/
+*.ipynb_checkpoints
 
-# ── macOS ─────────────────────────────────────────────────────────────────────
+# Logs and cache
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript / generated files
+*.tsbuildinfo
+next-env.d.ts
+expo-env.d.ts
+
+# OS / editor files
 .DS_Store
-
-# ── IDEs ──────────────────────────────────────────────────────────────────────
 .vscode/
 .idea/
+*.pem
+*.swp
+*.swo
 
-# ── Archivos grandes ──────────────────────────────────────────────────────────
-pyspark-*.tar.gz
-
-# ── Airflow interno ───────────────────────────────────────────────────────────
+# Airflow-generated runtime files
 airflow.cfg
 airflow.db
+webserver_config.py
 standalone_admin_password.txt
 
-# ── Claude Code ───────────────────────────────────────────────────────────────
-CLAUDE.md
-.claude/
-docs/superpowers/
+# Secrets and certificates
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Misc generated files
+.vercel/
+prisma/*.db
+prisma/*.db-journal
+
+# Airflow-generated
+airflow.cfg
+airflow.db
+webserver_config.py
+standalone_admin_password.txt
+
+# Test artifacts
+test_opentable.py
+
+# Large local files
+*.tar.gz
+*.zip

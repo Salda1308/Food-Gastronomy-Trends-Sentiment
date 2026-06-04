@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Empire's Taste",
+    "slug": "empires-taste",
+    "version": "1.0.0",
+    "scheme": "empirestaste",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0d0d0f",
+    "splash": {
+      "backgroundColor": "#0d0d0f"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.empirestaste.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundColor": "#0d0d0f"
+      },
+      "package": "com.empirestaste.app"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/Aerosoldier.otf",
+            "./assets/fonts/CreatoDisplay-Regular.otf"
+          ]
+        }
+      ],
+      "expo-web-browser"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

@@ -6,27 +6,47 @@ import time
 from datetime import datetime
 from dotenv import load_dotenv
 
-# Load environment variables from .env file
-load_dotenv()
+# Load .env file — override=False so Docker-injected vars take priority.
+# Also scan up to 3 parent directories in case the CWD is inside /opt/airflow/dags.
+load_dotenv(override=False)
 
 def _load_api_keys() -> list[str]:
-    """Collect SPOONACULAR_API_KEY, SPOONACULAR_API_KEY_2, _3, … from the environment."""
-    keys = []
-    first = os.getenv("SPOONACULAR_API_KEY", "")
+    """
+    Collect all Spoonacular API keys from the environment.
+
+    Reads SPOONACULAR_API_KEY (primary) and SPOONACULAR_API_KEY_2 through
+    SPOONACULAR_API_KEY_N (extras). Gaps are tolerated — if _3 is missing but
+    _4 exists it is still picked up. Strips whitespace so copy-paste errors in
+    .env don't silently discard a valid key.
+    """
+    keys: list[str] = []
+
+    # Always check the primary key first
+    first = (os.getenv("SPOONACULAR_API_KEY") or "").strip()
     if first:
         keys.append(first)
-    i = 2
-    while True:
-        k = os.getenv(f"SPOONACULAR_API_KEY_{i}", "")
-        if not k:
-            break
-        keys.append(k)
-        i += 1
-    if not keys:
+
+    # Check numbered extras up to a reasonable ceiling (10).
+    # Use a gap-tolerant loop: don't stop at the first missing index.
+    for i in range(2, 11):
+        k = (os.getenv(f"SPOONACULAR_API_KEY_{i}") or "").strip()
+        if k:
+            keys.append(k)
+
+    # Deduplicate while preserving order (in case same key appears twice)
+    seen: set[str] = set()
+    unique: list[str] = []
+    for k in keys:
+        if k not in seen:
+            seen.add(k)
+            unique.append(k)
+
+    if not unique:
         print("Warning: No SPOONACULAR_API_KEY found in environment variables.")
     else:
-        print(f"[api_ingestion] Loaded {len(keys)} Spoonacular API key(s).")
-    return keys
+        print(f"[api_ingestion] Loaded {len(unique)} Spoonacular API key(s).")
+
+    return unique
 
 
 api_client = SpoonacularAPI(_load_api_keys())

@@ -1,0 +1,1934 @@
+{
+    "results": [
+        {
+            "id": 635874,
+            "image": "https://img.spoonacular.com/recipes/635874-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Braised Steak",
+            "readyInMinutes": 45,
+            "servings": 1,
+            "sourceUrl": "https://www.foodista.com/recipe/F2SSYQJR/braised-steak",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 11,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 1,
+            "healthScore": 11.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 206.69,
+            "extendedIngredients": [
+                {
+                    "id": 10123,
+                    "aisle": "Meat",
+                    "image": "raw-bacon.png",
+                    "consistency": "SOLID",
+                    "name": "slc bacon",
+                    "nameClean": "slc bacon",
+                    "original": "1 slc Bacon",
+                    "originalName": "slc Bacon",
+                    "amount": 1.0,
+                    "unit": "",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 1012023,
+                    "aisle": "Produce",
+                    "image": "mixed-fresh-herbs.jpg",
+                    "consistency": "SOLID",
+                    "name": "bouquet garni",
+                    "nameClean": "bouquet garni",
+                    "original": "Bouquet garni",
+                    "originalName": "Bouquet garni",
+                    "amount": 1.0,
+                    "unit": "serving",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        }
+                    }
+                },
+                {
+                    "id": 11124,
+                    "aisle": "Produce",
+                    "image": "sliced-carrot.png",
+                    "consistency": "SOLID",
+                    "name": "carrot",
+                    "nameClean": "carrot",
+                    "original": "1 Carrot",
+                    "originalName": "Carrot",
+                    "amount": 1.0,
+                    "unit": "",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 11143,
+                    "aisle": "Produce",
+                    "image": "celery.jpg",
+                    "consistency": "SOLID",
+                    "name": "stk of celery",
+                    "nameClean": "stk of celery",
+                    "original": "1 stk of celery",
+                    "originalName": "stk of celery",
+                    "amount": 1.0,
+                    "unit": "",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 23145,
+                    "aisle": "Meat",
+                    "image": "ribeye-raw.jpg",
+                    "consistency": "SOLID",
+                    "name": "chuck steak",
+                    "nameClean": "chuck steak",
+                    "original": "4 piece of chuck steak",
+                    "originalName": "chuck steak",
+                    "amount": 4.0,
+                    "unit": "piece",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 4.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 4002,
+                    "aisle": "Meat",
+                    "image": "pork-fat-or-lard.jpg",
+                    "consistency": "SOLID",
+                    "name": "fat",
+                    "nameClean": "fat",
+                    "original": "1 tablespoon Hot fat",
+                    "originalName": "Hot fat",
+                    "amount": 1.0,
+                    "unit": "tablespoon",
+                    "meta": [
+                        "hot"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        }
+                    }
+                },
+                {
+                    "id": 11282,
+                    "aisle": "Produce",
+                    "image": "brown-onion.png",
+                    "consistency": "SOLID",
+                    "name": "onion",
+                    "nameClean": "onion",
+                    "original": "1 large onion, cut into 1-inch dice",
+                    "originalName": "onion, cut into 1-inch dice",
+                    "amount": 1.0,
+                    "unit": "large",
+                    "meta": [
+                        "cut into 1-inch dice"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "large",
+                            "unitLong": "large"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "large",
+                            "unitLong": "large"
+                        }
+                    }
+                },
+                {
+                    "id": 11352,
+                    "aisle": "Produce",
+                    "image": "potatoes-yukon-gold.png",
+                    "consistency": "SOLID",
+                    "name": "potatoes and vegetables as required",
+                    "nameClean": "potatoes and vegetables as required",
+                    "original": "Potatoes and vegetables as required.",
+                    "originalName": "Potatoes and vegetables as required",
+                    "amount": 1.0,
+                    "unit": "serving",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        }
+                    }
+                },
+                {
+                    "id": 98980,
+                    "aisle": "Baking",
+                    "image": "flour.png",
+                    "consistency": "SOLID",
+                    "name": "seasoned flour",
+                    "nameClean": "seasoned flour",
+                    "original": "Seasoned Flour",
+                    "originalName": "Seasoned Flour",
+                    "amount": 1.0,
+                    "unit": "serving",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        }
+                    }
+                },
+                {
+                    "id": 1042027,
+                    "aisle": null,
+                    "image": "seasoning.png",
+                    "consistency": "SOLID",
+                    "name": "seasoning",
+                    "nameClean": "seasoning",
+                    "original": "Seasoning",
+                    "originalName": "Seasoning",
+                    "amount": 1.0,
+                    "unit": "serving",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "serving",
+                            "unitLong": "serving"
+                        }
+                    }
+                },
+                {
+                    "id": 1006615,
+                    "aisle": "Canned and Jarred",
+                    "image": "chicken-broth.png",
+                    "consistency": "LIQUID",
+                    "name": "brown stock",
+                    "nameClean": "brown stock",
+                    "original": "1 cup Brown stock",
+                    "originalName": "Brown stock",
+                    "amount": 1.0,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "cup",
+                            "unitLong": "cup"
+                        },
+                        "metric": {
+                            "amount": 235.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 11564,
+                    "aisle": "Produce",
+                    "image": "turnips.png",
+                    "consistency": "SOLID",
+                    "name": "turnip",
+                    "nameClean": "turnip",
+                    "original": "1 Turnip",
+                    "originalName": "Turnip",
+                    "amount": 1.0,
+                    "unit": "",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                }
+            ],
+            "summary": "Braised Steak might be just the hor d'oeuvre you are searching for. For <b>$2.07 per serving</b>, this recipe <b>covers 19%</b> of your daily requirements of vitamins and minerals. Watching your figure? This dairy free recipe has <b>362 calories</b>, <b>7g of protein</b>, and <b>23g of fat</b> per serving. This recipe serves 1. A mixture of stk of celery, onion, potatoes and vegetables as required, and a handful of other ingredients are all it takes to make this recipe so delicious. This recipe is liked by 1 foodies and cooks. It is perfect for <b>valentin day</b>. From preparation to the plate, this recipe takes around <b>45 minutes</b>. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 51%</b>. This score is good. <a href=\"https://spoonacular.com/recipes/braised-steak-1635847\">Braised Steak</a>, <a href=\"https://spoonacular.com/recipes/braised-beef-steak-maroon-143594\">Braised Beef Steak Maroon</a>, and <a href=\"https://spoonacular.com/recipes/wine-braised-steak-with-rosemary-81650\">Wine-braised Steak With Rosemary</a> are very similar to this recipe.",
+            "cuisines": [],
+            "dishTypes": [
+                "antipasti",
+                "starter",
+                "snack",
+                "appetizer",
+                "antipasto",
+                "hor d'oeuvre"
+            ],
+            "diets": [
+                "dairy free"
+            ],
+            "occasions": [
+                "valentine's day",
+                "father's day"
+            ],
+            "instructions": "<ol><li>Pressure cooking time 12 minutes</li><li>Toss meat in seasoned flour, shaking to remove surplus. Prepare vegetables, bacon and strain off surplus fat. Pour in stock, stir well, and add the seasonings. Lay meat on top. Cook for 6-7 minutes, reduce pressure with cold water, and cover.* Add in a separate container the potatoes and green vegetables, cut to cook in 4 minutes. Cook for the remaining time and reduce pressure with cold water, and cover.*Add in a separate container the potatoes and remaining time and reduce pressure with cold water. Serve<</li><li>*This recipe obviously uses two extra steamer like baskets, which I don't have - but again, you can manage without.</li></ol>",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Pressure cooking time 12 minutes",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 2,
+                            "step": "Toss meat in seasoned flour, shaking to remove surplus. Prepare vegetables, bacon and strain off surplus fat.",
+                            "ingredients": [
+                                {
+                                    "id": 98980,
+                                    "name": "seasoned flour",
+                                    "localizedName": "seasoned flour",
+                                    "image": "flour.png"
+                                },
+                                {
+                                    "id": 11583,
+                                    "name": "vegetable",
+                                    "localizedName": "vegetable",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/mixed-vegetables.png"
+                                },
+                                {
+                                    "id": 10123,
+                                    "name": "bacon",
+                                    "localizedName": "bacon",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/raw-bacon.png"
+                                },
+                                {
+                                    "id": 1065062,
+                                    "name": "meat",
+                                    "localizedName": "meat",
+                                    "image": "whole-chicken.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Pour in stock, stir well, and add the seasonings.",
+                            "ingredients": [
+                                {
+                                    "id": 1042027,
+                                    "name": "seasoning",
+                                    "localizedName": "seasoning",
+                                    "image": "seasoning.png"
+                                },
+                                {
+                                    "id": 1006615,
+                                    "name": "stock",
+                                    "localizedName": "stock",
+                                    "image": "chicken-broth.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Lay meat on top. Cook for 6-7 minutes, reduce pressure with cold water, and cover.*",
+                            "ingredients": [
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                },
+                                {
+                                    "id": 1065062,
+                                    "name": "meat",
+                                    "localizedName": "meat",
+                                    "image": "whole-chicken.jpg"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 7,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 5,
+                            "step": "Add in a separate container the potatoes and green vegetables, cut to cook in 4 minutes. Cook for the remaining time and reduce pressure with cold water, and cover.*",
+                            "ingredients": [
+                                {
+                                    "id": 11583,
+                                    "name": "vegetable",
+                                    "localizedName": "vegetable",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/mixed-vegetables.png"
+                                },
+                                {
+                                    "id": 11352,
+                                    "name": "potato",
+                                    "localizedName": "potato",
+                                    "image": "potatoes-yukon-gold.png"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 4,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 6,
+                            "step": "Add in a separate container the potatoes and remaining time and reduce pressure with cold water.",
+                            "ingredients": [
+                                {
+                                    "id": 11352,
+                                    "name": "potato",
+                                    "localizedName": "potato",
+                                    "image": "potatoes-yukon-gold.png"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 7,
+                            "step": "Serve<*This recipe obviously uses two extra steamer like baskets, which I don't have - but again, you can manage without.",
+                            "ingredients": [],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 54.9178466796875,
+            "spoonacularSourceUrl": "https://spoonacular.com/braised-steak-635874"
+        },
+        {
+            "id": 632829,
+            "image": "https://img.spoonacular.com/recipes/632829-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Asian Flank Steak",
+            "readyInMinutes": 45,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/ZTH7FQW4/asian-flank-steak",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 6,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 1,
+            "healthScore": 14.0,
+            "creditsText": "foodista.com",
+            "license": null,
+            "sourceName": "foodista.com",
+            "pricePerServing": 203.54,
+            "extendedIngredients": [
+                {
+                    "id": 6150,
+                    "aisle": "Condiments",
+                    "image": "barbecue-sauce.jpg",
+                    "consistency": "SOLID",
+                    "name": "barbecue/thick and spicy sauce",
+                    "nameClean": "barbecue/thick and spicy sauce",
+                    "original": "3/4 cup Barbecue/thick and spicy sauce",
+                    "originalName": "Barbecue/thick and spicy sauce",
+                    "amount": 0.75,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.75,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 214.5,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 10211215,
+                    "aisle": "Produce",
+                    "image": "garlic.jpg",
+                    "consistency": "SOLID",
+                    "name": "garlic clove",
+                    "nameClean": "garlic clove",
+                    "original": "1 Minced garlic clove",
+                    "originalName": "Minced garlic clove",
+                    "amount": 1.0,
+                    "unit": "",
+                    "meta": [
+                        "minced"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 11291,
+                    "aisle": "Produce",
+                    "image": "spring-onions.jpg",
+                    "consistency": "SOLID",
+                    "name": "green onion",
+                    "nameClean": "green onion",
+                    "original": "1/4 cup Green onion slices",
+                    "originalName": "Green onion slices",
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 25.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 2021,
+                    "aisle": "Spices and Seasonings",
+                    "image": "ginger.png",
+                    "consistency": "SOLID",
+                    "name": "ground ginger",
+                    "nameClean": "ground ginger",
+                    "original": "1/4 teaspoon Ground ginger",
+                    "originalName": "Ground ginger",
+                    "amount": 0.25,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 0.25,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 12023,
+                    "aisle": "Spices and Seasonings",
+                    "image": "sesame-seeds.png",
+                    "consistency": "SOLID",
+                    "name": "sesame seeds",
+                    "nameClean": "sesame seeds",
+                    "original": "2 tablespoons Sesame seeds toasted",
+                    "originalName": "Sesame seeds toasted",
+                    "amount": 2.0,
+                    "unit": "tablespoons",
+                    "meta": [
+                        "toasted"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 16124,
+                    "aisle": "Ethnic Foods",
+                    "image": "soy-sauce.jpg",
+                    "consistency": "LIQUID",
+                    "name": "soy sauce",
+                    "nameClean": "soy sauce",
+                    "original": "1/4 cup of soy sauce",
+                    "originalName": "soy sauce",
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 58.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 23657,
+                    "aisle": "Meat",
+                    "image": "flank-steak.jpg",
+                    "consistency": "SOLID",
+                    "name": "to",
+                    "nameClean": "to",
+                    "original": "1 1/4 pounds To1 ½ lb flank steak",
+                    "originalName": "To1 ½ lb flank steak",
+                    "amount": 1.25,
+                    "unit": "pounds",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.25,
+                            "unitShort": "lb",
+                            "unitLong": "pounds"
+                        },
+                        "metric": {
+                            "amount": 566.99,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                }
+            ],
+            "summary": "The recipe Asian Flank Steak is ready <b>in around 45 minutes</b> and is definitely a spectacular <b>gluten free and dairy free</b> option for lovers of Asian food. For <b>$2.04 per serving</b>, this recipe <b>covers 13%</b> of your daily requirements of vitamins and minerals. One serving contains <b>214 calories</b>, <b>22g of protein</b>, and <b>6g of fat</b>. This recipe serves 6. 1 person were glad they tried this recipe. It can be enjoyed any time, but it is especially good for <b>valentin day</b>. It works well as a budget friendly main course. A mixture of ground ginger, sesame seeds, to, and a handful of other ingredients are all it takes to make this recipe so delicious. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 21%</b>. This score is not so amazing. If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/asian-flank-steak-146763\">Asian Flank Steak</a>, <a href=\"https://spoonacular.com/recipes/asian-flank-steak-1614037\">Asian Flank Steak</a>, and <a href=\"https://spoonacular.com/recipes/asian-flank-steak-112945\">Asian Flank Steak</a>.",
+            "cuisines": [
+                "Asian"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free"
+            ],
+            "occasions": [
+                "valentine's day",
+                "father's day"
+            ],
+            "instructions": "<ol><li>Score steak with knife on both sides. Pour combined remaining ingredients over steak. Cover; marinate in refrigerator several hours or overnight, turning once. Place steak on greased rack of broiler pan or greased grill.</li><li>Broil or grill, uncovered, over hot coals 15-20 minutes or until desired doneness, turning and brushing with barbecue sauce mixture after 10 minutes. To serve, carve steak across grain, with slanted knife into thin slices.</li></ol>",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Score steak with knife on both sides.",
+                            "ingredients": [
+                                {
+                                    "id": 23232,
+                                    "name": "steak",
+                                    "localizedName": "steak",
+                                    "image": "ribeye-raw.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404745,
+                                    "name": "knife",
+                                    "localizedName": "knife",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/chefs-knife.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Pour combined remaining ingredients over steak. Cover; marinate in refrigerator several hours or overnight, turning once.",
+                            "ingredients": [
+                                {
+                                    "id": 23232,
+                                    "name": "steak",
+                                    "localizedName": "steak",
+                                    "image": "ribeye-raw.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Place steak on greased rack of broiler pan or greased grill.Broil or grill, uncovered, over hot coals 15-20 minutes or until desired doneness, turning and brushing with barbecue sauce mixture after 10 minutes. To serve, carve steak across grain, with slanted knife into thin slices.",
+                            "ingredients": [
+                                {
+                                    "id": 6150,
+                                    "name": "barbecue sauce",
+                                    "localizedName": "barbecue sauce",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/barbecue-sauce.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "grains",
+                                    "localizedName": "grains",
+                                    "image": ""
+                                },
+                                {
+                                    "id": 23232,
+                                    "name": "steak",
+                                    "localizedName": "steak",
+                                    "image": "ribeye-raw.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404698,
+                                    "name": "broiler pan",
+                                    "localizedName": "broiler pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/broiler-pan.jpg"
+                                },
+                                {
+                                    "id": 404706,
+                                    "name": "grill",
+                                    "localizedName": "grill",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/grill.jpg"
+                                },
+                                {
+                                    "id": 404745,
+                                    "name": "knife",
+                                    "localizedName": "knife",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/chefs-knife.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 30,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 59.587318420410156,
+            "spoonacularSourceUrl": "https://spoonacular.com/asian-flank-steak-632829"
+        },
+        {
+            "id": 633790,
+            "image": "https://img.spoonacular.com/recipes/633790-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Baked Sirloin Steak",
+            "readyInMinutes": 45,
+            "servings": 1,
+            "sourceUrl": "https://www.foodista.com/recipe/V4QJFNMR/baked-sirloin-steak-",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 27,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 3,
+            "healthScore": 8.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 221.55,
+            "extendedIngredients": [
+                {
+                    "id": 1001,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "butter-sliced.jpg",
+                    "consistency": "SOLID",
+                    "name": "butter",
+                    "nameClean": "butter",
+                    "original": "2 tablespoons butter",
+                    "originalName": "butter",
+                    "amount": 2.0,
+                    "unit": "tablespoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 11935,
+                    "aisle": "Condiments",
+                    "image": "ketchup.png",
+                    "consistency": "LIQUID",
+                    "name": "ketchup",
+                    "nameClean": "ketchup",
+                    "original": "1 cup ketchup",
+                    "originalName": "ketchup",
+                    "amount": 1.0,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "cup",
+                            "unitLong": "cup"
+                        },
+                        "metric": {
+                            "amount": 240.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 9150,
+                    "aisle": "Produce",
+                    "image": "lemon.png",
+                    "consistency": "SOLID",
+                    "name": "lemon",
+                    "nameClean": "lemon",
+                    "original": "1 lemon sliced thin",
+                    "originalName": "lemon sliced thin",
+                    "amount": 1.0,
+                    "unit": "",
+                    "meta": [
+                        "sliced",
+                        "thin"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 1002030,
+                    "aisle": "Spices and Seasonings",
+                    "image": "pepper.jpg",
+                    "consistency": "SOLID",
+                    "name": "pepper",
+                    "nameClean": "pepper",
+                    "original": "1/2 teaspoon pepper",
+                    "originalName": "pepper",
+                    "amount": 0.5,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 0.5,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 2047,
+                    "aisle": "Spices and Seasonings",
+                    "image": "salt.jpg",
+                    "consistency": "SOLID",
+                    "name": "salt",
+                    "nameClean": "salt",
+                    "original": "1 teaspoon salt",
+                    "originalName": "salt",
+                    "amount": 1.0,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        }
+                    }
+                },
+                {
+                    "id": 14412,
+                    "aisle": "Beverages",
+                    "image": "water.png",
+                    "consistency": "LIQUID",
+                    "name": "water",
+                    "nameClean": "water",
+                    "original": "1/4 cup water",
+                    "originalName": "water",
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 59.147,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 10611282,
+                    "aisle": "Produce",
+                    "image": "white-onion.png",
+                    "consistency": "SOLID",
+                    "name": "onions",
+                    "nameClean": "onions",
+                    "original": "2 white onions, sliced thin",
+                    "originalName": "white onions, sliced thin",
+                    "amount": 2.0,
+                    "unit": "",
+                    "meta": [
+                        "white",
+                        "sliced",
+                        "thin"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 6971,
+                    "aisle": "Condiments",
+                    "image": "dark-sauce.jpg",
+                    "consistency": "LIQUID",
+                    "name": "worcestershire sauce",
+                    "nameClean": "worcestershire sauce",
+                    "original": "1 tablespoon Worcestershire sauce",
+                    "originalName": "Worcestershire sauce",
+                    "amount": 1.0,
+                    "unit": "tablespoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        }
+                    }
+                }
+            ],
+            "summary": "The recipe Baked Sirloin Steak can be made <b>in around 45 minutes</b>. One serving contains <b>578 calories</b>, <b>6g of protein</b>, and <b>24g of fat</b>. For <b>$2.22 per serving</b>, this recipe <b>covers 21%</b> of your daily requirements of vitamins and minerals. This recipe serves 1. It works well as a hor d'oeuvre. 3 people have made this recipe and would make it again. Head to the store and pick up butter, ketchup, salt, and a few other things to make it today. It can be enjoyed any time, but it is especially good for <b>valentin day</b>. It is a good option if you're following a <b>gluten free</b> diet. It is brought to you by Foodista. Overall, this recipe earns a <b>solid spoonacular score of 45%</b>. <a href=\"https://spoonacular.com/recipes/baked-sirloin-steak-1333017\">Baked Sirloin Steak</a>, <a href=\"https://spoonacular.com/recipes/baked-sirloin-steak-1379633\">Baked Sirloin Steak</a>, and <a href=\"https://spoonacular.com/recipes/baked-sirloin-steak-1624969\">Baked Sirloin Steak</a> are very similar to this recipe.",
+            "cuisines": [],
+            "dishTypes": [
+                "antipasti",
+                "starter",
+                "snack",
+                "appetizer",
+                "antipasto",
+                "hor d'oeuvre"
+            ],
+            "diets": [
+                "gluten free"
+            ],
+            "occasions": [
+                "valentine's day",
+                "father's day"
+            ],
+            "instructions": "<ol><li>Rub both sides of steak with butter. Place on greased rack on shallow pan. Sprinkle with salt and pepper. Arrange lemon slices on steak. Top with onion slices. Mix ketchup, Worcestershire and water. Pour over steak. Bake at 425 degrees for 30 to 45 minutes depending on degree of doneness desired.</li></ol>",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Rub both sides of steak with butter.",
+                            "ingredients": [
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                },
+                                {
+                                    "id": 23232,
+                                    "name": "steak",
+                                    "localizedName": "steak",
+                                    "image": "ribeye-raw.jpg"
+                                },
+                                {
+                                    "id": 1012034,
+                                    "name": "dry seasoning rub",
+                                    "localizedName": "dry seasoning rub",
+                                    "image": "seasoning.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 2,
+                            "step": "Place on greased rack on shallow pan.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "Sprinkle with salt and pepper. Arrange lemon slices on steak. Top with onion slices.",
+                            "ingredients": [
+                                {
+                                    "id": 1102047,
+                                    "name": "salt and pepper",
+                                    "localizedName": "salt and pepper",
+                                    "image": "salt-and-pepper.jpg"
+                                },
+                                {
+                                    "id": 9150,
+                                    "name": "lemon",
+                                    "localizedName": "lemon",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/lemon.png"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                },
+                                {
+                                    "id": 23232,
+                                    "name": "steak",
+                                    "localizedName": "steak",
+                                    "image": "ribeye-raw.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Mix ketchup, Worcestershire and water.",
+                            "ingredients": [
+                                {
+                                    "id": 6971,
+                                    "name": "worcestershire sauce",
+                                    "localizedName": "worcestershire sauce",
+                                    "image": "dark-sauce.jpg"
+                                },
+                                {
+                                    "id": 11935,
+                                    "name": "ketchup",
+                                    "localizedName": "ketchup",
+                                    "image": "ketchup.png"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 5,
+                            "step": "Pour over steak.",
+                            "ingredients": [
+                                {
+                                    "id": 23232,
+                                    "name": "steak",
+                                    "localizedName": "steak",
+                                    "image": "ribeye-raw.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 6,
+                            "step": "Bake at 425 degrees for 30 to 45 minutes depending on degree of doneness desired.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 30,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 20.365617752075195,
+            "spoonacularSourceUrl": "https://spoonacular.com/baked-sirloin-steak-633790"
+        },
+        {
+            "id": 651034,
+            "image": "https://img.spoonacular.com/recipes/651034-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Marinated Flat Iron Steak",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/JL7Y23HM/marinated-flat-iron-steak",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 13,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 5,
+            "healthScore": 37.0,
+            "creditsText": "foodista.com",
+            "license": null,
+            "sourceName": "foodista.com",
+            "pricePerServing": 408.51,
+            "extendedIngredients": [
+                {
+                    "id": 2069,
+                    "aisle": "Oil, Vinegar, Salad Dressing",
+                    "image": "balsamic-vinegar.jpg",
+                    "consistency": "LIQUID",
+                    "name": "balsamic vinegar",
+                    "nameClean": "balsamic vinegar",
+                    "original": "3 tablespoons Balsamic vinegar",
+                    "originalName": "Balsamic vinegar",
+                    "amount": 3.0,
+                    "unit": "tablespoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 3.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 3.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 1032046,
+                    "aisle": "Condiments",
+                    "image": "dijon-mustard.jpg",
+                    "consistency": "LIQUID",
+                    "name": "dijon mustard",
+                    "nameClean": "dijon mustard",
+                    "original": "1 tablespoon Dijon mustard",
+                    "originalName": "Dijon mustard",
+                    "amount": 1.0,
+                    "unit": "tablespoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        }
+                    }
+                },
+                {
+                    "id": 23059,
+                    "aisle": "Meat",
+                    "image": "blade-steak.png",
+                    "consistency": "SOLID",
+                    "name": "flat iron steak",
+                    "nameClean": "flat iron steak",
+                    "original": "1 2 lb Flat Iron Steak",
+                    "originalName": "Flat Iron Steak",
+                    "amount": 2.0,
+                    "unit": "lb",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "lb",
+                            "unitLong": "pounds"
+                        },
+                        "metric": {
+                            "amount": 907.185,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 10211215,
+                    "aisle": "Produce",
+                    "image": "garlic.jpg",
+                    "consistency": "SOLID",
+                    "name": "garlic cloves",
+                    "nameClean": "garlic cloves",
+                    "original": "2 garlic cloves chopped",
+                    "originalName": "garlic cloves chopped",
+                    "amount": 2.0,
+                    "unit": "",
+                    "meta": [
+                        "chopped"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 11216,
+                    "aisle": "Produce",
+                    "image": "ginger.png",
+                    "consistency": "SOLID",
+                    "name": "ginger",
+                    "nameClean": "ginger",
+                    "original": "Grated Ginger",
+                    "originalName": "Grated Ginger",
+                    "amount": 4.0,
+                    "unit": "servings",
+                    "meta": [
+                        "grated"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 4.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                },
+                {
+                    "id": 10111297,
+                    "aisle": "Produce",
+                    "image": "mixed-fresh-herbs.jpg",
+                    "consistency": "SOLID",
+                    "name": "herbs: rosemary",
+                    "nameClean": "herbs: rosemary",
+                    "original": "Fresh herbs: rosemary, sage, marjoram, thyme, chives ( anything in hand)",
+                    "originalName": "Fresh herbs: rosemary, sage, marjoram, thyme, chives ( anything in hand)",
+                    "amount": 4.0,
+                    "unit": "servings",
+                    "meta": [
+                        "fresh",
+                        "( anything in hand)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 4.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                },
+                {
+                    "id": 9156,
+                    "aisle": "Produce",
+                    "image": "zest-lemon.jpg",
+                    "consistency": "SOLID",
+                    "name": "lemon zest",
+                    "nameClean": "lemon zest",
+                    "original": "Grated zest of 1 lemon",
+                    "originalName": "Grated zest of lemon",
+                    "amount": 1.0,
+                    "unit": "",
+                    "meta": [
+                        "grated"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 9150,
+                    "aisle": "Produce",
+                    "image": "lemon.png",
+                    "consistency": "SOLID",
+                    "name": "lemons",
+                    "nameClean": "lemons",
+                    "original": "2 lemons juiced",
+                    "originalName": "lemons juiced",
+                    "amount": 2.0,
+                    "unit": "",
+                    "meta": [
+                        "juiced"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 4025,
+                    "aisle": "Condiments",
+                    "image": "mayonnaise.png",
+                    "consistency": "LIQUID",
+                    "name": "mayonnaise",
+                    "nameClean": "mayonnaise",
+                    "original": "1 tablespoon mayonnaise",
+                    "originalName": "mayonnaise",
+                    "amount": 1.0,
+                    "unit": "tablespoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        }
+                    }
+                },
+                {
+                    "id": 4053,
+                    "aisle": "Oil, Vinegar, Salad Dressing",
+                    "image": "olive-oil.jpg",
+                    "consistency": "LIQUID",
+                    "name": "olive oil",
+                    "nameClean": "olive oil",
+                    "original": "1/2 cup Olive oil",
+                    "originalName": "Olive oil",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 108.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 1102047,
+                    "aisle": "Spices and Seasonings",
+                    "image": "salt-and-pepper.jpg",
+                    "consistency": "SOLID",
+                    "name": "salt and pepper",
+                    "nameClean": "salt and pepper",
+                    "original": "to taste salt and pepper",
+                    "originalName": "to taste salt and pepper",
+                    "amount": 4.0,
+                    "unit": "servings",
+                    "meta": [
+                        "to taste"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 4.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                }
+            ],
+            "summary": "The recipe Marinated Flat Iron Steak can be made <b>in approximately 45 minutes</b>. For <b>$4.09 per serving</b>, this recipe <b>covers 33%</b> of your daily requirements of vitamins and minerals. This recipe makes 4 servings with <b>505 calories</b>, <b>44g of protein</b>, and <b>32g of fat</b> each. <b>valentin day</b> will be even more special with this recipe. 5 people found this recipe to be delicious and satisfying. It works well as a main course. It is brought to you by Foodista. If you have herbs: rosemary, garlic cloves, olive oil, and a few other ingredients on hand, you can make it. It is a good option if you're following a <b>gluten free, dairy free, whole 30, and ketogenic</b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 80%</b>. This score is solid. Similar recipes are <a href=\"https://spoonacular.com/recipes/szechwan-marinated-flat-iron-steak-407967\">Szechwan-Marinated Flat Iron Steak</a>, <a href=\"https://spoonacular.com/recipes/lemon-and-garlic-marinated-flat-iron-steak-311161\">Lemon-and-Garlic-Marinated Flat Iron Steak</a>, and <a href=\"https://spoonacular.com/recipes/orange-jalapeno-marinated-grilled-flat-iron-steak-481801\">Orange & Jalapeno Marinated Grilled Flat Iron Steak</a>.",
+            "cuisines": [],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "whole 30",
+                "ketogenic"
+            ],
+            "occasions": [
+                "valentine's day",
+                "father's day"
+            ],
+            "instructions": "<ol><li>Cut the flat iron steak lengthwise to form two equal strips.</li><li>Place all the above ingredients in a large baking pan, or Ziploc bag.</li><li>Add the meat to it and place in the refrigerator for an hour or more.</li><li>Start the BBQ . When temperature reaches high, add the steaks. Cover and cook for 3 minutes.</li><li>Turn the steaks and cook the other side for another 3 minutes, or to required doneness.</li></ol>",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Cut the flat iron steak lengthwise to form two equal strips.",
+                            "ingredients": [
+                                {
+                                    "id": 23059,
+                                    "name": "flat iron steak",
+                                    "localizedName": "flat iron steak",
+                                    "image": "blade-steak.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 2,
+                            "step": "Place all the above ingredients in a large baking pan, or Ziploc bag.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404646,
+                                    "name": "baking pan",
+                                    "localizedName": "baking pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/roasting-pan.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "Add the meat to it and place in the refrigerator for an hour or more.Start the BBQ . When temperature reaches high, add the steaks. Cover and cook for 3 minutes.Turn the steaks and cook the other side for another 3 minutes, or to required doneness.",
+                            "ingredients": [
+                                {
+                                    "id": 23232,
+                                    "name": "steak",
+                                    "localizedName": "steak",
+                                    "image": "ribeye-raw.jpg"
+                                },
+                                {
+                                    "id": 1065062,
+                                    "name": "meat",
+                                    "localizedName": "meat",
+                                    "image": "whole-chicken.jpg"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 6,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 85.1531982421875,
+            "spoonacularSourceUrl": "https://spoonacular.com/marinated-flat-iron-steak-651034"
+        },
+        {
+            "id": 643055,
+            "image": "https://img.spoonacular.com/recipes/643055-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Flank Steak With Chimichurri Sauce",
+            "readyInMinutes": 75,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/PZ25ZDDL/flank-steak-with-chimichurri-sauce",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 6,
+            "gaps": "GAPS_6",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 1,
+            "healthScore": 84.0,
+            "creditsText": "foodista.com",
+            "license": null,
+            "sourceName": "foodista.com",
+            "pricePerServing": 416.24,
+            "extendedIngredients": [
+                {
+                    "id": 1034053,
+                    "aisle": "Oil, Vinegar, Salad Dressing",
+                    "image": "olive-oil.jpg",
+                    "consistency": "LIQUID",
+                    "name": "extra virgin olive oil",
+                    "nameClean": "extra virgin olive oil",
+                    "original": "1/2 cup extra virgin olive oil",
+                    "originalName": "extra virgin olive oil",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 108.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 23657,
+                    "aisle": "Meat",
+                    "image": "flank-steak.jpg",
+                    "consistency": "SOLID",
+                    "name": "flank steak",
+                    "nameClean": "flank steak",
+                    "original": "1 1/2 pounds flank steak",
+                    "originalName": "flank steak",
+                    "amount": 1.5,
+                    "unit": "pounds",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.5,
+                            "unitShort": "lb",
+                            "unitLong": "pounds"
+                        },
+                        "metric": {
+                            "amount": 680.389,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 11215,
+                    "aisle": "Produce",
+                    "image": "garlic.png",
+                    "consistency": "SOLID",
+                    "name": "garlic",
+                    "nameClean": "garlic",
+                    "original": "3 cloves garlic, peeled",
+                    "originalName": "garlic, peeled",
+                    "amount": 3.0,
+                    "unit": "cloves",
+                    "meta": [
+                        "peeled"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 3.0,
+                            "unitShort": "cloves",
+                            "unitLong": "cloves"
+                        },
+                        "metric": {
+                            "amount": 3.0,
+                            "unitShort": "cloves",
+                            "unitLong": "cloves"
+                        }
+                    }
+                },
+                {
+                    "id": 2027,
+                    "aisle": "Produce",
+                    "image": "oregano.jpg",
+                    "consistency": "SOLID",
+                    "name": "oregano",
+                    "nameClean": "oregano",
+                    "original": "2 tablespoons oregano",
+                    "originalName": "oregano",
+                    "amount": 2.0,
+                    "unit": "tablespoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 11297,
+                    "aisle": "Produce",
+                    "image": "parsley.jpg",
+                    "consistency": "SOLID",
+                    "name": "parsley",
+                    "nameClean": "parsley",
+                    "original": "1 bunch parsley",
+                    "originalName": "parsley",
+                    "amount": 1.0,
+                    "unit": "bunch",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "bunch",
+                            "unitLong": "bunch"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "bunch",
+                            "unitLong": "bunch"
+                        }
+                    }
+                },
+                {
+                    "id": 1022068,
+                    "aisle": "Oil, Vinegar, Salad Dressing",
+                    "image": "red-wine-vinegar.jpg",
+                    "consistency": "LIQUID",
+                    "name": "red wine vinegar",
+                    "nameClean": "red wine vinegar",
+                    "original": "1/4 cup red wine vinegar",
+                    "originalName": "red wine vinegar",
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 59.75,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                }
+            ],
+            "summary": "If you want to add more <b>gluten free, dairy free, paleolithic, and primal</b> recipes to your collection, Flank Steak With Chimichurri Sauce might be a recipe you should try. This main course has <b>299 calories</b>, <b>37g of protein</b>, and <b>14g of fat</b> per serving. This recipe serves 4. For <b>$4.16 per serving</b>, this recipe <b>covers 27%</b> of your daily requirements of vitamins and minerals. If you have extra virgin olive oil, red wine vinegar, parsley, and a few other ingredients on hand, you can make it. This recipe from Foodista has 1 fans. It will be a hit at your <b>valentin day</b> event. Not a lot of people really liked this Latin American dish. From preparation to the plate, this recipe takes about <b>1 hour and 15 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 87%</b>. This score is great. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/flank-steak-with-chimichurri-sauce-1347211\">Flank Steak with Chimichurri Sauce</a>, <a href=\"https://spoonacular.com/recipes/flank-steak-with-chimichurri-sauce-568566\">Flank Steak with Chimichurri Sauce</a>, and <a href=\"https://spoonacular.com/recipes/flank-steak-with-chimichurri-sauce-590447\">Flank Steak with Chimichurri Sauce</a>.",
+            "cuisines": [
+                "South American",
+                "Latin American"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "paleolithic",
+                "primal",
+                "whole 30"
+            ],
+            "occasions": [
+                "valentine's day",
+                "father's day"
+            ],
+            "instructions": "<ol><li>For the Sauce: Mix parsley, oregano, red pepper flakes (if you are using) and garlic in a food processor or blender and mix until combined.  Drizzle in olive oil and red wine vinegar and process until combined. </li><li> Season sauce to taste with salt and pepper.  Let set for at least 1 hour.</li><li>Season steak with salt and pepper.  Grill over medium high heat for 5 minutes on each side for medium rare.  Let rest for 5 minutes.</li></ol>",
+            "analyzedInstructions": [
+                {
+                    "name": "For the Sauce",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Mix parsley, oregano, red pepper flakes (if you are using) and garlic in a food processor or blender and mix until combined.",
+                            "ingredients": [
+                                {
+                                    "id": 1032009,
+                                    "name": "red pepper flakes",
+                                    "localizedName": "red pepper flakes",
+                                    "image": "red-pepper-flakes.jpg"
+                                },
+                                {
+                                    "id": 2027,
+                                    "name": "oregano",
+                                    "localizedName": "oregano",
+                                    "image": "oregano.jpg"
+                                },
+                                {
+                                    "id": 11297,
+                                    "name": "parsley",
+                                    "localizedName": "parsley",
+                                    "image": "parsley.jpg"
+                                },
+                                {
+                                    "id": 11215,
+                                    "name": "garlic",
+                                    "localizedName": "garlic",
+                                    "image": "garlic.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404771,
+                                    "name": "food processor",
+                                    "localizedName": "food processor",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/food-processor.png"
+                                },
+                                {
+                                    "id": 404726,
+                                    "name": "blender",
+                                    "localizedName": "blender",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/blender.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Drizzle in olive oil and red wine vinegar and process until combined.  Season sauce to taste with salt and pepper.",
+                            "ingredients": [
+                                {
+                                    "id": 1022068,
+                                    "name": "red wine vinegar",
+                                    "localizedName": "red wine vinegar",
+                                    "image": "red-wine-vinegar.jpg"
+                                },
+                                {
+                                    "id": 1102047,
+                                    "name": "salt and pepper",
+                                    "localizedName": "salt and pepper",
+                                    "image": "salt-and-pepper.jpg"
+                                },
+                                {
+                                    "id": 4053,
+                                    "name": "olive oil",
+                                    "localizedName": "olive oil",
+                                    "image": "olive-oil.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "sauce",
+                                    "localizedName": "sauce",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Let set for at least 1 hour.Season steak with salt and pepper.  Grill over medium high heat for 5 minutes on each side for medium rare.",
+                            "ingredients": [
+                                {
+                                    "id": 1102047,
+                                    "name": "salt and pepper",
+                                    "localizedName": "salt and pepper",
+                                    "image": "salt-and-pepper.jpg"
+                                },
+                                {
+                                    "id": 23232,
+                                    "name": "steak",
+                                    "localizedName": "steak",
+                                    "image": "ribeye-raw.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404706,
+                                    "name": "grill",
+                                    "localizedName": "grill",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/grill.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 65,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 4,
+                            "step": "Let rest for 5 minutes.",
+                            "ingredients": [],
+                            "equipment": [],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 91.51766204833984,
+            "spoonacularSourceUrl": "https://spoonacular.com/flank-steak-with-chimichurri-sauce-643055"
+        }
+    ],
+    "totalResults": 5
+}

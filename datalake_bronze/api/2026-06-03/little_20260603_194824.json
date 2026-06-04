@@ -1,0 +1,1416 @@
+{
+    "results": [
+        {
+            "id": 650181,
+            "image": "https://img.spoonacular.com/recipes/650181-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Little Italy Burger",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/DXM5KVFD/little-italy-burger",
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 32,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 1,
+            "healthScore": 12.0,
+            "creditsText": "foodista.com",
+            "license": null,
+            "sourceName": "foodista.com",
+            "pricePerServing": 471.93,
+            "extendedIngredients": [
+                {
+                    "id": 10023572,
+                    "aisle": "Meat",
+                    "image": "fresh-ground-beef.jpg",
+                    "consistency": "SOLID",
+                    "name": "ground beef",
+                    "nameClean": "ground beef",
+                    "original": "1 pound ground beef",
+                    "originalName": "ground beef",
+                    "amount": 1.0,
+                    "unit": "pound",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "lb",
+                            "unitLong": "pound"
+                        },
+                        "metric": {
+                            "amount": 453.592,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 10410123,
+                    "aisle": "Meat",
+                    "image": "pancetta.png",
+                    "consistency": "SOLID",
+                    "name": "pancetta",
+                    "nameClean": "pancetta",
+                    "original": "8 slices pancetta",
+                    "originalName": "pancetta",
+                    "amount": 8.0,
+                    "unit": "slices",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 8.0,
+                            "unitShort": "slice",
+                            "unitLong": "slices"
+                        },
+                        "metric": {
+                            "amount": 8.0,
+                            "unitShort": "slice",
+                            "unitLong": "slices"
+                        }
+                    }
+                },
+                {
+                    "id": 93698,
+                    "aisle": "Pasta and Rice",
+                    "image": "basil-pesto.png",
+                    "consistency": "SOLID",
+                    "name": "pesto",
+                    "nameClean": "pesto",
+                    "original": "1 jar of good pesto",
+                    "originalName": "good pesto",
+                    "amount": 1.0,
+                    "unit": "jar",
+                    "meta": [
+                        "good"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "jar",
+                            "unitLong": "jar"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "jar",
+                            "unitLong": "jar"
+                        }
+                    }
+                },
+                {
+                    "id": 1026,
+                    "aisle": "Cheese",
+                    "image": "mozzarella.png",
+                    "consistency": "SOLID",
+                    "name": "mozzarella",
+                    "nameClean": "mozzarella",
+                    "original": "1 large ball smoked mozzarella",
+                    "originalName": "smoked mozzarella",
+                    "amount": 1.0,
+                    "unit": "large ball",
+                    "meta": [
+                        "smoked"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "large ball",
+                            "unitLong": "large ball"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "large ball",
+                            "unitLong": "large ball"
+                        }
+                    }
+                },
+                {
+                    "id": 10011282,
+                    "aisle": "Produce",
+                    "image": "red-onion.png",
+                    "consistency": "SOLID",
+                    "name": "onion",
+                    "nameClean": "onion",
+                    "original": "1 red onion, cut into thin rounds",
+                    "originalName": "red onion, cut into thin rounds",
+                    "amount": 1.0,
+                    "unit": "",
+                    "meta": [
+                        "red",
+                        "cut into thin rounds"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 1001,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "butter-sliced.jpg",
+                    "consistency": "SOLID",
+                    "name": "butter",
+                    "nameClean": "butter",
+                    "original": "3 tablespoons butter",
+                    "originalName": "butter",
+                    "amount": 3.0,
+                    "unit": "tablespoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 3.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 3.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 11887,
+                    "aisle": "Pasta and Rice",
+                    "image": "tomato-paste.jpg",
+                    "consistency": "SOLID",
+                    "name": "tomato paste",
+                    "nameClean": "tomato paste",
+                    "original": "2 teaspoons tomato paste",
+                    "originalName": "tomato paste",
+                    "amount": 2.0,
+                    "unit": "teaspoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 10015002,
+                    "aisle": "Pasta and Rice",
+                    "image": "anchovy-paste.png",
+                    "consistency": "SOLID",
+                    "name": "anchovy paste",
+                    "nameClean": "anchovy paste",
+                    "original": "1 teaspoon anchovy paste",
+                    "originalName": "anchovy paste",
+                    "amount": 1.0,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        }
+                    }
+                },
+                {
+                    "id": 10011959,
+                    "aisle": "Produce",
+                    "image": "arugula-or-rocket-salad.jpg",
+                    "consistency": "SOLID",
+                    "name": "baby arugula",
+                    "nameClean": "baby arugula",
+                    "original": "Baby arugula",
+                    "originalName": "Baby arugula",
+                    "amount": 4.0,
+                    "unit": "servings",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 4.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                },
+                {
+                    "id": 11529,
+                    "aisle": "Produce",
+                    "image": "tomato.png",
+                    "consistency": "SOLID",
+                    "name": "tomato",
+                    "nameClean": "tomato",
+                    "original": "Ripe tomato slices",
+                    "originalName": "Ripe tomato",
+                    "amount": 1.0,
+                    "unit": "slices",
+                    "meta": [
+                        "ripe"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "slice",
+                            "unitLong": "slice"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "slice",
+                            "unitLong": "slice"
+                        }
+                    }
+                },
+                {
+                    "id": 93699,
+                    "aisle": "Bakery/Bread",
+                    "image": "ciabatta-roll.png",
+                    "consistency": "SOLID",
+                    "name": "ciabatta buns",
+                    "nameClean": "ciabatta buns",
+                    "original": "4 ciabatta buns",
+                    "originalName": "ciabatta buns",
+                    "amount": 4.0,
+                    "unit": "",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 4.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                }
+            ],
+            "summary": "Little Italy Burger is an American main course. For <b>$4.72 per serving</b>, this recipe <b>covers 23%</b> of your daily requirements of vitamins and minerals. One portion of this dish contains roughly <b>44g of protein</b>, <b>71g of fat</b>, and a total of <b>963 calories</b>. This recipe serves 4. Head to the store and pick up ground beef, anchovy paste, mozzarella, and a few other things to make it today. This recipe from Foodista has 1 fans. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 46%</b>. This score is good. Similar recipes include <a href=\"https://spoonacular.com/recipes/florentines-italy-741718\">Florentines (Italy)</a>, <a href=\"https://spoonacular.com/recipes/postcards-from-italy-cocktail-493254\">Postcards From Italy Cocktail</a>, and <a href=\"https://spoonacular.com/recipes/little-italy-pignoli-cookies-462407\">Little Italy Pignoli Cookies</a>.",
+            "cuisines": [
+                "American"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [],
+            "occasions": [],
+            "instructions": "Heat the grill to high. Divide the ground beef into 4 portions. Salt and pepper and press into patties. Layer each patty with a slice of pancetta on top and bottom. Press the pancetta into the patty.\nCut the onion and mozzarella into rounds.\nMelt the butter and mix it with the tomato paste and anchovy paste.\nCut the ciabatta buns and brush the insides with tomato-butter.\nCAREFULLY brush the grill with oil or use non-stick grill spray. Grill the patties and onions at the same time. Grill the patties for 3-5 minutes per side and the onions for 1-2 minutes per side.\nOnce you flip the burgers, lay the onion rounds over the top of each patty, followed by the mozzarella slices. The cheese will melt while the burgers finish cooking.\nPlace the buns on the open grill and toast for 1 minute.\nOnce the buns are toasted, slather them with pesto. Layer arugula leaves, tomato slices and a patty on each bun. Top and serve! Serves 4.",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Heat the grill to high. Divide the ground beef into 4 portions. Salt and pepper and press into patties.",
+                            "ingredients": [
+                                {
+                                    "id": 1102047,
+                                    "name": "salt and pepper",
+                                    "localizedName": "salt and pepper",
+                                    "image": "salt-and-pepper.jpg"
+                                },
+                                {
+                                    "id": 10023572,
+                                    "name": "ground beef",
+                                    "localizedName": "ground beef",
+                                    "image": "fresh-ground-beef.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404706,
+                                    "name": "grill",
+                                    "localizedName": "grill",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/grill.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Layer each patty with a slice of pancetta on top and bottom. Press the pancetta into the patty.",
+                            "ingredients": [
+                                {
+                                    "id": 10410123,
+                                    "name": "pancetta",
+                                    "localizedName": "pancetta",
+                                    "image": "pancetta.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Cut the onion and mozzarella into rounds.",
+                            "ingredients": [
+                                {
+                                    "id": 1026,
+                                    "name": "mozzarella",
+                                    "localizedName": "mozzarella",
+                                    "image": "mozzarella.png"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Melt the butter and mix it with the tomato paste and anchovy paste.",
+                            "ingredients": [
+                                {
+                                    "id": 10015002,
+                                    "name": "anchovy paste",
+                                    "localizedName": "anchovy paste",
+                                    "image": "anchovy-paste.png"
+                                },
+                                {
+                                    "id": 11887,
+                                    "name": "tomato paste",
+                                    "localizedName": "tomato paste",
+                                    "image": "tomato-paste.jpg"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 5,
+                            "step": "Cut the ciabatta buns and brush the insides with tomato-butter.",
+                            "ingredients": [
+                                {
+                                    "id": 93699,
+                                    "name": "ciabatta roll",
+                                    "localizedName": "ciabatta roll",
+                                    "image": "ciabatta-roll.png"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                },
+                                {
+                                    "id": 11529,
+                                    "name": "tomato",
+                                    "localizedName": "tomato",
+                                    "image": "tomato.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 6,
+                            "step": "CAREFULLY brush the grill with oil or use non-stick grill spray. Grill the patties and onions at the same time. Grill the patties for 3-5 minutes per side and the onions for 1-2 minutes per side.",
+                            "ingredients": [
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                },
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404706,
+                                    "name": "grill",
+                                    "localizedName": "grill",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/grill.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 7,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 7,
+                            "step": "Once you flip the burgers, lay the onion rounds over the top of each patty, followed by the mozzarella slices. The cheese will melt while the burgers finish cooking.",
+                            "ingredients": [
+                                {
+                                    "id": 1026,
+                                    "name": "mozzarella",
+                                    "localizedName": "mozzarella",
+                                    "image": "mozzarella.png"
+                                },
+                                {
+                                    "id": 1041009,
+                                    "name": "cheese",
+                                    "localizedName": "cheese",
+                                    "image": "cheddar-cheese.png"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 8,
+                            "step": "Place the buns on the open grill and toast for 1 minute.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "sandwich bread",
+                                    "localizedName": "sandwich bread",
+                                    "image": "white-bread.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "roll",
+                                    "localizedName": "roll",
+                                    "image": "dinner-yeast-rolls.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404706,
+                                    "name": "grill",
+                                    "localizedName": "grill",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/grill.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 1,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 9,
+                            "step": "Once the buns are toasted, slather them with pesto.",
+                            "ingredients": [
+                                {
+                                    "id": 93698,
+                                    "name": "pesto",
+                                    "localizedName": "pesto",
+                                    "image": "basil-pesto.png"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "roll",
+                                    "localizedName": "roll",
+                                    "image": "dinner-yeast-rolls.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 10,
+                            "step": "Layer arugula leaves, tomato slices and a patty on each bun. Top and serve!",
+                            "ingredients": [
+                                {
+                                    "id": 11959,
+                                    "name": "arugula",
+                                    "localizedName": "arugula",
+                                    "image": "arugula-or-rocket-salad.jpg"
+                                },
+                                {
+                                    "id": 10511529,
+                                    "name": "tomato slices",
+                                    "localizedName": "tomato slices",
+                                    "image": "sliced-tomato.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "roll",
+                                    "localizedName": "roll",
+                                    "image": "dinner-yeast-rolls.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 11,
+                            "step": "Serves 4.",
+                            "ingredients": [],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 55.635719299316406,
+            "spoonacularSourceUrl": "https://spoonacular.com/little-italy-burger-650181"
+        },
+        {
+            "id": 650169,
+            "image": "https://img.spoonacular.com/recipes/650169-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Little Apricot Cakes",
+            "readyInMinutes": 45,
+            "servings": 12,
+            "sourceUrl": "https://www.foodista.com/recipe/R3XZFNBB/little-apricot-cakes",
+            "vegetarian": true,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 7,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 1,
+            "healthScore": 0.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 21.29,
+            "extendedIngredients": [
+                {
+                    "id": 9021,
+                    "aisle": "Produce",
+                    "image": "apricot.jpg",
+                    "consistency": "SOLID",
+                    "name": "apricots",
+                    "nameClean": "apricots",
+                    "original": "2 apricots, halved, pitted, cut into 1/4-inch wedges",
+                    "originalName": "apricots, halved, pitted, cut into 1/4-inch wedges",
+                    "amount": 2.0,
+                    "unit": "",
+                    "meta": [
+                        "pitted",
+                        "halved",
+                        "cut into 1/4-inch wedges"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 18369,
+                    "aisle": "Baking",
+                    "image": "white-powder.jpg",
+                    "consistency": "SOLID",
+                    "name": "baking powder",
+                    "nameClean": "baking powder",
+                    "original": "1 teaspoon Baking powder",
+                    "originalName": "Baking powder",
+                    "amount": 1.0,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        }
+                    }
+                },
+                {
+                    "id": 1123,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "egg.png",
+                    "consistency": "SOLID",
+                    "name": "egg",
+                    "nameClean": "egg",
+                    "original": "1 Egg",
+                    "originalName": "Egg",
+                    "amount": 1.0,
+                    "unit": "",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 20081,
+                    "aisle": "Baking",
+                    "image": "flour.png",
+                    "consistency": "SOLID",
+                    "name": "flour",
+                    "nameClean": "flour",
+                    "original": "1/2 cup Sifted all-purpose flour",
+                    "originalName": "Sifted all-purpose flour",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "meta": [
+                        "all-purpose",
+                        "sifted"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 62.5,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 1082047,
+                    "aisle": "Spices and Seasonings",
+                    "image": "salt.jpg",
+                    "consistency": "SOLID",
+                    "name": "kosher salt",
+                    "nameClean": "kosher salt",
+                    "original": "1/4 teaspoon kosher salt",
+                    "originalName": "kosher salt",
+                    "amount": 0.25,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 0.25,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 9156,
+                    "aisle": "Produce",
+                    "image": "zest-lemon.jpg",
+                    "consistency": "SOLID",
+                    "name": "lemon zest",
+                    "nameClean": "lemon zest",
+                    "original": "1 teaspoon finely grated lemon zest",
+                    "originalName": "finely grated lemon zest",
+                    "amount": 1.0,
+                    "unit": "teaspoon",
+                    "meta": [
+                        "finely grated"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        }
+                    }
+                },
+                {
+                    "id": 1077,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "milk.png",
+                    "consistency": "LIQUID",
+                    "name": "milk",
+                    "nameClean": "milk",
+                    "original": "1/2 cup Milk",
+                    "originalName": "Milk",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 122.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 19908,
+                    "aisle": "Baking",
+                    "image": "raw-brown-sugar.png",
+                    "consistency": "SOLID",
+                    "name": "sugar",
+                    "nameClean": "sugar",
+                    "original": "2 tablespoons raw sugar",
+                    "originalName": "raw sugar",
+                    "amount": 2.0,
+                    "unit": "tablespoons",
+                    "meta": [
+                        "raw"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 19335,
+                    "aisle": "Baking",
+                    "image": "sugar-in-bowl.png",
+                    "consistency": "SOLID",
+                    "name": "sugar",
+                    "nameClean": "sugar",
+                    "original": "3/4 cup Sugar",
+                    "originalName": "Sugar",
+                    "amount": 0.75,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.75,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 150.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 1145,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "butter-sliced.jpg",
+                    "consistency": "SOLID",
+                    "name": "butter",
+                    "nameClean": "butter",
+                    "original": "7 tablespoons Unsalted butter, cut into chunks and chilled",
+                    "originalName": "Unsalted butter, cut into chunks and chilled",
+                    "amount": 7.0,
+                    "unit": "tablespoons",
+                    "meta": [
+                        "unsalted",
+                        "chilled",
+                        "cut into chunks and "
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 7.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 7.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 2050,
+                    "aisle": "Baking",
+                    "image": "vanilla-extract.jpg",
+                    "consistency": "LIQUID",
+                    "name": "vanilla extract",
+                    "nameClean": "vanilla extract",
+                    "original": "1 teaspoon vanilla extract",
+                    "originalName": "vanilla extract",
+                    "amount": 1.0,
+                    "unit": "teaspoon",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "tsp",
+                            "unitLong": "teaspoon"
+                        }
+                    }
+                }
+            ],
+            "summary": "Little Apricot Cakes is a <b>lacto ovo vegetarian</b> recipe with 12 servings. One serving contains <b>149 calories</b>, <b>1g of protein</b>, and <b>7g of fat</b>. For <b>21 cents per serving</b>, this recipe <b>covers 2%</b> of your daily requirements of vitamins and minerals. 1 person were impressed by this recipe. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. This recipe from Foodista requires apricots, butter, egg, and sugar. Not a lot of people really liked this dessert. Taking all factors into account, this recipe <b>earns a spoonacular score of 10%</b>, which is very bad (but still fixable). Similar recipes are <a href=\"https://spoonacular.com/recipes/apricot-cakes-551763\">Apricot Cakes</a>, <a href=\"https://spoonacular.com/recipes/little-apricot-cakes-149101\">Little Apricot Cakes</a>, and <a href=\"https://spoonacular.com/recipes/apricot-tea-cakes-49071\">Apricot Tea Cakes</a>.",
+            "cuisines": [],
+            "dishTypes": [
+                "dessert"
+            ],
+            "diets": [
+                "lacto ovo vegetarian"
+            ],
+            "occasions": [],
+            "instructions": "<ol><li>Preheat oven to 350 degrees F. Coat muffin cups with nonstick spray. Whisk flour, baking powder and salt in a medium bowl.</li><li>Using an electric mixer, beat butter and sugar in another medium bowl, occasionally scraping down sides of bowl, until light and fluffy, about 2 minutes. Add egg, lemon zest and vanilla and beat until combined.</li><li>With mixer on low speed, add dry ingredients in 3 additions alternately with milk in 2 additions, beginning and ending with dry ingredients. Divide batter among muffin cups (cups will be only 1/3 full) and smooth tops. Top with apricot slices and sprinkle with raw sugar.</li><li>Bake until cakes are golden and a tester inserted into the centers comes out clean, 2025 minutes. Transfer pan to a wire rack; let pan cool 5 minutes. Transfer cakes to rack and let cool completely.</li></ol>",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Preheat oven to 350 degrees F. Coat muffin cups with nonstick spray.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404676,
+                                    "name": "muffin liners",
+                                    "localizedName": "muffin liners",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/muffin-or-cupcake-forms.png"
+                                },
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg",
+                                    "temperature": {
+                                        "number": 350.0,
+                                        "unit": "Fahrenheit"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Whisk flour, baking powder and salt in a medium bowl.Using an electric mixer, beat butter and sugar in another medium bowl, occasionally scraping down sides of bowl, until light and fluffy, about 2 minutes.",
+                            "ingredients": [
+                                {
+                                    "id": 18369,
+                                    "name": "baking powder",
+                                    "localizedName": "baking powder",
+                                    "image": "white-powder.jpg"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                },
+                                {
+                                    "id": 20081,
+                                    "name": "all purpose flour",
+                                    "localizedName": "all purpose flour",
+                                    "image": "flour.png"
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404628,
+                                    "name": "hand mixer",
+                                    "localizedName": "hand mixer",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/hand-mixer.png"
+                                },
+                                {
+                                    "id": 404661,
+                                    "name": "whisk",
+                                    "localizedName": "whisk",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/whisk.png"
+                                },
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 2,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 3,
+                            "step": "Add egg, lemon zest and vanilla and beat until combined.With mixer on low speed, add dry ingredients in 3 additions alternately with milk in 2 additions, beginning and ending with dry ingredients. Divide batter among muffin cups (cups will be only 1/3 full) and smooth tops. Top with apricot slices and sprinkle with raw sugar.",
+                            "ingredients": [
+                                {
+                                    "id": 9156,
+                                    "name": "lemon zest",
+                                    "localizedName": "lemon zest",
+                                    "image": "zest-lemon.jpg"
+                                },
+                                {
+                                    "id": 19908,
+                                    "name": "raw sugar",
+                                    "localizedName": "raw sugar",
+                                    "image": "raw-brown-sugar.png"
+                                },
+                                {
+                                    "id": 9021,
+                                    "name": "apricot",
+                                    "localizedName": "apricot",
+                                    "image": "apricot.jpg"
+                                },
+                                {
+                                    "id": 1052050,
+                                    "name": "vanilla",
+                                    "localizedName": "vanilla",
+                                    "image": "vanilla.jpg"
+                                },
+                                {
+                                    "id": 1077,
+                                    "name": "milk",
+                                    "localizedName": "milk",
+                                    "image": "milk.png"
+                                },
+                                {
+                                    "id": 1123,
+                                    "name": "egg",
+                                    "localizedName": "egg",
+                                    "image": "egg.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404676,
+                                    "name": "muffin liners",
+                                    "localizedName": "muffin liners",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/muffin-or-cupcake-forms.png"
+                                },
+                                {
+                                    "id": 404726,
+                                    "name": "blender",
+                                    "localizedName": "blender",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/blender.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Bake until cakes are golden and a tester inserted into the centers comes out clean, 2025 minutes.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 2025,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 5,
+                            "step": "Transfer pan to a wire rack; let pan cool 5 minutes.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 405900,
+                                    "name": "wire rack",
+                                    "localizedName": "wire rack",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/wire-rack.jpg"
+                                },
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 6,
+                            "step": "Transfer cakes to rack and let cool completely.",
+                            "ingredients": [],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 14.703152656555176,
+            "spoonacularSourceUrl": "https://spoonacular.com/little-apricot-cakes-650169"
+        },
+        {
+            "id": 650180,
+            "image": "https://img.spoonacular.com/recipes/650180-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Little phyllo cakes with blackberry",
+            "readyInMinutes": 45,
+            "servings": 8,
+            "sourceUrl": "https://www.foodista.com/recipe/NVRNDXY6/little-phyllo-cakes-with-blackberry",
+            "vegetarian": true,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 9,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 1,
+            "healthScore": 0.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 36.89,
+            "extendedIngredients": [
+                {
+                    "id": 18338,
+                    "aisle": "Frozen",
+                    "image": "filo-dough.png",
+                    "consistency": "SOLID",
+                    "name": "phyllo dough",
+                    "nameClean": "phyllo dough",
+                    "original": "4 sheets of phyllo dough",
+                    "originalName": "phyllo dough",
+                    "amount": 4.0,
+                    "unit": "sheets",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "sheets",
+                            "unitLong": "sheets"
+                        },
+                        "metric": {
+                            "amount": 4.0,
+                            "unitShort": "sheets",
+                            "unitLong": "sheets"
+                        }
+                    }
+                },
+                {
+                    "id": 93820,
+                    "aisle": "Cheese",
+                    "image": "white-cream-fluffy.jpg",
+                    "consistency": "SOLID",
+                    "name": "mascarpone",
+                    "nameClean": "mascarpone",
+                    "original": "100 grams mascarpone",
+                    "originalName": "mascarpone",
+                    "amount": 100.0,
+                    "unit": "grams",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 3.527,
+                            "unitShort": "oz",
+                            "unitLong": "ounces"
+                        },
+                        "metric": {
+                            "amount": 100.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 19334,
+                    "aisle": "Baking",
+                    "image": "light-brown-sugar.jpg",
+                    "consistency": "SOLID",
+                    "name": "brown sugar grand cru brasil bio waves of sugar",
+                    "nameClean": "brown sugar grand cru brasil bio waves of sugar",
+                    "original": "6 tablespoons brown sugar Grand Cru Brasil Bio Waves of Sugar",
+                    "originalName": "brown sugar Grand Cru Brasil Bio Waves of Sugar",
+                    "amount": 6.0,
+                    "unit": "tablespoons",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 6.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 6.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 9042,
+                    "aisle": "Produce",
+                    "image": "blackberries.jpg",
+                    "consistency": "SOLID",
+                    "name": "blackberry",
+                    "nameClean": "blackberry",
+                    "original": "blackberry",
+                    "originalName": "blackberry",
+                    "amount": 8.0,
+                    "unit": "servings",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 8.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 8.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                },
+                {
+                    "id": 1034053,
+                    "aisle": "Oil, Vinegar, Salad Dressing",
+                    "image": "olive-oil.jpg",
+                    "consistency": "LIQUID",
+                    "name": "extra vergin oil",
+                    "nameClean": "extra vergin oil",
+                    "original": "extra vergin oil",
+                    "originalName": "extra vergin oil",
+                    "amount": 8.0,
+                    "unit": "servings",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 8.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 8.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                }
+            ],
+            "summary": "Little phyllo cakes with blackberry could be just the <b>lacto ovo vegetarian</b> recipe you've been looking for. This recipe makes 8 servings with <b>243 calories</b>, <b>2g of protein</b>, and <b>20g of fat</b> each. For <b>37 cents per serving</b>, this recipe <b>covers 2%</b> of your daily requirements of vitamins and minerals. A mixture of phyllo dough, mascarpone, blackberry, and a handful of other ingredients are all it takes to make this recipe so scrumptious. 1 person were impressed by this recipe. It is brought to you by Foodista. Not a lot of people really liked this dessert. From preparation to the plate, this recipe takes around <b>45 minutes</b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 11%</b>, which is not so great. Similar recipes are <a href=\"https://spoonacular.com/recipes/phyllo-napoleons-with-blackberry-sauce-and-vanilla-cream-50472\">Phyllo Napoleons With Blackberry Sauce And Vanilla Cream</a>, <a href=\"https://spoonacular.com/recipes/bite-sized-blackberry-cakes-50496\">Bite-sized Blackberry Cakes</a>, and <a href=\"https://spoonacular.com/recipes/blackberry-farms-griddle-cakes-491516\">Blackberry Farms Griddle Cakes</a>.",
+            "cuisines": [],
+            "dishTypes": [
+                "dessert"
+            ],
+            "diets": [
+                "lacto ovo vegetarian"
+            ],
+            "occasions": [],
+            "instructions": "Lay a sheet of phyllo dough at a time, holding the other part covered under a wet cloth.\nBrush entire surface with oil and overlap with another sheet, repeat two more times, so you'll get 4 layers.\nWith a round pastry cutter gets the dough into circles that will place the paper cups as I did, or directly into a silicon mold to obtain the small muffin baskets.\nPricked with a fork and cook the basics in a preheated oven at 180C for 6-8 minutes or until golden brown.\nLet cool baskets while preparing the filling and phyllo.\nGently wash and dry the berries.\nIn a bowl mix well the sugar with the mascarpone and helping with a pastry bag filled phyllo baskets.\nFinish decorating with a blackberry",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Lay a sheet of phyllo dough at a time, holding the other part covered under a wet cloth.",
+                            "ingredients": [
+                                {
+                                    "id": 18338,
+                                    "name": "filo pastry",
+                                    "localizedName": "filo pastry",
+                                    "image": "filo-dough.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 2,
+                            "step": "Brush entire surface with oil and overlap with another sheet, repeat two more times, so you'll get 4 layers.",
+                            "ingredients": [
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "With a round pastry cutter gets the dough into circles that will place the paper cups as I did, or directly into a silicon mold to obtain the small muffin baskets.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "dough",
+                                    "localizedName": "dough",
+                                    "image": "pizza-dough"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 406916,
+                                    "name": "pastry cutter",
+                                    "localizedName": "pastry cutter",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/dough-cutter.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Pricked with a fork and cook the basics in a preheated oven at 180C for 6-8 minutes or until golden brown.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg",
+                                    "temperature": {
+                                        "number": 180.0,
+                                        "unit": "Celsius"
+                                    }
+                                }
+                            ],
+                            "length": {
+                                "number": 8,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 5,
+                            "step": "Let cool baskets while preparing the filling and phyllo.",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 6,
+                            "step": "Gently wash and dry the berries.",
+                            "ingredients": [
+                                {
+                                    "id": 1009054,
+                                    "name": "berries",
+                                    "localizedName": "berries",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/berries-mixed.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 7,
+                            "step": "In a bowl mix well the sugar with the mascarpone and helping with a pastry bag filled phyllo baskets.",
+                            "ingredients": [
+                                {
+                                    "id": 93820,
+                                    "name": "mascarpone",
+                                    "localizedName": "mascarpone",
+                                    "image": "white-cream-fluffy.jpg"
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404757,
+                                    "name": "pastry bag",
+                                    "localizedName": "pastry bag",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/pastry-bag.jpg"
+                                },
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 8,
+                            "step": "Finish decorating with a blackberry",
+                            "ingredients": [
+                                {
+                                    "id": 9042,
+                                    "name": "blackberries",
+                                    "localizedName": "blackberries",
+                                    "image": "blackberries.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 8.767923355102539,
+            "spoonacularSourceUrl": "https://spoonacular.com/little-phyllo-cakes-with-blackberry-650180"
+        }
+    ],
+    "totalResults": 3
+}

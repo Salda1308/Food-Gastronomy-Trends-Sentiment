@@ -1,0 +1,474 @@
+{
+    "results": [
+        {
+            "id": 636112,
+            "image": "https://img.spoonacular.com/recipes/636112-556x370.jpg",
+            "imageType": "jpg",
+            "title": "Brilliant & Beautiful Blueberry Tart",
+            "readyInMinutes": 45,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/DJ2CHCFF/brilliant-beautiful-blueberry-tart",
+            "vegetarian": true,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 14,
+            "gaps": "no",
+            "preparationMinutes": null,
+            "cookingMinutes": null,
+            "aggregateLikes": 1,
+            "healthScore": 1.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 89.28,
+            "extendedIngredients": [
+                {
+                    "id": 20081,
+                    "aisle": "Baking",
+                    "image": "flour.png",
+                    "consistency": "SOLID",
+                    "name": "flour",
+                    "nameClean": "flour",
+                    "original": "1 1/2 cups all-purpose flour",
+                    "originalName": "all-purpose flour",
+                    "amount": 1.5,
+                    "unit": "cups",
+                    "meta": [
+                        "all-purpose"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 187.5,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 2047,
+                    "aisle": "Spices and Seasonings",
+                    "image": "salt.jpg",
+                    "consistency": "SOLID",
+                    "name": "salt",
+                    "nameClean": "salt",
+                    "original": "Salt",
+                    "originalName": "Salt",
+                    "amount": 6.0,
+                    "unit": "servings",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 6.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 6.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                },
+                {
+                    "id": 1145,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "butter-sliced.jpg",
+                    "consistency": "SOLID",
+                    "name": "butter",
+                    "nameClean": "butter",
+                    "original": "7 tablespoons cold, unsalted butter, cubed",
+                    "originalName": "cold, unsalted butter, cubed",
+                    "amount": 7.0,
+                    "unit": "tablespoons",
+                    "meta": [
+                        "unsalted",
+                        "cold",
+                        "cubed"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 7.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 7.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 1053,
+                    "aisle": "Milk, Eggs, Other Dairy",
+                    "image": "fluid-cream.jpg",
+                    "consistency": "LIQUID",
+                    "name": "cream",
+                    "nameClean": "cream",
+                    "original": "1/2 cup cold cream",
+                    "originalName": "cold cream",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "meta": [
+                        "cold"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 119.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 9050,
+                    "aisle": "Produce",
+                    "image": "blueberries.jpg",
+                    "consistency": "SOLID",
+                    "name": "blueberries",
+                    "nameClean": "blueberries",
+                    "original": "2 cups frozen (or fresh) blueberries",
+                    "originalName": "frozen (or fresh) blueberries",
+                    "amount": 2.0,
+                    "unit": "cups",
+                    "meta": [
+                        "fresh",
+                        "frozen",
+                        "(or )"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 296.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 10719297,
+                    "aisle": "Nut butters, Jams, and Honey",
+                    "image": "raspberry-jam.jpg",
+                    "consistency": "SOLID",
+                    "name": "raspberry jam",
+                    "nameClean": "raspberry jam",
+                    "original": "1/4 cup raspberry jam",
+                    "originalName": "raspberry jam",
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.25,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 85.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 14096,
+                    "aisle": "Alcoholic Beverages",
+                    "image": "red-wine.jpg",
+                    "consistency": "LIQUID",
+                    "name": "red wine",
+                    "nameClean": "red wine",
+                    "original": "2 teaspoons red wine vinaigrette or fruity red wine",
+                    "originalName": "red wine vinaigrette or fruity red wine",
+                    "amount": 2.0,
+                    "unit": "teaspoons",
+                    "meta": [
+                        "fruity"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "tsps",
+                            "unitLong": "teaspoons"
+                        }
+                    }
+                },
+                {
+                    "id": 9152,
+                    "aisle": "Produce",
+                    "image": "lemon-juice.jpg",
+                    "consistency": "LIQUID",
+                    "name": "juice of lemon",
+                    "nameClean": "juice of lemon",
+                    "original": "juice of 1/2 a lemon",
+                    "originalName": "juice a lemon",
+                    "amount": 0.5,
+                    "unit": "",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 0.5,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                }
+            ],
+            "summary": "Brilliant & Beautiful Blueberry Tart takes about <b>45 minutes</b> from beginning to end. One portion of this dish contains about <b>4g of protein</b>, <b>21g of fat</b>, and a total of <b>368 calories</b>. This recipe serves 6. For <b>89 cents per serving</b>, this recipe <b>covers 8%</b> of your daily requirements of vitamins and minerals. 1 person has made this recipe and would make it again. It is a good option if you're following a <b>lacto ovo vegetarian</b> diet. Head to the store and pick up cream, juice of lemon, blueberries, and a few other things to make it today. It is brought to you by Foodista. With a spoonacular <b>score of 23%</b>, this dish is not so super. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/brilliant-beautiful-blueberry-tart-78747\">Brilliant & Beautiful Blueberry Tart</a>, <a href=\"https://spoonacular.com/recipes/beautiful-breakfast-tart-557395\">Beautiful Breakfast Tart</a>, and <a href=\"https://spoonacular.com/recipes/brilliant-banana-loaf-1444055\">Brilliant banana loaf</a>.",
+            "cuisines": [],
+            "dishTypes": [],
+            "diets": [
+                "lacto ovo vegetarian"
+            ],
+            "occasions": [],
+            "instructions": "For the crust:\nButter a 9-inch tart pan. In a food processor, pulse the flour with a pinch of salt and the butter until the mixture resembles course meal. Add the cream and pulse until the dough nearly comes together. Turn the dough out onto a floured work surface and knead a few times. Cover and refrigerate for at least 30 minutes or overnight. (This is a good time to make the filling recipe below.)\nRoll out the dough into a 14-inch round. Press the round into the tart pan, trim off any excess.\nFor the filling:\nCombine the ingredients in a small bowl and stir until the jam has been broken down by the vinegar/lemon juice. Pour the filling into the prepared tart crust. Bake for about 1 hour and 30 minutes at 325F, until the crust is nicely browned. Remove the tart from the oven and let it cool for about 15 minutes to allow the filling to become firm. Serve alone or topped with vanilla bean ice cream and some mint leaves.",
+            "analyzedInstructions": [
+                {
+                    "name": "For the crust",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Butter a 9-inch tart pan. In a food processor, pulse the flour with a pinch of salt and the butter until the mixture resembles course meal.",
+                            "ingredients": [
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                },
+                                {
+                                    "id": 20081,
+                                    "name": "all purpose flour",
+                                    "localizedName": "all purpose flour",
+                                    "image": "flour.png"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404771,
+                                    "name": "food processor",
+                                    "localizedName": "food processor",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/food-processor.png"
+                                },
+                                {
+                                    "id": 406922,
+                                    "name": "tart form",
+                                    "localizedName": "tart form",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/tart-pan.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Add the cream and pulse until the dough nearly comes together. Turn the dough out onto a floured work surface and knead a few times. Cover and refrigerate for at least 30 minutes or overnight. (This is a good time to make the filling recipe below.)",
+                            "ingredients": [
+                                {
+                                    "id": 1053,
+                                    "name": "cream",
+                                    "localizedName": "cream",
+                                    "image": "fluid-cream.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "dough",
+                                    "localizedName": "dough",
+                                    "image": "pizza-dough"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 30,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 3,
+                            "step": "Roll out the dough into a 14-inch round. Press the round into the tart pan, trim off any excess.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "dough",
+                                    "localizedName": "dough",
+                                    "image": "pizza-dough"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "roll",
+                                    "localizedName": "roll",
+                                    "image": "dinner-yeast-rolls.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 406922,
+                                    "name": "tart form",
+                                    "localizedName": "tart form",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/tart-pan.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "For the filling",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Combine the ingredients in a small bowl and stir until the jam has been broken down by the vinegar/lemon juice.",
+                            "ingredients": [
+                                {
+                                    "id": 9152,
+                                    "name": "lemon juice",
+                                    "localizedName": "lemon juice",
+                                    "image": "lemon-juice.jpg"
+                                },
+                                {
+                                    "id": 2053,
+                                    "name": "vinegar",
+                                    "localizedName": "vinegar",
+                                    "image": "vinegar-(white).jpg"
+                                },
+                                {
+                                    "id": 19297,
+                                    "name": "jam",
+                                    "localizedName": "jam",
+                                    "image": "strawberry-jam.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Pour the filling into the prepared tart crust.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "crust",
+                                    "localizedName": "crust",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Bake for about 1 hour and 30 minutes at 325F, until the crust is nicely browned.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "crust",
+                                    "localizedName": "crust",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg",
+                                    "temperature": {
+                                        "number": 325.0,
+                                        "unit": "Fahrenheit"
+                                    }
+                                }
+                            ],
+                            "length": {
+                                "number": 90,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 4,
+                            "step": "Remove the tart from the oven and let it cool for about 15 minutes to allow the filling to become firm.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 15,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 5,
+                            "step": "Serve alone or topped with vanilla bean ice cream and some mint leaves.",
+                            "ingredients": [
+                                {
+                                    "id": 93622,
+                                    "name": "vanilla bean",
+                                    "localizedName": "vanilla bean",
+                                    "image": "vanilla.jpg"
+                                },
+                                {
+                                    "id": 2064,
+                                    "name": "mint",
+                                    "localizedName": "mint",
+                                    "image": "mint.jpg"
+                                },
+                                {
+                                    "id": 19095,
+                                    "name": "ice cream",
+                                    "localizedName": "ice cream",
+                                    "image": "https://spoonacular.com/cdn/ingredients_100x100/vanilla-ice-cream.png"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "language": "en",
+            "spoonacularScore": 28.462100982666016,
+            "spoonacularSourceUrl": "https://spoonacular.com/brilliant-beautiful-blueberry-tart-636112"
+        }
+    ],
+    "totalResults": 1
+}

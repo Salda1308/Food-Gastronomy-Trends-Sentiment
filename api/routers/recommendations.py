@@ -34,32 +34,61 @@ def _load_recipes():
 
 @router.get("/")
 def get_recipes(
-    limit: int = Query(20, ge=1, le=100),
-    cuisine: str | None = Query(None, description="Filter by cuisine (e.g. italian, japanese)"),
-    diet: str | None = Query(None, description="Filter by diet (e.g. vegan, glutenFree)"),
+    limit: int = Query(50, ge=1, le=200),
+    cuisine: str | None = Query(None, description="Partial match against cuisines field"),
+    diet: str | None = Query(None, description="E.g. vegetarian, vegan, glutenFree, dairyFree, ketogenic, paleo"),
     max_minutes: int | None = Query(None, description="Max readyInMinutes"),
+    maxReadyTime: int | None = Query(None, description="Alias for max_minutes (frontend compat)"),
+    query: str | None = Query(None, description="Text search in title and ingredients"),
 ):
     """
     Return recipe suggestions from the Gold layer.
 
-    Optional filters:
-    - `cuisine` — partial match against the cuisines field
-    - `diet`    — one of: vegetarian, vegan, glutenFree, dairyFree
-    - `max_minutes` — maximum preparation time
+    - `cuisine`      — partial match against cuisines field
+    - `diet`         — boolean columns (vegetarian, vegan, glutenFree, dairyFree)
+                       OR partial match against the diets text field (ketogenic, paleo, etc.)
+    - `max_minutes` / `maxReadyTime` — maximum preparation time (both accepted)
+    - `query`        — text search in title and ingredient_names
+    - `limit`        — default 50, max 200
 
-    Results are ranked by spoonacularScore descending.
+    Results sorted by spoonacularScore descending.
     """
     df = _load_recipes()
 
+    # Text search — title + ingredient names
+    if query:
+        q = query.lower()
+        mask = (
+            df["title"].str.lower().str.contains(q, na=False)
+            | df.get("ingredient_names", df["title"]).str.lower().str.contains(q, na=False)
+        )
+        df = df[mask]
+
+    # Cuisine filter
     if cuisine:
         df = df[df["cuisines"].str.lower().str.contains(cuisine.lower(), na=False)]
 
-    if diet and diet in df.columns:
-        df = df[df[diet] == True]
+    # Diet filter — try boolean column first, then text search in diets field
+    if diet:
+        # Map common frontend values to column names
+        _COL_MAP = {
+            "gluten free": "glutenFree",
+            "dairy free":  "dairyFree",
+            "gluten-free": "glutenFree",
+            "dairy-free":  "dairyFree",
+        }
+        col = _COL_MAP.get(diet.lower(), diet)
+        if col in df.columns:
+            df = df[df[col] == True]
+        elif "diets" in df.columns:
+            # Fallback: text search in the diets string column
+            df = df[df["diets"].str.lower().str.contains(diet.lower(), na=False)]
 
-    if max_minutes and "readyInMinutes" in df.columns:
+    # Time filter — accept both parameter names
+    minutes_limit = max_minutes or maxReadyTime
+    if minutes_limit and "readyInMinutes" in df.columns:
         df = df[df["readyInMinutes"].apply(
-            lambda x: isinstance(x, (int, float)) and x <= max_minutes
+            lambda x: isinstance(x, (int, float)) and x <= minutes_limit
         )]
 
     if "spoonacularScore" in df.columns:

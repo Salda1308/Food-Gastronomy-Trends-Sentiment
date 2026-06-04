@@ -6,7 +6,7 @@ from __future__ import annotations
 
 from fastapi import APIRouter, HTTPException
 
-from api.loader import load_storytelling, latest_partition_date
+from api.loader import load_storytelling, latest_partition_date, _read_parquet
 
 router = APIRouter()
 
@@ -35,40 +35,52 @@ def get_storytelling():
 @router.get("/sentiment")
 def get_sentiment():
     """
-    Return sentiment distribution (positive / neutral / negative counts and %)
-    plus the overall average compound score.
+    Return combined sentiment distribution (articles + OpenTable reviews) and avg compound score.
 
     Response shape:
     {
       "partition_date": "2026-05-27",
       "distribution": [
-        { "label": "positive", "count": 7, "percentage": 70.0 },
-        ...
+        { "label": "positive", "count": 45, "percentage": 72.0 },
+        { "label": "negative", "count": 12, "percentage": 19.0 },
+        { "label": "neutral",  "count": 6,  "percentage": 9.0  }
       ],
       "avg_compound_score": 0.312
     }
     """
     df = _story_df()
 
-    dist = (
-        df[(df["aggregation"] == "sentiment_distribution") & (df["metric"] == "count")]
-        [["dimension_value", "value"]]
-        .rename(columns={"dimension_value": "label", "value": "count"})
-    )
-    pct_rows = df[
-        (df["aggregation"] == "sentiment_distribution") & (df["metric"] == "percentage")
-    ][["dimension_value", "value"]].rename(columns={"dimension_value": "label", "value": "percentage"})
+    # Accumulate counts from BOTH article sentiment and OpenTable review sentiment
+    counts: dict[str, int] = {"positive": 0, "negative": 0, "neutral": 0}
+    avgs: list[float] = []
 
-    merged = dist.merge(pct_rows, on="label", how="left")
+    for agg_name in ("sentiment_distribution", "reviews_sentiment_distribution"):
+        count_rows = df[(df["aggregation"] == agg_name) & (df["metric"] == "count")]
+        for _, row in count_rows.iterrows():
+            lbl = str(row["dimension_value"]).lower()
+            if lbl in counts:
+                counts[lbl] += int(row["value"])
 
-    avg_row = df[
-        (df["aggregation"] == "sentiment_distribution") & (df["metric"] == "avg_compound_score")
+        avg_row = df[(df["aggregation"] == agg_name) & (df["metric"] == "avg_compound_score")]
+        if not avg_row.empty:
+            avgs.append(float(avg_row["value"].values[0]))
+
+    total = sum(counts.values())
+    distribution = [
+        {
+            "label":      lbl,
+            "count":      cnt,
+            "percentage": round(cnt / total * 100, 2) if total > 0 else 0.0,
+        }
+        for lbl, cnt in counts.items()
+        if total > 0  # skip empty labels only when there's no data at all
     ]
-    avg_score = float(avg_row["value"].values[0]) if not avg_row.empty else None
+
+    avg_score = round(sum(avgs) / len(avgs), 4) if avgs else None
 
     return {
-        "partition_date":    latest_partition_date(),
-        "distribution":      merged.to_dict(orient="records"),
+        "partition_date":     latest_partition_date(),
+        "distribution":       distribution,
         "avg_compound_score": avg_score,
     }
 
@@ -243,4 +255,59 @@ def get_narrative_summary():
         "pct_positive":   pct_positive,
         "recipe_count":   recipe_count,
         "top_diet":       top_diet,
+    }
+
+
+@router.get("/sources")
+def get_sources():
+    """
+    Return article and review counts with their titles/links for the data page.
+
+    Response shape:
+    {
+      "articles": { "count": 10, "items": [{"title": "...", "url": "...", "published_date": "..."}] },
+      "reviews":  { "count": 173, "by_restaurant": [{"restaurant": "...", "count": 50}] }
+    }
+    """
+    articles_items = []
+    reviews_by_restaurant = []
+    reviews_count = 0
+
+    try:
+        art = _read_parquet("gold_articles_*.parquet")
+        cols = [c for c in ("article_title", "article_url", "published_date", "source", "author") if c in art.columns]
+        for _, row in art[cols].dropna(subset=["article_url"]).iterrows():
+            articles_items.append({
+                "title":          str(row.get("article_title", "")) or "Untitled",
+                "url":            str(row.get("article_url",   "")),
+                "published_date": str(row.get("published_date", ""))[:10],
+                "source":         str(row.get("source", "Eater NY")),
+            })
+    except Exception:
+        pass
+
+    try:
+        rev = _read_parquet("gold_reviews_*.parquet")
+        reviews_count = len(rev)
+        if "restaurant_slug" in rev.columns:
+            for slug, grp in rev.groupby("restaurant_slug"):
+                reviews_by_restaurant.append({
+                    "restaurant": str(slug).replace("-", " ").title(),
+                    "slug":       str(slug),
+                    "count":      len(grp),
+                })
+            reviews_by_restaurant.sort(key=lambda x: x["count"], reverse=True)
+    except Exception:
+        pass
+
+    return {
+        "partition_date": latest_partition_date(),
+        "articles": {
+            "count": len(articles_items),
+            "items": sorted(articles_items, key=lambda x: x["published_date"], reverse=True),
+        },
+        "reviews": {
+            "count":           reviews_count,
+            "by_restaurant":   reviews_by_restaurant,
+        },
     }
