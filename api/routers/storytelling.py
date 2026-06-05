@@ -132,30 +132,48 @@ def get_keywords(limit: int = 15):
 @router.get("/trend")
 def get_sentiment_trend():
     """
-    Return average sentiment score per week over time.
+    Return sentiment breakdown per week over time.
 
     Response shape:
     {
       "partition_date": "2026-05-27",
       "trend": [
-        { "week": "2026-05-20", "avg_sentiment": 0.31, "article_count": 8 },
+        {
+          "week": "2026-05-20",
+          "avg_sentiment": 0.31,
+          "article_count": 8,
+          "positive_pct": 72.5,
+          "negative_pct": 12.5,
+          "neutral_pct": 15.0
+        },
         ...
       ]
     }
     """
     df = _story_df()
+    st = df[df["aggregation"] == "sentiment_trend"]
 
-    rows = df[(df["aggregation"] == "sentiment_trend") & (df["metric"] == "avg_sentiment")]
-    counts = df[(df["aggregation"] == "sentiment_trend") & (df["metric"] == "article_count")]
-    count_map = dict(zip(counts["dimension_value"], counts["value"].astype(int)))
+    def _metric_map(metric: str) -> dict:
+        rows = st[st["metric"] == metric]
+        return dict(zip(rows["dimension_value"], rows["value"]))
 
+    avg_map  = _metric_map("avg_sentiment")
+    cnt_map  = _metric_map("article_count")
+    pos_map  = _metric_map("positive_pct")
+    neg_map  = _metric_map("negative_pct")
+    neu_map  = _metric_map("neutral_pct")
+
+    weeks = sorted(avg_map.keys())
     trend = [
         {
-            "week":          str(row["dimension_value"])[:10],
-            "avg_sentiment": float(row["value"]),
-            "article_count": count_map.get(row["dimension_value"], 0),
+            "week":          str(w)[:10],
+            "avg_sentiment": float(avg_map[w]),
+            "article_count": int(cnt_map.get(w, 0)),
+            "positive_pct":  float(pos_map.get(w, 0.0)),
+            "negative_pct":  float(neg_map.get(w, 0.0)),
+            "neutral_pct":   float(neu_map.get(w, 0.0)),
         }
-        for _, row in rows.sort_values("dimension_value").iterrows()
+        for w in weeks
     ]
 
     return {

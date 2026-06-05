@@ -21,7 +21,7 @@ default_args = {
 @dag(
     dag_id="bronze_ingestion_pipeline",
     default_args=default_args,
-    schedule_interval=None,
+    schedule_interval="@daily",
     start_date=datetime(2024, 1, 1),
     catchup=False,
     is_paused_upon_creation=True,

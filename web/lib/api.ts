@@ -32,6 +32,10 @@ export interface KeywordItem {
 export interface TrendPoint {
   week: string
   avg_sentiment: number
+  article_count: number
+  positive_pct: number
+  negative_pct: number
+  neutral_pct: number
 }
 
 export interface EntityItem {
@@ -141,7 +145,14 @@ export async function getKeywords(limit = 15): Promise<KeywordItem[]> {
 export async function getTrend(): Promise<TrendPoint[]> {
   const raw = await apiFetch<ApiRecord>("/api/storytelling/trend", { cache: "no-store" })
   const trend = Array.isArray(raw.trend) ? (raw.trend as ApiRecord[]) : []
-  return trend.map((t) => ({ week: s(t.week), avg_sentiment: n(t.avg_sentiment) }))
+  return trend.map((t) => ({
+    week:          s(t.week),
+    avg_sentiment: n(t.avg_sentiment),
+    article_count: n(t.article_count),
+    positive_pct:  n(t.positive_pct),
+    negative_pct:  n(t.negative_pct),
+    neutral_pct:   n(t.neutral_pct),
+  }))
 }
 
 export async function getEntities(): Promise<EntityItem[]> {

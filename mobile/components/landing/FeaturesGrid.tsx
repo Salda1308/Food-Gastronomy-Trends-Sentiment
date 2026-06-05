@@ -3,9 +3,9 @@ import { View, Text, StyleSheet } from "react-native";
 import { colors, fonts, shadows } from "@/components/ui/tokens";
 
 const FEATURES = [
-  { tag: "NLP", title: "Sentiment\nAnalysis", desc: "VADER scores every Eater NY article daily." },
-  { tag: "DATA", title: "Trend\nKeywords", desc: "TF-IDF extracts what the city is talking about." },
-  { tag: "RECS", title: "Recipe\nMatching", desc: "Spoonacular recipes aligned to trending keywords." },
+  { tag: "NLP",  title: "SENTIMENT\nANALYSIS", desc: "VADER scores every Eater NY article daily." },
+  { tag: "DATA", title: "TREND\nKEYWORDS",   desc: "TF-IDF extracts what the city is talking about." },
+  { tag: "RECS", title: "RECIPE\nMATCHING",  desc: "Spoonacular recipes aligned to trending keywords." },
 ];
 
 export function FeaturesGrid() {

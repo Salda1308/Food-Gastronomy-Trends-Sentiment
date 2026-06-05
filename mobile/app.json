@@ -26,6 +26,14 @@
       "expo-router",
       "expo-secure-store",
       [
+        "expo-notifications",
+        {
+          "icon": "./assets/icon.png",
+          "color": "#f5c518",
+          "sounds": []
+        }
+      ],
+      [
         "expo-font",
         {
           "fonts": [

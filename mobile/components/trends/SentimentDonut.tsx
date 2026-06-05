@@ -26,7 +26,7 @@ export function SentimentDonut({ data }: { data: SentimentData }) {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.label}>How diners &amp; media feel about NYC food</Text>
+      <Text style={styles.label}>HOW DINERS & MEDIA FEEL ABOUT NYC FOOD</Text>
       <Text style={styles.interpretation}>{interpretationText(data.positive)}</Text>
 
       <View style={styles.chartWrap}>
@@ -36,10 +36,11 @@ export function SentimentDonut({ data }: { data: SentimentData }) {
           innerRadius={52}
           radius={72}
           showText={false}
+          innerCircleColor={colors.poster}
           centerLabelComponent={() => (
             <View style={{ alignItems: "center" }}>
               <Text style={styles.center}>{data.positive.toFixed(0)}%</Text>
-              <Text style={styles.centerSub}>positive</Text>
+              <Text style={styles.centerSub}>POSITIVE</Text>
             </View>
           )}
         />

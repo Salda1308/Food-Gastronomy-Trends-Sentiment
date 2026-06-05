@@ -6,8 +6,11 @@ import * as SecureStore from "expo-secure-store";
 import { colors, fonts, shadows } from "@/components/ui/tokens";
 import { useAuth } from "@/hooks/useAuth";
 
-const IS_DEV = process.env.EXPO_PUBLIC_API_URL?.includes("192.168") ||
-               process.env.EXPO_PUBLIC_API_URL?.includes("localhost");
+const url = process.env.EXPO_PUBLIC_API_URL ?? "";
+const IS_DEV = url.includes("localhost") ||
+               url.includes("192.168") ||
+               url.includes("10.") ||
+               url.includes("172.");
 
 export default function LoginScreen() {
   const { signIn, loading, request } = useAuth();

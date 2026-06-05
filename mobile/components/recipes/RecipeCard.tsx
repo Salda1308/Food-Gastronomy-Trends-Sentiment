@@ -29,7 +29,6 @@ export function RecipeCard({ recipe, isSaved, onSave }: RecipeCardProps) {
     recipe.image ?? `https://picsum.photos/seed/food-${recipe.id}/400/280`;
 
   const handleSave = () => {
-    if (isSaved) return;
     setPulse(true);
     setTimeout(() => setPulse(false), 320);
     onSave(recipe);
@@ -140,6 +139,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     color: colors.chalk,
     lineHeight: 22,
+    textTransform: "uppercase",
     textShadowColor: "rgba(0,0,0,0.6)",
     textShadowOffset: { width: 1, height: 2 },
     textShadowRadius: 0,

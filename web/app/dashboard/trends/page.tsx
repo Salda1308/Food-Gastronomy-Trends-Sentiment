@@ -149,8 +149,8 @@ export default async function TrendsPage() {
                     className="bg-poster"
                     style={{ boxShadow: "var(--shadow-poster)", borderRadius: 2, padding: "20px 22px" }}
                   >
-                    <p className="mb-3 font-stencil text-[13px] tracking-[0.16em] text-neon uppercase" style={{ textShadow: "0 0 8px rgba(245,197,24,.4)" }}>
-                      Mood over time · 7-day trend
+                    <p className="mb-3 font-stencil text-[13px] tracking-[0.16em] text-chalk uppercase">
+                      Sentiment breakdown · week by week
                     </p>
                     <TrendLine data={trendData} />
                   </div>

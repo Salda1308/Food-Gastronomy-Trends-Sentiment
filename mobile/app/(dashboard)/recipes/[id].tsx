@@ -208,6 +208,7 @@ const styles = StyleSheet.create({
     fontSize: 28,
     color: colors.chalk,
     lineHeight: 30,
+    textTransform: "uppercase",
     textShadowColor: "rgba(0,0,0,0.6)",
     textShadowOffset: { width: 1, height: 2 },
     textShadowRadius: 0,

@@ -10,12 +10,12 @@ import { EntityTable } from "@/components/trends/EntityTable";
 import { colors, fonts, shadows } from "@/components/ui/tokens";
 
 function moodLabel(compound: number | null | undefined): { text: string; color: string } {
-  if (compound == null) return { text: "No data",      color: colors.smoke };
-  if (compound >= 0.5)  return { text: "Very Positive", color: colors.chalk };
-  if (compound >= 0.2)  return { text: "Positive",      color: colors.neon };
-  if (compound >= -0.2) return { text: "Mixed",          color: colors.smoke };
-  if (compound >= -0.5) return { text: "Negative",       color: colors.heat };
-  return                       { text: "Very Negative",  color: colors.heat };
+  if (compound == null) return { text: "NO DATA",       color: colors.smoke };
+  if (compound >= 0.5)  return { text: "VERY POSITIVE", color: colors.chalk };
+  if (compound >= 0.2)  return { text: "POSITIVE",      color: colors.neon };
+  if (compound >= -0.2) return { text: "MIXED",         color: colors.smoke };
+  if (compound >= -0.5) return { text: "NEGATIVE",      color: colors.heat };
+  return                       { text: "VERY NEGATIVE", color: colors.heat };
 }
 
 export default function TrendsScreen() {
@@ -91,7 +91,7 @@ export default function TrendsScreen() {
               <Text style={[styles.moodLabel, { color: mood.color }]}>
                 {mood.text}
               </Text>
-              <Text style={styles.bigNumberLabel}>overall mood</Text>
+              <Text style={styles.bigNumberLabel}>OVERALL MOOD</Text>
             </View>
           </View>
         </View>

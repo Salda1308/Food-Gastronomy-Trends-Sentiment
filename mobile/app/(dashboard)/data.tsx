@@ -29,25 +29,25 @@ export default function DataScreen() {
 
   const kpiItems = kpis.data ? [
     {
-      label:    "Records collected",
+      label:    "RECORDS COLLECTED",
       sublabel: "Total recipes + articles processed",
       value:    kpis.data.total_records?.toLocaleString() ?? "—",
       bad: false,
     },
     {
-      label:    "Missing data",
+      label:    "MISSING DATA",
       sublabel: "Fields with null values",
       value:    `${kpis.data.max_null_rate?.toFixed(1) ?? "—"}%`,
       bad: flagged(kpis.data.max_null_rate, 20, "above"),
     },
     {
-      label:    "Data quality",
+      label:    "DATA QUALITY",
       sublabel: "Records passing schema checks",
       value:    `${kpis.data.schema_compliance?.toFixed(1) ?? "—"}%`,
       bad: flagged(kpis.data.schema_compliance, 90, "below"),
     },
     {
-      label:    "Duplicates",
+      label:    "DUPLICATES",
       sublabel: "Repeated entries removed",
       value:    `${kpis.data.duplicate_rate?.toFixed(1) ?? "—"}%`,
       bad: flagged(kpis.data.duplicate_rate, 5, "above"),
@@ -68,7 +68,7 @@ export default function DataScreen() {
       >
         <View style={styles.header}>
           <Text style={styles.eyebrow}>Bronze → Silver → Gold pipeline · Apache Airflow</Text>
-          <Text style={styles.heading}>The line.</Text>
+          <Text style={styles.heading}>THE LINE.</Text>
         </View>
 
         {loading && !kpis.data ? (
@@ -87,7 +87,7 @@ export default function DataScreen() {
 
             {/* Pipeline layers */}
             <View style={[styles.card, { padding: 16 }]}>
-              <Text style={styles.cardLabel}>How the pipeline works</Text>
+              <Text style={styles.cardLabel}>HOW THE PIPELINE WORKS</Text>
               {layers.map((l, i) => (
                 <View key={l.name}>
                   <View style={styles.layerRow}>
@@ -106,7 +106,7 @@ export default function DataScreen() {
                 <View style={styles.sourceHeader}>
                   <Text style={styles.sourceCount}>{sources.data.articles.count}</Text>
                   <View>
-                    <Text style={styles.sourceTitle}>Articles collected</Text>
+                    <Text style={styles.sourceTitle}>ARTICLES COLLECTED</Text>
                     <Text style={styles.sourceSubtitle}>Eater NY — food & restaurant news</Text>
                   </View>
                 </View>
@@ -132,7 +132,7 @@ export default function DataScreen() {
                 <View style={styles.sourceHeader}>
                   <Text style={styles.sourceCount}>{sources.data.reviews.count}</Text>
                   <View>
-                    <Text style={styles.sourceTitle}>Reviews collected</Text>
+                    <Text style={styles.sourceTitle}>REVIEWS COLLECTED</Text>
                     <Text style={styles.sourceSubtitle}>OpenTable — real diner reviews</Text>
                   </View>
                 </View>

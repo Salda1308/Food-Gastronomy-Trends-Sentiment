@@ -10,7 +10,7 @@ export function TrendLine({ data }: { data: TrendPoint[] }) {
   if (!data.length) {
     return (
       <View style={styles.container}>
-        <Text style={styles.label}>Mood over time · 7-day trend</Text>
+        <Text style={styles.label}>MOOD OVER TIME · 7-DAY TREND</Text>
         <Text style={styles.empty}>No trend data available yet.</Text>
       </View>
     );
@@ -18,12 +18,12 @@ export function TrendLine({ data }: { data: TrendPoint[] }) {
 
   if (data.length === 1) {
     const score = data[0].avg_sentiment;
-    const moodText = score >= 0.2 ? "Positive" : score <= -0.2 ? "Negative" : "Mixed";
+    const moodText = score >= 0.2 ? "POSITIVE" : score <= -0.2 ? "NEGATIVE" : "MIXED";
     const moodColor = score >= 0.2 ? colors.chalk : score <= -0.2 ? colors.heat : colors.smoke;
     return (
       <View style={styles.container}>
-        <Text style={styles.label}>Mood over time · 7-day trend</Text>
-        <Text style={styles.singleWeek}>Week of {data[0].week}</Text>
+        <Text style={styles.label}>MOOD OVER TIME · 7-DAY TREND</Text>
+        <Text style={styles.singleWeek}>WEEK OF {data[0].week}</Text>
         <Text style={[styles.singleMood, { color: moodColor }]}>{moodText}</Text>
         <Text style={styles.singleHint}>Run the pipeline daily to build the trend over time.</Text>
       </View>
@@ -37,7 +37,7 @@ export function TrendLine({ data }: { data: TrendPoint[] }) {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.label}>Mood over time · 7-day trend</Text>
+      <Text style={styles.label}>MOOD OVER TIME · 7-DAY TREND</Text>
       <LineChart
         data={chartData}
         width={width - 80}

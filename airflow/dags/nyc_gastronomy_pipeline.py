@@ -37,7 +37,7 @@ default_args = {
 @dag(
     dag_id="nyc_gastronomy_pipeline",
     default_args=default_args,
-    schedule_interval=None,   # solo manual — evita re-ejecuciones automáticas
+    schedule_interval="@daily",
     start_date=datetime(2024, 1, 1),
     catchup=False,
     max_active_runs=1,
@@ -108,6 +108,19 @@ def nyc_gastronomy_pipeline():
 
     # ── Phase 4 · Post-process ────────────────────────────────────────────────
     @task()
+    def notify_mobile() -> str:
+        import httpx, os
+        api = os.environ.get("GASTRONOMY_API_URL", "http://gastronomy-api:8000")
+        try:
+            r = httpx.post(f"{api}/api/notify/pipeline", json={
+                "dag_id": "nyc_gastronomy_pipeline",
+                "message": "Fresh NYC food data is ready. Open the app to explore the latest trends.",
+            }, timeout=10)
+            return f"Notification sent — status {r.status_code}"
+        except Exception as exc:
+            return f"Notification skipped: {exc}"
+
+    @task()
     def upload_gold_to_s3() -> str:
         import os
         if not os.environ.get("AWS_S3_BUCKET"):
@@ -140,9 +153,9 @@ def nyc_gastronomy_pipeline():
     t6  = prepare_gold()
     t7  = upload_gold_to_s3()
     t8  = cleanup_old_partitions()
+    t9  = notify_mobile()
 
-    # Serie completa — cada fuente termina antes de pasar a la siguiente
-    t1a >> t2a >> t1b >> t2b >> t3 >> t4 >> t5 >> t6 >> t7 >> t8
+    t1a >> t2a >> t1b >> t2b >> t3 >> t4 >> t5 >> t6 >> t7 >> t8 >> t9
 
 
 dag_instance = nyc_gastronomy_pipeline()

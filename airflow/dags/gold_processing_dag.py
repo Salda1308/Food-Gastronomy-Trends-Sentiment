@@ -81,7 +81,20 @@ def gold_processing_dag():
         main()
         return "Storytelling summary written"
 
-    wait_for_silver >> spark_gold_transform() >> compute_governance() >> compute_storytelling()
+    @task()
+    def notify_mobile() -> str:
+        import httpx, os
+        api = os.environ.get("GASTRONOMY_API_URL", "http://gastronomy-api:8000")
+        try:
+            r = httpx.post(f"{api}/api/notify/pipeline", json={
+                "dag_id": "gold_processing_pipeline",
+                "message": "NYC food trends updated. Check the latest sentiment and keyword data.",
+            }, timeout=10)
+            return f"Notification sent — status {r.status_code}"
+        except Exception as exc:
+            return f"Notification skipped: {exc}"
+
+    wait_for_silver >> spark_gold_transform() >> compute_governance() >> compute_storytelling() >> notify_mobile()
 
 
 dag_instance = gold_processing_dag()

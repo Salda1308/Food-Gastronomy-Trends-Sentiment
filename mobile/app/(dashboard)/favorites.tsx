@@ -59,7 +59,7 @@ export default function FavoritesScreen() {
         <Text style={styles.eyebrow}>YOUR COLLECTION</Text>
         <View style={styles.heroRow}>
           <Text style={styles.heading}>
-            Saved <Text style={{ color: colors.neon }}>plates.</Text>
+            SAVED <Text style={{ color: colors.neon }}>PLATES.</Text>
           </Text>
           <View>
             <Text style={styles.count}>{loading ? "—" : favorites.length}</Text>
@@ -89,7 +89,7 @@ export default function FavoritesScreen() {
           !loading ? (
             <View style={styles.empty}>
               <Text style={styles.emptyHeart}>♡</Text>
-              <Text style={styles.emptyTitle}>Nothing saved yet</Text>
+              <Text style={styles.emptyTitle}>NOTHING SAVED YET</Text>
               <Text style={styles.emptyBody}>
                 Tap the heart on any plate to keep it here.
               </Text>

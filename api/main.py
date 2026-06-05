@@ -12,7 +12,7 @@ from __future__ import annotations
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from api.routers import governance, storytelling, recommendations
+from api.routers import governance, storytelling, recommendations, notifications
 
 app = FastAPI(
     title="Empire's Taste API",
@@ -25,13 +25,14 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
-    allow_methods=["GET"],
+    allow_methods=["GET", "POST"],
     allow_headers=["*"],
 )
 
 app.include_router(governance.router,       prefix="/api/governance",       tags=["Governance"])
 app.include_router(storytelling.router,    prefix="/api/storytelling",    tags=["Storytelling"])
 app.include_router(recommendations.router, prefix="/api/recommendations", tags=["Recommendations"])
+app.include_router(notifications.router,   prefix="/api/notify",          tags=["Notifications"])
 
 
 @app.get("/health", tags=["Health"])

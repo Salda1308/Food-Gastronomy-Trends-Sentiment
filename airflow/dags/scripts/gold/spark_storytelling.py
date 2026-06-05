@@ -161,17 +161,27 @@ def agg_sentiment_trend(df, ts, results):
         .agg(
             F.avg("compound_score").alias("avg_sentiment"),
             F.count("*").alias("article_count"),
+            F.sum(F.when(F.col("sentiment_label") == "positive", 1).otherwise(0)).alias("positive_count"),
+            F.sum(F.when(F.col("sentiment_label") == "negative", 1).otherwise(0)).alias("negative_count"),
+            F.sum(F.when(F.col("sentiment_label") == "neutral",  1).otherwise(0)).alias("neutral_count"),
         )
         .orderBy("week")
         .collect()
     )
     for row in rows:
-        w = str(row["week"])
+        w     = str(row["week"])
+        total = row["article_count"] or 1
         results.append(_row("sentiment_trend", "temporal", "week", w,
                             "avg_sentiment",  round(float(row["avg_sentiment"] or 0), 4),
                             f"{row['article_count']} articles", ts))
         results.append(_row("sentiment_trend", "temporal", "week", w,
                             "article_count", row["article_count"], w, ts))
+        results.append(_row("sentiment_trend", "temporal", "week", w,
+                            "positive_pct", round(row["positive_count"] / total * 100, 1), w, ts))
+        results.append(_row("sentiment_trend", "temporal", "week", w,
+                            "negative_pct", round(row["negative_count"] / total * 100, 1), w, ts))
+        results.append(_row("sentiment_trend", "temporal", "week", w,
+                            "neutral_pct",  round(row["neutral_count"]  / total * 100, 1), w, ts))
 
 
 # ── Aggregation 3: Top keywords ───────────────────────────────────────────────

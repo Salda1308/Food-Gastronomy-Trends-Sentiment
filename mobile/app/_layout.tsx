@@ -8,6 +8,7 @@ import { StatusBar } from "expo-status-bar";
 import { GestureHandlerRootView } from "react-native-gesture-handler";
 import * as SecureStore from "expo-secure-store";
 import * as WebBrowser from "expo-web-browser";
+import { useDataUpdateAlert } from "@/hooks/useDataUpdateAlert";
 
 // Intercepts OAuth redirects before Expo Router tries to render them as pages
 WebBrowser.maybeCompleteAuthSession();
@@ -17,6 +18,7 @@ SplashScreen.preventAutoHideAsync();
 export default function RootLayout() {
   const router   = useRouter();
   const segments = useSegments();
+  useDataUpdateAlert();
   const [authChecked, setAuthChecked] = useState(false);
   const [isLoggedIn, setIsLoggedIn]   = useState(false);
 

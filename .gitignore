@@ -104,3 +104,11 @@ test_opentable.py
 # Large local files
 *.tar.gz
 *.zip
+
+# Datalake partitions (generated data — not for version control)
+datalake_bronze/
+datalake_silver/
+datalake_gold/
+
+# Mobile env
+mobile/.env

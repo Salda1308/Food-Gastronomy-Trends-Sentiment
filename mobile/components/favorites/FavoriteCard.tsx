@@ -37,7 +37,7 @@ export function FavoriteCard({ item, onRemove }: FavoriteCardProps) {
         <Text style={styles.title} numberOfLines={2}>
           {item.recipeTitle}
         </Text>
-        <Text style={styles.date}>Saved {savedDate}</Text>
+        <Text style={styles.date}>SAVED {savedDate}</Text>
       </View>
       <TouchableOpacity
         style={styles.removeBtn}
@@ -67,6 +67,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     color: colors.chalk,
     lineHeight: 18,
+    textTransform: "uppercase",
   },
   date: {
     fontFamily: fonts.bebas,

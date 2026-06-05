@@ -42,7 +42,7 @@ export function HeroSection() {
       </View>
 
       <View style={{ alignItems: "center" }}>
-        <Text style={styles.sub}>Empire's</Text>
+        <Text style={styles.sub}>EMPIRE'S</Text>
         <View>
           <Text style={styles.title}>TASTE.</Text>
           <Animated.Text

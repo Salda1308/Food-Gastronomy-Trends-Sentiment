@@ -83,7 +83,7 @@ export default function RecipesScreen() {
       <View style={{ flex: 1 }}>
         <View style={styles.header}>
           <Text style={styles.eyebrow}>WHAT'S WORTH COOKING</Text>
-          <Text style={styles.heading}>On the menu</Text>
+          <Text style={styles.heading}>ON THE MENU</Text>
         </View>
 
         {loading ? (
